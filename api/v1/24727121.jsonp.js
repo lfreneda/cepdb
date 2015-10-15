@@ -1,0 +1,1 @@
+jsonp({"cep":"24727121","logradouro":"Rua Z\u00e9lia T. M. Duque Estrada","bairro":"Marambaia","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

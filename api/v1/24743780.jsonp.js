@@ -1,0 +1,1 @@
+jsonp({"cep":"24743780","logradouro":"Rua Arino S\u00e1 Leit\u00e3o","bairro":"J\u00f3quei Clube","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

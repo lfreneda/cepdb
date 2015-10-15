@@ -1,0 +1,1 @@
+jsonp({"cep":"24750140","logradouro":"Rua Bar\u00e3o de Santo \u00c2ngelo","bairro":"Tribob\u00f3","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

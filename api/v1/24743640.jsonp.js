@@ -1,0 +1,1 @@
+jsonp({"cep":"24743640","logradouro":"Rua Alceb\u00edades Caldeiras","bairro":"J\u00f3quei Clube","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

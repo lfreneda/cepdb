@@ -1,0 +1,1 @@
+jsonp({"cep":"24746110","logradouro":"Rua Miguel Sim\u00f5es de Souza","bairro":"Coelho","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});
