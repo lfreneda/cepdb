@@ -1,0 +1,1 @@
+jsonp({"cep":"66023150","logradouro":"Travessa de Breves","bairro":"Cidade Velha","cidade":"Bel\u00e9m","uf":"PA","estado":"Par\u00e1"});
