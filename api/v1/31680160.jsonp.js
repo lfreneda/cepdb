@@ -1,0 +1,1 @@
+jsonp({"cep":"31680160","logradouro":"Rua M\u00e1rio Pinto Corr\u00eaa","bairro":"Maria Helena","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});
