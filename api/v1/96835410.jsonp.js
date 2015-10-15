@@ -1,0 +1,1 @@
+jsonp({"cep":"96835410","logradouro":"Rua Germano Becker","bairro":"Esmeralda","cidade":"Santa Cruz do Sul","uf":"RS","estado":"Rio Grande do Sul"});

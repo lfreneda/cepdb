@@ -1,0 +1,1 @@
+jsonp({"cep":"96840810","logradouro":"Rua Hor\u00e1cio da Veiga","bairro":"Faxinal Menino Deus","cidade":"Santa Cruz do Sul","uf":"RS","estado":"Rio Grande do Sul"});

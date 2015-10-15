@@ -1,0 +1,1 @@
+jsonp({"cep":"96843400","logradouro":"Rodovia BR-471","bairro":"Santu\u00e1rio","cidade":"Santa Cruz do Sul","uf":"RS","estado":"Rio Grande do Sul"});
