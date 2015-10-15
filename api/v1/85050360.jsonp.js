@@ -1,0 +1,1 @@
+jsonp({"cep":"85050360","logradouro":"Rua Ant\u00f4nio Dias Adorno","bairro":"Primavera","cidade":"Guarapuava","uf":"PR","estado":"Paran\u00e1"});

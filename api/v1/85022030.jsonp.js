@@ -1,0 +1,1 @@
+jsonp({"cep":"85022030","logradouro":"Rua Nicanor Alves de G\u00f3es","bairro":"Boqueir\u00e3o","cidade":"Guarapuava","uf":"PR","estado":"Paran\u00e1"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"85301230","logradouro":"Rua Capit\u00e3o Ant\u00f4nio Joaquim de Camargo","bairro":"Centro","cidade":"Laranjeiras do Sul","uf":"PR","estado":"Paran\u00e1"});

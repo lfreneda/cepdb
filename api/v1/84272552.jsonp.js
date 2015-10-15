@@ -1,0 +1,1 @@
+jsonp({"cep":"84272552","logradouro":"Rua Gua\u00edra","bairro":"Jardim It\u00e1lia","cidade":"Tel\u00eamaco Borba","uf":"PR","estado":"Paran\u00e1"});
