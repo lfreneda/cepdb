@@ -1,0 +1,1 @@
+jsonp({"cep":"88357001","logradouro":"Rua PF - 006","bairro":"Po\u00e7o Fundo","cidade":"Brusque","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"88504216","logradouro":"Rua F\u00falvio Aducci","bairro":"Copacabana","cidade":"Lages","uf":"SC","estado":"Santa Catarina"});
