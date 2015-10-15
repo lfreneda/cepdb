@@ -1,0 +1,1 @@
+jsonp({"cep":"72225234","logradouro":"Quadra QNN 23 Conjunto D","bairro":"Ceil\u00e2ndia Norte (Ceil\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

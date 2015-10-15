@@ -1,0 +1,1 @@
+jsonp({"cep":"72243216","logradouro":"Quadra Residencial das Ac\u00e1ssias Quadra H","bairro":"Setor Habitacional Sol Nascente (Ceil\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"72238235","logradouro":"Quadra SHPS Quadra 402 Conjunto D","bairro":"Setor Habitacional P\u00f4r do Sol (Ceil\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

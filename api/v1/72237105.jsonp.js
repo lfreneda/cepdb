@@ -1,0 +1,1 @@
+jsonp({"cep":"72237105","logradouro":"\u00c1rea ADE Quadra 1 \u00c1rea Especial 1","bairro":"\u00c1rea de Desenvolvimento Econ\u00f4mico (Ceil\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

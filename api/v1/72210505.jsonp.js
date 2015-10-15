@@ -1,0 +1,1 @@
+jsonp({"cep":"72210505","logradouro":"Quadra CNM 2 Bloco E","bairro":"Ceil\u00e2ndia Centro (Ceil\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
