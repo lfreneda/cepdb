@@ -1,0 +1,1 @@
+jsonp({"cep":"94416635","logradouro":"Rua K","bairro":"Jardim Viamar","cidade":"Viam\u00e3o","uf":"RS","estado":"Rio Grande do Sul"});

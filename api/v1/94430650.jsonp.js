@@ -1,0 +1,1 @@
+jsonp({"cep":"94430650","logradouro":"Rua V\u00e9u-de-Noiva","bairro":"Sitio S\u00e3o Jos\u00e9","cidade":"Viam\u00e3o","uf":"RS","estado":"Rio Grande do Sul"});
