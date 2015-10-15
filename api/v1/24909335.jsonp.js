@@ -1,0 +1,1 @@
+jsonp({"cep":"24909335","logradouro":"Rua das Gar\u00e7as","bairro":"Pilar","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"24908665","logradouro":"Rua Oz\u00f3rio Jos\u00e9 da Matta","bairro":"Ubatiba","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});
