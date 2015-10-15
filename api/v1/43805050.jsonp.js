@@ -1,0 +1,1 @@
+jsonp({"cep":"43805050","logradouro":"Travessa S\u00e3o L\u00e1zaro","bairro":"Centro","cidade":"Candeias","uf":"BA","estado":"Bahia"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"44022072","logradouro":"Rua Pedro \u00c1lvares Cabral","bairro":"Cruzeiro","cidade":"Feira de Santana","uf":"BA","estado":"Bahia"});
