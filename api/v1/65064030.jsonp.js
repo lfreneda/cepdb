@@ -1,0 +1,1 @@
+jsonp({"cep":"65064030","logradouro":"Recanto Planalto","bairro":"Aurora","cidade":"S\u00e3o Lu\u00eds","uf":"MA","estado":"Maranh\u00e3o"});

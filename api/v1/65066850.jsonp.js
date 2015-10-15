@@ -1,0 +1,1 @@
+jsonp({"cep":"65066850","logradouro":"Rua General Artur Carvalho","bairro":"Ch\u00e1cara Brasil","cidade":"S\u00e3o Lu\u00eds","uf":"MA","estado":"Maranh\u00e3o"});
