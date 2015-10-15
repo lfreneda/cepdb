@@ -1,0 +1,1 @@
+jsonp({"cep":"13564817","logradouro":"Avenida Doutor Edvaldo Jos\u00e9 Donato de Assis","bairro":"Loteamento Arac\u00ea de Santo Antonio I","cidade":"S\u00e3o Carlos","uf":"SP","estado":"S\u00e3o Paulo"});

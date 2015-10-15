@@ -1,0 +1,1 @@
+jsonp({"cep":"13562521","logradouro":"Rua Concei\u00e7\u00e3o de Toledo Pizza Zambel","bairro":"Residencial Monsenhor Romeu Tortorelli","cidade":"S\u00e3o Carlos","uf":"SP","estado":"S\u00e3o Paulo"});

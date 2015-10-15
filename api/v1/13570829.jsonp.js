@@ -1,0 +1,1 @@
+jsonp({"cep":"13570829","logradouro":"Avenida Ayrton Salvador Leopoldino Junior","bairro":"Conjunto Habitacional Waldomiro Lobbe Sobrinho","cidade":"S\u00e3o Carlos","uf":"SP","estado":"S\u00e3o Paulo"});
