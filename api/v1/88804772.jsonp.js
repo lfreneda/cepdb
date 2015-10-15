@@ -1,0 +1,1 @@
+jsonp({"cep":"88804772","logradouro":"Rua Jos\u00e9 Passos da Motta","bairro":"Jardim Ang\u00e9lica","cidade":"Crici\u00fama","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"88701624","logradouro":"Rua Maria C\u00e2ndida Matias Sebasti\u00e3o","bairro":"Centro","cidade":"Tubar\u00e3o","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"88706008","logradouro":"Rua Jo\u00e3o Olivio Machado","bairro":"S\u00e3o Clemente","cidade":"Tubar\u00e3o","uf":"SC","estado":"Santa Catarina"});

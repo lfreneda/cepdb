@@ -1,0 +1,1 @@
+jsonp({"cep":"88512150","logradouro":"Rua Luiz Canani","bairro":"Santo Ant\u00f4nio","cidade":"Lages","uf":"SC","estado":"Santa Catarina"});

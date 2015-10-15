@@ -1,0 +1,1 @@
+jsonp({"cep":"88708035","logradouro":"Rua Luiz Magalh\u00e3es de Medeiros","bairro":"Humait\u00e1 de Cima","cidade":"Tubar\u00e3o","uf":"SC","estado":"Santa Catarina"});

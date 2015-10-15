@@ -1,0 +1,1 @@
+jsonp({"cep":"88521495","logradouro":"Rua Abramo Ba\u00fa","bairro":"Guaruj\u00e1","cidade":"Lages","uf":"SC","estado":"Santa Catarina"});

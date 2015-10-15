@@ -1,0 +1,1 @@
+jsonp({"cep":"88701570","logradouro":"Rua D\u00e1rcio Pedro Eufr\u00e1sio Corr\u00eaa","bairro":"Santo Ant\u00f4nio de P\u00e1dua","cidade":"Tubar\u00e3o","uf":"SC","estado":"Santa Catarina"});

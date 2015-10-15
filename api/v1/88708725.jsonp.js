@@ -1,0 +1,1 @@
+jsonp({"cep":"88708725","logradouro":"Rua In\u00eas Mendes dos Santos","bairro":"S\u00e3o Martinho","cidade":"Tubar\u00e3o","uf":"SC","estado":"Santa Catarina"});

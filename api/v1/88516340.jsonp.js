@@ -1,0 +1,1 @@
+jsonp({"cep":"88516340","logradouro":"Rua Gr\u00eamio Atl\u00e9tico Guarani","bairro":"Santa M\u00f4nica","cidade":"Lages","uf":"SC","estado":"Santa Catarina"});

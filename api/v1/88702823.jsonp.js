@@ -1,0 +1,1 @@
+jsonp({"cep":"88702823","logradouro":"Rua Janu\u00e1rio Corr\u00eaa Koch","bairro":"S\u00e3o Jo\u00e3o (Margem Direita)","cidade":"Tubar\u00e3o","uf":"SC","estado":"Santa Catarina"});

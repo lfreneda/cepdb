@@ -1,0 +1,1 @@
+jsonp({"cep":"88520335","logradouro":"Rua Trinta e Um de Mar\u00e7o","bairro":"S\u00e3o Sebasti\u00e3o","cidade":"Lages","uf":"SC","estado":"Santa Catarina"});
