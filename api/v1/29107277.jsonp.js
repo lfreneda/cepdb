@@ -1,0 +1,1 @@
+jsonp({"cep":"29107277","logradouro":"Rua Jos\u00e9 Mauro Vasconcelos","bairro":"Vista da Penha","cidade":"Vila Velha","uf":"ES","estado":"Esp\u00edrito Santo"});

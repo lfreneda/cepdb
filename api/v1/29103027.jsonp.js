@@ -1,0 +1,1 @@
+jsonp({"cep":"29103027","logradouro":"Rua S\u00e3o Salvador","bairro":"Ara\u00e7\u00e1s","cidade":"Vila Velha","uf":"ES","estado":"Esp\u00edrito Santo"});

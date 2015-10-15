@@ -1,0 +1,1 @@
+jsonp({"cep":"29102564","logradouro":"Rua Quarenta e Um","bairro":"Praia das Gaivotas","cidade":"Vila Velha","uf":"ES","estado":"Esp\u00edrito Santo"});
