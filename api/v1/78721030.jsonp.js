@@ -1,0 +1,1 @@
+jsonp({"cep":"78721030","logradouro":"Rua Maria Berenice de Ara\u00fajo","bairro":"Jardim das Flores","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

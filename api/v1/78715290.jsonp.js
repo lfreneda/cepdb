@@ -1,0 +1,1 @@
+jsonp({"cep":"78715290","logradouro":"Rua Jos\u00e9 Barriga","bairro":"Jardim Santa F\u00e9","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"78715566","logradouro":"Rua Jos\u00e9 Inaldo da Silva","bairro":"N\u00facleo Habitacional Marechal Rondon","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"78715407","logradouro":"Avenida Vereador Ant\u00f4nio Louren\u00e7o Neto","bairro":"Nucleo Habitacional S\u00e3o Jos\u00e9 I","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

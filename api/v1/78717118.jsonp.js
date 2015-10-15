@@ -1,0 +1,1 @@
+jsonp({"cep":"78717118","logradouro":"Rua Tr\u00eas","bairro":"Residencial das Orqu\u00eddeas","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

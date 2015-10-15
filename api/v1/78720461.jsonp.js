@@ -1,0 +1,1 @@
+jsonp({"cep":"78720461","logradouro":"Rua dos Artistas","bairro":"Loteamento Vila Val\u00e9ria Cristina","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"78717724","logradouro":"Rua H\u00e9lio Augusto de Matos","bairro":"Conjunto Habitacional Jardim das Hort\u00eancias","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});

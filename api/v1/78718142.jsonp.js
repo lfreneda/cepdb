@@ -1,0 +1,1 @@
+jsonp({"cep":"78718142","logradouro":"Avenida Piau\u00ed","bairro":"Vila Duarte","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});
