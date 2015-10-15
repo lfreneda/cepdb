@@ -1,0 +1,1 @@
+jsonp({"cep":"35180140","logradouro":"Rua Cento e Vinte e Nove","bairro":"Santa Maria","cidade":"Tim\u00f3teo","uf":"MG","estado":"Minas Gerais"});

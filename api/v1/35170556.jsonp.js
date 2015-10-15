@@ -1,0 +1,1 @@
+jsonp({"cep":"35170556","logradouro":"Rua Seis","bairro":"Jos\u00e9 da Silva Brito","cidade":"Coronel Fabriciano","uf":"MG","estado":"Minas Gerais"});

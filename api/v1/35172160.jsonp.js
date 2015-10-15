@@ -1,0 +1,1 @@
+jsonp({"cep":"35172160","logradouro":"Rua Ant\u00f4nio Jo\u00e3o A. torres","bairro":"S\u00e3o Cristov\u00e3o","cidade":"Coronel Fabriciano","uf":"MG","estado":"Minas Gerais"});

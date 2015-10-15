@@ -1,0 +1,1 @@
+jsonp({"cep":"35180126","logradouro":"Rua Jos\u00e9 C\u00e2ncio de Oliveira","bairro":"Cruzeirinho","cidade":"Tim\u00f3teo","uf":"MG","estado":"Minas Gerais"});
