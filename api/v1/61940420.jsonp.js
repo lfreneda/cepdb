@@ -1,0 +1,1 @@
+jsonp({"cep":"61940420","logradouro":"Rua Jo\u00e3o Rodrigues Martins","bairro":"Parque Santa F\u00e9","cidade":"Maranguape","uf":"CE","estado":"Cear\u00e1"});

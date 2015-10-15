@@ -1,0 +1,1 @@
+jsonp({"cep":"61932635","logradouro":"Rua Nossa Senhora das Gra\u00e7as","bairro":"Paju\u00e7ara","cidade":"Maracana\u00fa","uf":"CE","estado":"Cear\u00e1"});
