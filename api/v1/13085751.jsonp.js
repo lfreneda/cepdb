@@ -1,0 +1,1 @@
+jsonp({"cep":"13085751","logradouro":"Rua Doutor Jos\u00e9 Ramos de Oliveira J\u00fanior","bairro":"Loteamento Ch\u00e1caras Vale das Gar\u00e7as","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

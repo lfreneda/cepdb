@@ -1,0 +1,1 @@
+jsonp({"cep":"13085550","logradouro":"Residencial Est\u00e2ncia Eud\u00f3xia","bairro":"Residencial Est\u00e2ncia Eud\u00f3xia (Bar\u00e3o Geraldo)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

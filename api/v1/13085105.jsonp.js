@@ -1,0 +1,1 @@
+jsonp({"cep":"13085105","logradouro":"Pra\u00e7a Professora Bras\u00edlia Valente Nascimento","bairro":"Loteamento Residencial Bar\u00e3o do Caf\u00e9","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

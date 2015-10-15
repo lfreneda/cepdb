@@ -1,0 +1,1 @@
+jsonp({"cep":"13084767","logradouro":"Rua Pl\u00ednio Aveniente","bairro":"Jardim Santa Genebra II (Bar\u00e3o Geraldo)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

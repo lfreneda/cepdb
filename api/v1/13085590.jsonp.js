@@ -1,0 +1,1 @@
+jsonp({"cep":"13085590","logradouro":"Condom\u00ednio Residencial Espa\u00e7o e Verde II","bairro":"Condom\u00ednio Residencial Espa\u00e7o Verde II","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});
