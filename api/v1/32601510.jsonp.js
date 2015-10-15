@@ -1,0 +1,1 @@
+jsonp({"cep":"32601510","logradouro":"Rua Concei\u00e7\u00e3o Paula da Mata","bairro":"Pingo D'\u00e1gua","cidade":"Betim","uf":"MG","estado":"Minas Gerais"});
