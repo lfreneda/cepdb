@@ -1,0 +1,1 @@
+jsonp({"cep":"89020006","logradouro":"Rua Sete de Setembro","bairro":"Garcia","cidade":"Blumenau","uf":"SC","estado":"Santa Catarina"});
