@@ -1,0 +1,1 @@
+jsonp({"cep":"83502260","logradouro":"Rua Jana\u00edna Virg\u00ednia Saldanha Machado","bairro":"Jardim Novo Horizonte da Cachoeira","cidade":"Almirante Tamandar\u00e9","uf":"PR","estado":"Paran\u00e1"});

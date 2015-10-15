@@ -1,0 +1,1 @@
+jsonp({"cep":"83402680","logradouro":"Rua Carlos Lu\u00edz Walt","bairro":"Ro\u00e7a Grande","cidade":"Colombo","uf":"PR","estado":"Paran\u00e1"});
