@@ -1,0 +1,1 @@
+jsonp({"cep":"38180210","logradouro":"Rua Jos\u00e9 \u00c2ngelo de Moura","bairro":"S\u00e3o Francisco","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

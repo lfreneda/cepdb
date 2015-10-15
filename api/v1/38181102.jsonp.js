@@ -1,0 +1,1 @@
+jsonp({"cep":"38181102","logradouro":"Rua Maria da Concei\u00e7\u00e3o Soares","bairro":"Salom\u00e3o Drumond","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

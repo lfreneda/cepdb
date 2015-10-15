@@ -1,0 +1,1 @@
+jsonp({"cep":"38073016","logradouro":"Rua Jos\u00e9 Inaj\u00e1 Morais Lorena","bairro":"Josa Bernardino I","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});

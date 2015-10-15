@@ -1,0 +1,1 @@
+jsonp({"cep":"38180320","logradouro":"Rua Jaguara","bairro":"Distrito Industrial Jos\u00e9 Honorato da Silva","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

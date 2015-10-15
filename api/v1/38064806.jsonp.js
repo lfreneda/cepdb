@@ -1,0 +1,1 @@
+jsonp({"cep":"38064806","logradouro":"Rua Jo\u00e3o Serafim de Miranda","bairro":"Ch\u00e1caras Bouganville","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});

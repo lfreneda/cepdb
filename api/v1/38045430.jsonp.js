@@ -1,0 +1,1 @@
+jsonp({"cep":"38045430","logradouro":"Rua Ramise Salom\u00e3o","bairro":"Parque das Am\u00e9ricas","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});
