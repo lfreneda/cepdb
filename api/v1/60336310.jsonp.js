@@ -1,0 +1,1 @@
+jsonp({"cep":"60336310","logradouro":"Vila Maced\u00f4nia","bairro":"\u00c1lvaro Weyne","cidade":"Fortaleza","uf":"CE","estado":"Cear\u00e1"});

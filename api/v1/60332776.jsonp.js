@@ -1,0 +1,1 @@
+jsonp({"cep":"60332776","logradouro":"Travessa Carlos Chagas","bairro":"Barra do Cear\u00e1","cidade":"Fortaleza","uf":"CE","estado":"Cear\u00e1"});
