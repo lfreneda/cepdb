@@ -1,0 +1,1 @@
+jsonp({"cep":"87055270","logradouro":"Rua Pioneiro Domingos Danhoni","bairro":"Jardim S\u00e3o Silvestre","cidade":"Maring\u00e1","uf":"PR","estado":"Paran\u00e1"});

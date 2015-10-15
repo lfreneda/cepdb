@@ -1,0 +1,1 @@
+jsonp({"cep":"87080630","logradouro":"Pra\u00e7a Cidade de Br\u00e9scia","bairro":"Jardim S\u00e3o Jorge","cidade":"Maring\u00e1","uf":"PR","estado":"Paran\u00e1"});

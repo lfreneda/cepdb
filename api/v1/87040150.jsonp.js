@@ -1,0 +1,1 @@
+jsonp({"cep":"87040150","logradouro":"Rua Pioneira Am\u00e9lia Vieira da Silva C\u00e9sar","bairro":"Conjunto Habitacional Lea Leal","cidade":"Maring\u00e1","uf":"PR","estado":"Paran\u00e1"});

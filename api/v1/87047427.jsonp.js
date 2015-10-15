@@ -1,0 +1,1 @@
+jsonp({"cep":"87047427","logradouro":"Rua Jo\u00e3o Ant\u00f4nio Correia J\u00fanior","bairro":"Conjunto Habitacional Requi\u00e3o","cidade":"Maring\u00e1","uf":"PR","estado":"Paran\u00e1"});

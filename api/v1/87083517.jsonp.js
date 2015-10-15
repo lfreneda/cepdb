@@ -1,0 +1,1 @@
+jsonp({"cep":"87083517","logradouro":"Rua Pioneiro Jos\u00e9 Limeira","bairro":"Jardim Paris III","cidade":"Maring\u00e1","uf":"PR","estado":"Paran\u00e1"});

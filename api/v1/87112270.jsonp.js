@@ -1,0 +1,1 @@
+jsonp({"cep":"87112270","logradouro":"Rua M\u00e1rio Consentino","bairro":"Jardim Esperan\u00e7a I","cidade":"Sarandi","uf":"PR","estado":"Paran\u00e1"});

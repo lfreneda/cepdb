@@ -1,0 +1,1 @@
+jsonp({"cep":"87050530","logradouro":"Rua Rol\u00e2ndia","bairro":"Zona 08","cidade":"Maring\u00e1","uf":"PR","estado":"Paran\u00e1"});
