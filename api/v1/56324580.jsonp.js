@@ -1,0 +1,1 @@
+jsonp({"cep":"56324580","logradouro":"Rua Serra da Mira\u00e7\u00e3o","bairro":"Top\u00e1zio","cidade":"Petrolina","uf":"PE","estado":"Pernambuco"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"55819380","logradouro":"Rua Jos\u00e9 Jaime Coutinho Dias","bairro":"Bairro Novo","cidade":"Carpina","uf":"PE","estado":"Pernambuco"});
