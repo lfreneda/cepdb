@@ -1,0 +1,1 @@
+jsonp({"cep":"57602030","logradouro":"Rua Prefeito Miguel Lopes","bairro":"Para\u00edso","cidade":"Palmeira dos \u00cdndios","uf":"AL","estado":"Alagoas"});

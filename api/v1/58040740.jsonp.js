@@ -1,0 +1,1 @@
+jsonp({"cep":"58040740","logradouro":"Rua Capit\u00e3o Jo\u00e3o Freire","bairro":"Torre","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

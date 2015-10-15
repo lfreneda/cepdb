@@ -1,0 +1,1 @@
+jsonp({"cep":"58046500","logradouro":"Rua M\u00e9dico Industrial Jo\u00e3o Cris\u00f3stomo Ribeiro Coutinho","bairro":"Altiplano Cabo Branco","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

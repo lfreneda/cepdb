@@ -1,0 +1,1 @@
+jsonp({"cep":"58027029","logradouro":"Avenida Frei Agostinho","bairro":"Mandacaru","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

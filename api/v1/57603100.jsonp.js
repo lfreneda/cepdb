@@ -1,0 +1,1 @@
+jsonp({"cep":"57603100","logradouro":"Rua Expedicion\u00e1rio Jos\u00e9 Viana da Silva","bairro":"Juca Sampaio","cidade":"Palmeira dos \u00cdndios","uf":"AL","estado":"Alagoas"});

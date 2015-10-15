@@ -1,0 +1,1 @@
+jsonp({"cep":"57602360","logradouro":"Rua Francisco Ten\u00f3rio Cavalcante","bairro":"S\u00e3o Francisco","cidade":"Palmeira dos \u00cdndios","uf":"AL","estado":"Alagoas"});
