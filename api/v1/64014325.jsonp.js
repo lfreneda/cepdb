@@ -1,0 +1,1 @@
+jsonp({"cep":"64014325","logradouro":"Avenida Bar\u00e3o de Castelo Branco","bairro":"Cristo Rei","cidade":"Teresina","uf":"PI","estado":"Piau\u00ed"});

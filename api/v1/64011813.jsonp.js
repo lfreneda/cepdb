@@ -1,0 +1,1 @@
+jsonp({"cep":"64011813","logradouro":"Quadra N","bairro":"Aroeiras","cidade":"Teresina","uf":"PI","estado":"Piau\u00ed"});
