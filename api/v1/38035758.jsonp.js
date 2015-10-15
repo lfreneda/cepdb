@@ -1,0 +1,1 @@
+jsonp({"cep":"38035758","logradouro":"Rua Jos\u00e9 Machado Borges","bairro":"Conjunto Maring\u00e1 I","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});

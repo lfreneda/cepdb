@@ -1,0 +1,1 @@
+jsonp({"cep":"38035810","logradouro":"Rua Ferrovi\u00e1rio Jos\u00e9 Barbosa da Silva","bairro":"Conjunto Ant\u00f4nio Barbosa de Souza","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});

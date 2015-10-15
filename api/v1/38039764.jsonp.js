@@ -1,0 +1,1 @@
+jsonp({"cep":"38039764","logradouro":"Rua Ant\u00f4nio Jos\u00e9 Luiz","bairro":"Peir\u00f3polis","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});

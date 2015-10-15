@@ -1,0 +1,1 @@
+jsonp({"cep":"38041023","logradouro":"Rua Fause Migu\u00e9l Hueb","bairro":"Jardim Maracan\u00e3","cidade":"Uberaba","uf":"MG","estado":"Minas Gerais"});

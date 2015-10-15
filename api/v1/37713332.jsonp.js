@@ -1,0 +1,1 @@
+jsonp({"cep":"37713332","logradouro":"Rua Francisca de Souza Fran\u00e7a","bairro":"Jardim S\u00e3o Bento","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

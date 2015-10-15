@@ -1,0 +1,1 @@
+jsonp({"cep":"37715123","logradouro":"Rua M\u00e1rio Veronezzi","bairro":"Jardim dos Manac\u00e1s","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});
