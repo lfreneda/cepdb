@@ -1,0 +1,1 @@
+jsonp({"cep":"26266160","logradouro":"Rua Rebeca Fernandes","bairro":"Jardim Nova Era","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

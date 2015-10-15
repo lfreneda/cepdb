@@ -1,0 +1,1 @@
+jsonp({"cep":"26276240","logradouro":"Rua M\u00e9xico","bairro":"Rosa dos Ventos","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"26250230","logradouro":"Rua Crist\u00f3v\u00e3o Manuel da Costa","bairro":"Caonze","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

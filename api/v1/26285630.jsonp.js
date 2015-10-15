@@ -1,0 +1,1 @@
+jsonp({"cep":"26285630","logradouro":"Rua Humberto Assun\u00e7\u00e3o","bairro":"Santa Eufenia","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

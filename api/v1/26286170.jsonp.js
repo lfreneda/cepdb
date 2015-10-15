@@ -1,0 +1,1 @@
+jsonp({"cep":"26286170","logradouro":"Rua Mendon\u00e7a Lima","bairro":"Jardim Santa Eug\u00eania","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

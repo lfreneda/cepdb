@@ -1,0 +1,1 @@
+jsonp({"cep":"26250010","logradouro":"Rua Bar\u00e3o de Tingu\u00e1","bairro":"Centro","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

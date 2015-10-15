@@ -1,0 +1,1 @@
+jsonp({"cep":"26277445","logradouro":"Rua Curi\u00f3","bairro":"Jardim Palmares","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});
