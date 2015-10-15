@@ -1,0 +1,1 @@
+jsonp({"cep":"41218058","logradouro":"Travessa Dion\u00edsio Correia","bairro":"Novo Horizonte","cidade":"Salvador","uf":"BA","estado":"Bahia"});
