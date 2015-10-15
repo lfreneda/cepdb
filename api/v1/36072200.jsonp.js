@@ -1,0 +1,1 @@
+jsonp({"cep":"36072200","logradouro":"Travessa Jos\u00e9 de Almeida Assis","bairro":"Jardim Esperan\u00e7a","cidade":"Juiz de Fora","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"36201617","logradouro":"Rua Fl\u00e1vio Santos Andrade","bairro":"S\u00e3o Crist\u00f3v\u00e3o","cidade":"Barbacena","uf":"MG","estado":"Minas Gerais"});
