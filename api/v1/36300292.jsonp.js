@@ -1,0 +1,1 @@
+jsonp({"cep":"36300292","logradouro":"Beco Olho D'\u00c1gua","bairro":"Senhor dos Montes","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

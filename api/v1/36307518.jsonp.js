@@ -1,0 +1,1 @@
+jsonp({"cep":"36307518","logradouro":"Rua Ant\u00f4nio de Abreu","bairro":"Bonfim","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

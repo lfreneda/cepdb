@@ -1,0 +1,1 @@
+jsonp({"cep":"36307450","logradouro":"Rua Expedicion\u00e1rio Arlindo L\u00facio da Silva","bairro":"Bonfim","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

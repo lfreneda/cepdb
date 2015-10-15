@@ -1,0 +1,1 @@
+jsonp({"cep":"36305136","logradouro":"Rua General Jos\u00e9 Ventura Pinto","bairro":"Matozinhos","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

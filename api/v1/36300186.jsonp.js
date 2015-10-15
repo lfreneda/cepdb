@@ -1,0 +1,1 @@
+jsonp({"cep":"36300186","logradouro":"Rua Doutor Ribeiro Silva","bairro":"Tejuco","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

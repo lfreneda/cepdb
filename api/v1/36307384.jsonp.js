@@ -1,0 +1,1 @@
+jsonp({"cep":"36307384","logradouro":"Rua General Carlos de Oliveira Ribeiro Campos","bairro":"Segredo","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

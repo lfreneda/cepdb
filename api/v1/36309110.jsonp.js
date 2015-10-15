@@ -1,0 +1,1 @@
+jsonp({"cep":"36309110","logradouro":"Rua Edgar Resende Rios","bairro":"S\u00e3o Caetano","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

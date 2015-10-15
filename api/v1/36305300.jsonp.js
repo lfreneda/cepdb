@@ -1,0 +1,1 @@
+jsonp({"cep":"36305300","logradouro":"Rua Vit\u00f3ria R\u00e9gia","bairro":"Pio XII","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

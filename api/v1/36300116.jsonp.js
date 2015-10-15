@@ -1,0 +1,1 @@
+jsonp({"cep":"36300116","logradouro":"Rua Jos\u00e9 Hil\u00e1rio Viegas","bairro":"Centro","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

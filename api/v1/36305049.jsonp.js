@@ -1,0 +1,1 @@
+jsonp({"cep":"36305049","logradouro":"Rua Genny Guimar\u00e3es Siqueira","bairro":"Matozinhos","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

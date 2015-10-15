@@ -1,0 +1,1 @@
+jsonp({"cep":"36301216","logradouro":"Rua Carlos Zans\u00e1vio","bairro":"F\u00e1bricas","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

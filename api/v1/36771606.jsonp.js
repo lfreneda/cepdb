@@ -1,0 +1,1 @@
+jsonp({"cep":"36771606","logradouro":"Rua Professor H\u00e9lio Guimar\u00e3es","bairro":"S\u00e3o Crist\u00f3v\u00e3o","cidade":"Cataguases","uf":"MG","estado":"Minas Gerais"});

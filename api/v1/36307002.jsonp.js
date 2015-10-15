@@ -1,0 +1,1 @@
+jsonp({"cep":"36307002","logradouro":"Rua Doutor Ant\u00f4nio de Freitas Carvalho","bairro":"Matozinhos","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

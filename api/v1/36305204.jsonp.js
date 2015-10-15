@@ -1,0 +1,1 @@
+jsonp({"cep":"36305204","logradouro":"Rua Expedicion\u00e1rio Ant\u00f4nio Coelho da Silveira","bairro":"Vila Santa Terezinha","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

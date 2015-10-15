@@ -1,0 +1,1 @@
+jsonp({"cep":"36307246","logradouro":"Rua Coronel Elp\u00eddio Gon\u00e7alves da Costa","bairro":"Vila Marchetti","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"36305276","logradouro":"Rua An\u00e1lia Lancetti Randi","bairro":"Bom Pastor","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

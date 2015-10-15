@@ -1,0 +1,1 @@
+jsonp({"cep":"36307177","logradouro":"Rua Ferrovi\u00e1rio Newton Pedrosa","bairro":"Vila Beliz\u00e1rio","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});

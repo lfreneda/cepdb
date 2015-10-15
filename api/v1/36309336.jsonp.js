@@ -1,0 +1,1 @@
+jsonp({"cep":"36309336","logradouro":"Rua Jos\u00e9 Ot\u00e1vio Ferreira de Assis","bairro":"S\u00e3o Jos\u00e9 Oper\u00e1rio","cidade":"S\u00e3o Jo\u00e3o Del Rei","uf":"MG","estado":"Minas Gerais"});
