@@ -1,0 +1,1 @@
+jsonp({"cep":"54140410","logradouro":"Rua Professora Maria da Concei\u00e7\u00e3o Fagundes de Menezes","bairro":"Santo Aleixo","cidade":"Jaboat\u00e3o dos Guararapes","uf":"PE","estado":"Pernambuco"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"54080330","logradouro":"Rua Padre Chrom\u00e1cio Le\u00e3o","bairro":"Centro","cidade":"Jaboat\u00e3o dos Guararapes","uf":"PE","estado":"Pernambuco"});
