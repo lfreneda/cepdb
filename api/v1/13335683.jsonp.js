@@ -1,0 +1,1 @@
+jsonp({"cep":"13335683","logradouro":"Rua Guarda Municipal S\u00e9rgio Jos\u00e9 de Lima","bairro":"Jardim Doutor Carlos Augusto de Camargo Andrade","cidade":"Indaiatuba","uf":"SP","estado":"S\u00e3o Paulo"});

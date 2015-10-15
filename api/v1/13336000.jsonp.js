@@ -1,0 +1,1 @@
+jsonp({"cep":"13336000","logradouro":"Rodovia Engenheiro Paulo de Tarso Souza Martins","bairro":"Recanto Campestre Internacional de Viracopos Gleba 7","cidade":"Indaiatuba","uf":"SP","estado":"S\u00e3o Paulo"});

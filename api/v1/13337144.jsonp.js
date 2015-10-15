@@ -1,0 +1,1 @@
+jsonp({"cep":"13337144","logradouro":"Rua Jos\u00e9 Roberto Pires de Camargo","bairro":"N\u00facleo Residencial Professor Carlos Aldrovandi","cidade":"Indaiatuba","uf":"SP","estado":"S\u00e3o Paulo"});
