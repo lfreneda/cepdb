@@ -1,0 +1,1 @@
+jsonp({"cep":"60360640","logradouro":"Rua Rui Monte","bairro":"Ant\u00f4nio Bezerra","cidade":"Fortaleza","uf":"CE","estado":"Cear\u00e1"});

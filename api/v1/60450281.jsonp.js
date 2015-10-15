@@ -1,0 +1,1 @@
+jsonp({"cep":"60450281","logradouro":"Vila Progresso","bairro":"Parquel\u00e2ndia","cidade":"Fortaleza","uf":"CE","estado":"Cear\u00e1"});
