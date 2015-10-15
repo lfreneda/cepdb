@@ -1,0 +1,1 @@
+jsonp({"cep":"12214569","logradouro":"Travessa Ol\u00edvia Ces\u00e1ria S. Silva","bairro":"Buquirinha II","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

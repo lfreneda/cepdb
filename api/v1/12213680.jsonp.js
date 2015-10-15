@@ -1,0 +1,1 @@
+jsonp({"cep":"12213680","logradouro":"Rua Sebasti\u00e3o Alves de Almeida","bairro":"Jardim Boa Vista","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

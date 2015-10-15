@@ -1,0 +1,1 @@
+jsonp({"cep":"12224410","logradouro":"Rua Doutor Cl\u00e1udio Martins Miranda Chaves","bairro":"Jardim S\u00e3o Vicente","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

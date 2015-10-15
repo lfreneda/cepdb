@@ -1,0 +1,1 @@
+jsonp({"cep":"12212477","logradouro":"Rua Sebasti\u00e3o Geraldo do Nascimento","bairro":"Conjunto Residencial Vila Leila","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

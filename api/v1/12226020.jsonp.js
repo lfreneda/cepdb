@@ -1,0 +1,1 @@
+jsonp({"cep":"12226020","logradouro":"Rua An\u00e9sia Em\u00edlia da Silva","bairro":"Parque Nova Esperan\u00e7a","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

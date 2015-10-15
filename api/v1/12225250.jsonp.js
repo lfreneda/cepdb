@@ -1,0 +1,1 @@
+jsonp({"cep":"12225250","logradouro":"Rua Professor Luiz Ant\u00f4nio Ribeiro de Macedo","bairro":"Jardim Para\u00edso do Sol","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

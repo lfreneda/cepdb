@@ -1,0 +1,1 @@
+jsonp({"cep":"12220047","logradouro":"Rua Carlos Roberto Marinho de Souza","bairro":"Loteamento Residencial Vista Linda","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

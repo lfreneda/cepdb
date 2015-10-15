@@ -1,0 +1,1 @@
+jsonp({"cep":"12085160","logradouro":"Rua Tenente-Pol\u00edcia Militar Alexandre G. de Souza Lacerda","bairro":"Ch\u00e1cara S\u00e3o Silvestre","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});
