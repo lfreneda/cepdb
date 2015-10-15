@@ -1,0 +1,1 @@
+jsonp({"cep":"21931010","logradouro":"Avenida Coronel Lu\u00eds Oliveira Sampaio","bairro":"Jardim Guanabara","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
