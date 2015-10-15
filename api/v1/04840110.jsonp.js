@@ -1,0 +1,1 @@
+jsonp({"cep":"04840110","logradouro":"Rua Piraju","bairro":"Conjunto Habitacional Brigadeiro Faria Lima","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

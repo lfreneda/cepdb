@@ -1,0 +1,1 @@
+jsonp({"cep":"04755902","logradouro":"Rua Gibraltar","bairro":"Santo Amaro","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
