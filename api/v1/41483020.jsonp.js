@@ -1,0 +1,1 @@
+jsonp({"cep":"41483020","logradouro":"Rua das Azal\u00e9ias","bairro":"Alphaville II","cidade":"Salvador","uf":"BA","estado":"Bahia"});

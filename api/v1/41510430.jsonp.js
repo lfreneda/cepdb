@@ -1,0 +1,1 @@
+jsonp({"cep":"41510430","logradouro":"Vila Adutora do Bispo","bairro":"S\u00e3o Crist\u00f3v\u00e3o","cidade":"Salvador","uf":"BA","estado":"Bahia"});

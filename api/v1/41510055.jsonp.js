@@ -1,0 +1,1 @@
+jsonp({"cep":"41510055","logradouro":"Terminal Aeroporto Internacional Deputado Lu\u00eds Eduardo Magalh\u00e3es","bairro":"S\u00e3o Crist\u00f3v\u00e3o","cidade":"Salvador","uf":"BA","estado":"Bahia"});

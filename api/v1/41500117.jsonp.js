@@ -1,0 +1,1 @@
+jsonp({"cep":"41500117","logradouro":"Avenida Praia do Atl\u00e2ntico Sul","bairro":"S\u00e3o Crist\u00f3v\u00e3o","cidade":"Salvador","uf":"BA","estado":"Bahia"});
