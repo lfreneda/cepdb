@@ -1,0 +1,1 @@
+jsonp({"cep":"03977300","logradouro":"Rua Soldado Benoni Falc\u00e3o Gouveia","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

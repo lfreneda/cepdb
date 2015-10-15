@@ -1,0 +1,1 @@
+jsonp({"cep":"03977280","logradouro":"Rua Soldado Eidoarte da Silva Pontes","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

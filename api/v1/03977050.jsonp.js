@@ -1,0 +1,1 @@
+jsonp({"cep":"03977050","logradouro":"Rua Soldado Paulo Dam\u00e1zio Rola","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

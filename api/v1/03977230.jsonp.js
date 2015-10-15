@@ -1,0 +1,1 @@
+jsonp({"cep":"03977230","logradouro":"Rua Sargento Oswaldo Concei\u00e7\u00e3o","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

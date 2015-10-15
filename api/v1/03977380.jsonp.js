@@ -1,0 +1,1 @@
+jsonp({"cep":"03977380","logradouro":"Rua Sargento Ed\u00e9sio Afonso de Carvalho","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

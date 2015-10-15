@@ -1,0 +1,1 @@
+jsonp({"cep":"03977060","logradouro":"Rua Cabo Jos\u00e9 Gomes de Barros","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

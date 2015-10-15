@@ -1,0 +1,1 @@
+jsonp({"cep":"03977140","logradouro":"Rua Sargento Ciber Porto e Mendon\u00e7a","bairro":"Conjunto Habitacional Marechal Mascarenhas de Morais","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
