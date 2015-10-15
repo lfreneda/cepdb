@@ -1,0 +1,1 @@
+jsonp({"cep":"74370478","logradouro":"Avenida Interliga\u00e7\u00e3o","bairro":"Condom\u00ednio Santa Rita 6\u00aa Etapa","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

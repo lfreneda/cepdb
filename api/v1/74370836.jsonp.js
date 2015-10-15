@@ -1,0 +1,1 @@
+jsonp({"cep":"74370836","logradouro":"Rua FV 28","bairro":"Residencial Forteville Extens\u00e3o","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"74375753","logradouro":"Avenida N\u00e1poli","bairro":"Residencial Eldorado Expans\u00e3o","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

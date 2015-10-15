@@ -1,0 +1,1 @@
+jsonp({"cep":"74355042","logradouro":"Via Ant\u00f4nio Camargo","bairro":"Condom\u00ednio Amin Camargo","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
