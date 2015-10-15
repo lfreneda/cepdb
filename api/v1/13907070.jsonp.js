@@ -1,0 +1,1 @@
+jsonp({"cep":"13907070","logradouro":"Rua Wilma Maria Padovani Cavalheiro","bairro":"Conjunto Habitacional Doutor Att\u00edlio Mazzini (Arcadas)","cidade":"Amparo","uf":"SP","estado":"S\u00e3o Paulo"});

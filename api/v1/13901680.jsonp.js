@@ -1,0 +1,1 @@
+jsonp({"cep":"13901680","logradouro":"Rua Vict\u00f3ria R\u00e9gia","bairro":"Ch\u00e1cara Vit\u00f3ria","cidade":"Amparo","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13872762","logradouro":"Rua Antonio Madruga de Lima","bairro":"Jardim Europa","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

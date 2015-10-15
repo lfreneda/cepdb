@@ -1,0 +1,1 @@
+jsonp({"cep":"13876568","logradouro":"Rua Ant\u00f4nia O. Gon\u00e7alves","bairro":"Parque Residencial Tereza Cristina","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

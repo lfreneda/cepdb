@@ -1,0 +1,1 @@
+jsonp({"cep":"13875009","logradouro":"Rua Lu\u00eds Vaz de Cam\u00f5es","bairro":"Vila Brasil","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

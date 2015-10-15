@@ -1,0 +1,1 @@
+jsonp({"cep":"13875138","logradouro":"Rua Delvo de O. Westin","bairro":"N\u00facleo Habitacional Eug\u00eanio S Mathias","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

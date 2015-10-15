@@ -1,0 +1,1 @@
+jsonp({"cep":"13973791","logradouro":"Rua Herm\u00ednia C\u00f4nsoli Luppi","bairro":"Jos\u00e9 Tonolli","cidade":"Itapira","uf":"SP","estado":"S\u00e3o Paulo"});

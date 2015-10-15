@@ -1,0 +1,1 @@
+jsonp({"cep":"13876161","logradouro":"Rua Ant\u00f4nio Jos\u00e9 Milan","bairro":"Jardim Vila Rica","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

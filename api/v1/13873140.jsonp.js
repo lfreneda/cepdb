@@ -1,0 +1,1 @@
+jsonp({"cep":"13873140","logradouro":"Estrada Velha de S\u00e3o Jo\u00e3o/Vargem Grande do Sul","bairro":"Jardim Del Plata","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

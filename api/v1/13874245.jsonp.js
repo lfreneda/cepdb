@@ -1,0 +1,1 @@
+jsonp({"cep":"13874245","logradouro":"Avenida Doutor Durval Nicolau","bairro":"Parque Residencial Jardim S\u00e3o Domingos","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});

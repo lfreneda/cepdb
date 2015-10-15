@@ -1,0 +1,1 @@
+jsonp({"cep":"13871064","logradouro":"Rua Fabr\u00edcio Salom\u00e3o Tonizza","bairro":"Jardim Recanto das \u00c1guas","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});
