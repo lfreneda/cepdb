@@ -1,0 +1,1 @@
+jsonp({"cep":"32073200","logradouro":"Rua Ilh\u00e9us","bairro":"Industrial S\u00e3o Luiz","cidade":"Contagem","uf":"MG","estado":"Minas Gerais"});

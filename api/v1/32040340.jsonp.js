@@ -1,0 +1,1 @@
+jsonp({"cep":"32040340","logradouro":"Rua Ant\u00f4nio Maria de Freitas","bairro":"Funcion\u00e1rios","cidade":"Contagem","uf":"MG","estado":"Minas Gerais"});

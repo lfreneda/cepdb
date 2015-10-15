@@ -1,0 +1,1 @@
+jsonp({"cep":"32113498","logradouro":"Avenida Sindicalista Wanderlei Teixeira Fernandes","bairro":"Distrito Industrial Doutor H\u00e9lio Pentagna Guimar\u00e3es","cidade":"Contagem","uf":"MG","estado":"Minas Gerais"});

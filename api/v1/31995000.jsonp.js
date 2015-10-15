@@ -1,0 +1,1 @@
+jsonp({"cep":"31995000","logradouro":"Rua Ant\u00f4nio Mariano de Abreu","bairro":"Conjunto Paulo VI","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});
