@@ -1,0 +1,1 @@
+jsonp({"cep":"13232294","logradouro":"Rua Guarda Municipal Paulo Benedito de Camargo","bairro":"Conjunto Habitacional S\u00e3o Jos\u00e9","cidade":"Campo Limpo Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

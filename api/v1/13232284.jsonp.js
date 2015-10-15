@@ -1,0 +1,1 @@
+jsonp({"cep":"13232284","logradouro":"Rua Tenente-Pol\u00edcia Militar Haroldo C\u00e9sar Faria","bairro":"Conjunto Habitacional S\u00e3o Jos\u00e9","cidade":"Campo Limpo Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

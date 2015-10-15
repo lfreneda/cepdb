@@ -1,0 +1,1 @@
+jsonp({"cep":"13238600","logradouro":"Avenida Jos\u00e9 Bonif\u00e1cio de Andrada e Silva","bairro":"Parque Loja da China (Botujuru)","cidade":"Campo Limpo Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

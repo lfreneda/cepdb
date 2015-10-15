@@ -1,0 +1,1 @@
+jsonp({"cep":"13221651","logradouro":"Rua Ant\u00f4nio Carezzato","bairro":"Jardim S\u00e3o Paulo","cidade":"V\u00e1rzea Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13233321","logradouro":"Rua Jo\u00e3o Gabriel de Lima","bairro":"Parque Ni\u00e1gara","cidade":"Campo Limpo Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

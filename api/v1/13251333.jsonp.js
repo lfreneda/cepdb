@@ -1,0 +1,1 @@
+jsonp({"cep":"13251333","logradouro":"Rua Jos\u00e9 Ant\u00f4nio Correia","bairro":"Jardim Santo Ant\u00f4nio","cidade":"Itatiba","uf":"SP","estado":"S\u00e3o Paulo"});

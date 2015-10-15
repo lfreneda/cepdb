@@ -1,0 +1,1 @@
+jsonp({"cep":"13252480","logradouro":"Rua Jo\u00e3o Marella","bairro":"Vivendas do Engenho D'\u00c1gua","cidade":"Itatiba","uf":"SP","estado":"S\u00e3o Paulo"});

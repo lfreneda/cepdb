@@ -1,0 +1,1 @@
+jsonp({"cep":"13232291","logradouro":"Rua Edson Gon\u00e7alves do Nascimento","bairro":"Conjunto Habitacional S\u00e3o Jos\u00e9","cidade":"Campo Limpo Paulista","uf":"SP","estado":"S\u00e3o Paulo"});
