@@ -1,0 +1,1 @@
+jsonp({"cep":"57020560","logradouro":"Rua Fran\u00e7a Morel","bairro":"Centro","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

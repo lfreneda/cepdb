@@ -1,0 +1,1 @@
+jsonp({"cep":"56903570","logradouro":"Rua Tabeli\u00e3o Bernardino Carvalho de Magalh\u00e3es","bairro":"Nossa Senhora da Concei\u00e7\u00e3o","cidade":"Serra Talhada","uf":"PE","estado":"Pernambuco"});

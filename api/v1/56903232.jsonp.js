@@ -1,0 +1,1 @@
+jsonp({"cep":"56903232","logradouro":"Pra\u00e7a Sebasti\u00e3o Ign\u00e1cio de Oliveira Neto","bairro":"Nossa Senhora da Concei\u00e7\u00e3o","cidade":"Serra Talhada","uf":"PE","estado":"Pernambuco"});

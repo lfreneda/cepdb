@@ -1,0 +1,1 @@
+jsonp({"cep":"57018595","logradouro":"Rua Deputado Jo\u00e3o Cabral Tol\u00eado","bairro":"Ch\u00e3 da Jaqueira","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

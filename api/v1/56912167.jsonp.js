@@ -1,0 +1,1 @@
+jsonp({"cep":"56912167","logradouro":"Rua Jos\u00e9 Ant\u00f4nio do Nascimento","bairro":"AABB","cidade":"Serra Talhada","uf":"PE","estado":"Pernambuco"});

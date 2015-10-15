@@ -1,0 +1,1 @@
+jsonp({"cep":"57022185","logradouro":"Travessa Jo\u00e3o Camerino","bairro":"Jaragu\u00e1","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

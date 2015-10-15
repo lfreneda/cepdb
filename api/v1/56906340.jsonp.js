@@ -1,0 +1,1 @@
+jsonp({"cep":"56906340","logradouro":"Rua Capit\u00e3o Ant\u00f4nio In\u00e1cio de Medeiros","bairro":"Bom Jesus","cidade":"Serra Talhada","uf":"PE","estado":"Pernambuco"});
