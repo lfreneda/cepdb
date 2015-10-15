@@ -1,0 +1,1 @@
+jsonp({"cep":"06845210","logradouro":"Avenida Ecologista de Jo\u00e3o de Oliveira Ramos de S\u00e1","bairro":"Condom\u00ednio Meu Recanto","cidade":"Embu das Artes","uf":"SP","estado":"S\u00e3o Paulo"});
