@@ -1,0 +1,1 @@
+jsonp({"cep":"71996105","logradouro":"Conjunto SHA Conjunto 6 Ch\u00e1cara 14A","bairro":"Setor Habitacional Arniqueiras (Taguatinga)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

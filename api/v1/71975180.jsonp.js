@@ -1,0 +1,1 @@
+jsonp({"cep":"71975180","logradouro":"Quadra QS 8 Conjunto 430A","bairro":"Areal (\u00c1guas Claras)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

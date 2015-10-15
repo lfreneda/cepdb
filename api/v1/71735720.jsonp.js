@@ -1,0 +1,1 @@
+jsonp({"cep":"71735720","logradouro":"\u00c1rea ADE Conjunto 2","bairro":"\u00c1rea de Desenvolvimento Econ\u00f4mico (N\u00facleo Bandeirante)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

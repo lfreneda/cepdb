@@ -1,0 +1,1 @@
+jsonp({"cep":"71738010","logradouro":"Setor de Postos e Mot\u00e9is Sul I","bairro":"Setor de Postos e Mot\u00e9is Sul (N\u00facleo Bandeirante)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

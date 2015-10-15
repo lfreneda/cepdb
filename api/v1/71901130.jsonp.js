@@ -1,0 +1,1 @@
+jsonp({"cep":"71901130","logradouro":"Avenida Parque \u00c1guas Claras Quadra 301 \u00c1rea Especial s/n","bairro":"Norte (\u00c1guas Claras)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"71737000","logradouro":"Setor de \u00c1reas Isoladas Sul","bairro":"Setor de \u00c1reas Isoladas Sul (N\u00facleo Bandeirante)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

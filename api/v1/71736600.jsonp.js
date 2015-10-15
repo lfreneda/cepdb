@@ -1,0 +1,1 @@
+jsonp({"cep":"71736600","logradouro":"\u00c1rea Especial","bairro":"Setor de Ind\u00fastrias Bernardo Say\u00e3o (N\u00facleo Bandeirante)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

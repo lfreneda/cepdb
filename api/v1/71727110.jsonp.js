@@ -1,0 +1,1 @@
+jsonp({"cep":"71727110","logradouro":"Quadra QR 1-A Conjunto J","bairro":"Candangol\u00e2ndia","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

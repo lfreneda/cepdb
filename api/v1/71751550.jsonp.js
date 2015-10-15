@@ -1,0 +1,1 @@
+jsonp({"cep":"71751550","logradouro":"N\u00facleo Rural Vargem Bonita Rua 3 Ch\u00e1cara 55","bairro":"N\u00facleo Rural Vargem Bonita (N\u00facleo Bandeirante)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

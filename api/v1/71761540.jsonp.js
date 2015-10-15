@@ -1,0 +1,1 @@
+jsonp({"cep":"71761540","logradouro":"Setor de Ch\u00e1caras C\u00f3rrego da On\u00e7a Rua D Ch\u00e1cara 6","bairro":"Setor de Ch\u00e1caras C\u00f3rrego da On\u00e7a (N\u00facleo Bandeirante)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
