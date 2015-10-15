@@ -1,0 +1,1 @@
+jsonp({"cep":"55154640","logradouro":"Rua Ant\u00f4nio Filho","bairro":"Morada Nobre","cidade":"Belo Jardim","uf":"PE","estado":"Pernambuco"});

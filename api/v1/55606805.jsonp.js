@@ -1,0 +1,1 @@
+jsonp({"cep":"55606805","logradouro":"Rua Mission\u00e1ria Auredijane do Carmo Melo","bairro":"S\u00e3o Vicente de Paulo","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

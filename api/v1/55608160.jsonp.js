@@ -1,0 +1,1 @@
+jsonp({"cep":"55608160","logradouro":"Rua Jos\u00e9 Bonif\u00e1cio de Andrade","bairro":"Alto Jos\u00e9 Leal","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

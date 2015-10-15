@@ -1,0 +1,1 @@
+jsonp({"cep":"55608311","logradouro":"1\u00aa Travessa Pedro Nunes Cavalcante","bairro":"Bela Vista","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

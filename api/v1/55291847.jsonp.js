@@ -1,0 +1,1 @@
+jsonp({"cep":"55291847","logradouro":"Avenida Francisco Lacerda","bairro":"Francisco Sim\u00e3o dos Santos Figueira","cidade":"Garanhuns","uf":"PE","estado":"Pernambuco"});
