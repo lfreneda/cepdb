@@ -1,0 +1,1 @@
+jsonp({"cep":"45822370","logradouro":"Rua Vit\u00f3ria da Conquista","bairro":"Itapu\u00e3","cidade":"Eun\u00e1polis","uf":"BA","estado":"Bahia"});

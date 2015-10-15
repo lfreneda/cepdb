@@ -1,0 +1,1 @@
+jsonp({"cep":"48601320","logradouro":"Avenida Jos\u00e9 Hemet\u00e9rio de Carvalho","bairro":"Centro","cidade":"Paulo Afonso","uf":"BA","estado":"Bahia"});
