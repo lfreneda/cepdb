@@ -1,0 +1,1 @@
+jsonp({"cep":"41650166","logradouro":"Rua Ant\u00f4nio Pessoa de Souza","bairro":"Piat\u00e3","cidade":"Salvador","uf":"BA","estado":"Bahia"});

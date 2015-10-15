@@ -1,0 +1,1 @@
+jsonp({"cep":"41650225","logradouro":"Alameda Fiji","bairro":"Piat\u00e3","cidade":"Salvador","uf":"BA","estado":"Bahia"});
