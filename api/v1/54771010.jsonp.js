@@ -1,0 +1,1 @@
+jsonp({"cep":"54771010","logradouro":"Rua S\u00e3o Jo\u00e3o da Barra","bairro":"Alberto Maia","cidade":"Camaragibe","uf":"PE","estado":"Pernambuco"});

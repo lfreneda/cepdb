@@ -1,0 +1,1 @@
+jsonp({"cep":"54767415","logradouro":"Rua Bar\u00e3o de S\u00e3o Francisco","bairro":"Santa M\u00f4nica","cidade":"Camaragibe","uf":"PE","estado":"Pernambuco"});

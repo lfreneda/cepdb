@@ -1,0 +1,1 @@
+jsonp({"cep":"55008120","logradouro":"Rua Tenente Ant\u00f4nio Flor\u00eancio do Nascimento","bairro":"Morro do Bom Jesus","cidade":"Caruaru","uf":"PE","estado":"Pernambuco"});
