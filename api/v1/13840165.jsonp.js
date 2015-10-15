@@ -1,0 +1,1 @@
+jsonp({"cep":"13840165","logradouro":"Rua Rinc\u00e3o","bairro":"Vila Santa Rosa","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

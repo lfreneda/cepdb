@@ -1,0 +1,1 @@
+jsonp({"cep":"13817152","logradouro":"Rua Professora Sultana Haddad Marum","bairro":"Loteamento F\u00e1dua Goraieb Marum (Martim Francisco)","cidade":"Mogi Mirim","uf":"SP","estado":"S\u00e3o Paulo"});

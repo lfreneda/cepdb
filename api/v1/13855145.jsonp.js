@@ -1,0 +1,1 @@
+jsonp({"cep":"13855145","logradouro":"Rua Francisco Cipriano de Carvalho","bairro":"Jardim das Laranjeiras (Martinho Prado J\u00fanior)","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

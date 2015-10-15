@@ -1,0 +1,1 @@
+jsonp({"cep":"13845212","logradouro":"Pra\u00e7a da B\u00edblia","bairro":"Im\u00f3vel Pedregulhal","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

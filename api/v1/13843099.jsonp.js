@@ -1,0 +1,1 @@
+jsonp({"cep":"13843099","logradouro":"Rua Emydio Pedrini Sobrinho","bairro":"Jardim Itamaraty","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

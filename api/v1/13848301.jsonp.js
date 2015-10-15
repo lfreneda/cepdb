@@ -1,0 +1,1 @@
+jsonp({"cep":"13848301","logradouro":"Rua Renato Armani","bairro":"Jardim Fantinato","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

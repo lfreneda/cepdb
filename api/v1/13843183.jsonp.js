@@ -1,0 +1,1 @@
+jsonp({"cep":"13843183","logradouro":"Rua Conselheiro Jos\u00e9 Ant\u00f4nio de Arruda Vilas Boas","bairro":"Loteamento Parque Itacolomi","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13846053","logradouro":"Pra\u00e7a Augusto Rodrigues de Mello","bairro":"Jardim Ip\u00ea I","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

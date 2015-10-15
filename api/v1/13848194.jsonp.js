@@ -1,0 +1,1 @@
+jsonp({"cep":"13848194","logradouro":"Rua Belmiro de Carli","bairro":"Jardim Chiorato","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

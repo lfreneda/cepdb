@@ -1,0 +1,1 @@
+jsonp({"cep":"13844250","logradouro":"Rua Jos\u00e9 de Souza Godoy","bairro":"Recanto do Itamarac\u00e1","cidade":"Mogi Gua\u00e7u","uf":"SP","estado":"S\u00e3o Paulo"});

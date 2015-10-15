@@ -1,0 +1,1 @@
+jsonp({"cep":"13806063","logradouro":"Pra\u00e7a Dona Maria Jos\u00e9 Brand\u00e3o Bueno","bairro":"Conjunto Residencial Anselmo Lopes Bueno","cidade":"Mogi Mirim","uf":"SP","estado":"S\u00e3o Paulo"});

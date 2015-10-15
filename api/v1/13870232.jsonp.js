@@ -1,0 +1,1 @@
+jsonp({"cep":"13870232","logradouro":"Pra\u00e7a An\u00e9sia Martins Mattos","bairro":"Centro","cidade":"S\u00e3o Jo\u00e3o da Boa Vista","uf":"SP","estado":"S\u00e3o Paulo"});
