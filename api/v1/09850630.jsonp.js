@@ -1,0 +1,1 @@
+jsonp({"cep":"09850630","logradouro":"Pra\u00e7a Maria Escol\u00e1stica Concei\u00e7\u00e3o Nazar\u00e9","bairro":"Dos Casa","cidade":"S\u00e3o Bernardo do Campo","uf":"SP","estado":"S\u00e3o Paulo"});

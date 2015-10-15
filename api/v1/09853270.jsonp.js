@@ -1,0 +1,1 @@
+jsonp({"cep":"09853270","logradouro":"Pra\u00e7a Jo\u00e3o Moura","bairro":"Alvarenga","cidade":"S\u00e3o Bernardo do Campo","uf":"SP","estado":"S\u00e3o Paulo"});

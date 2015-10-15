@@ -1,0 +1,1 @@
+jsonp({"cep":"09892160","logradouro":"Rua S\u00e3o Sebasti\u00e3o da Grama","bairro":"Jordan\u00f3polis","cidade":"S\u00e3o Bernardo do Campo","uf":"SP","estado":"S\u00e3o Paulo"});
