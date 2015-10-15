@@ -1,0 +1,1 @@
+jsonp({"cep":"35701114","logradouro":"Rua Raimundo Jos\u00e9 Dias","bairro":"Morro do Claro","cidade":"Sete Lagoas","uf":"MG","estado":"Minas Gerais"});

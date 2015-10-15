@@ -1,0 +1,1 @@
+jsonp({"cep":"35661746","logradouro":"Rua Virg\u00ednia Cristina Ambr\u00f3sio Nunes","bairro":"Papa Jo\u00e3o Paulo II","cidade":"Par\u00e1 de Minas","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"35681239","logradouro":"Rua Antenor Gon\u00e7alves de Oliveira","bairro":"Conjunto Habitacional Jadir Marinho","cidade":"Ita\u00fana","uf":"MG","estado":"Minas Gerais"});
