@@ -1,0 +1,1 @@
+jsonp({"cep":"18105270","logradouro":"Rua Hort\u00eancia Gon\u00e7alves da Cruz","bairro":"Vila D\u00e1lmatas","cidade":"Sorocaba","uf":"SP","estado":"S\u00e3o Paulo"});

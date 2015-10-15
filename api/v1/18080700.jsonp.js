@@ -1,0 +1,1 @@
+jsonp({"cep":"18080700","logradouro":"Rua Jos\u00e9 Ant\u00e3o","bairro":"Vila Santana","cidade":"Sorocaba","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"18110345","logradouro":"Rua Francisca Foga\u00e7a de Almeida","bairro":"Jardim Para\u00edso","cidade":"Votorantim","uf":"SP","estado":"S\u00e3o Paulo"});

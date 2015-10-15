@@ -1,0 +1,1 @@
+jsonp({"cep":"18081200","logradouro":"Rua Ant\u00f4nio Marciano da Silva","bairro":"Jardim Maria do Carmo","cidade":"Sorocaba","uf":"SP","estado":"S\u00e3o Paulo"});

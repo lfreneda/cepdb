@@ -1,0 +1,1 @@
+jsonp({"cep":"18113824","logradouro":"Rua Soldado-Pol\u00edcia Militar Edson Mois\u00e9s Chiarelli de Paula","bairro":"Altos de Votorantim","cidade":"Votorantim","uf":"SP","estado":"S\u00e3o Paulo"});
