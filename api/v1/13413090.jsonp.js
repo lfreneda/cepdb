@@ -1,0 +1,1 @@
+jsonp({"cep":"13413090","logradouro":"Rua Geraldo Bizuti","bairro":"Loteamento Distrito Industrial Uninorte","cidade":"Piracicaba","uf":"SP","estado":"S\u00e3o Paulo"});

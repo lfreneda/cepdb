@@ -1,0 +1,1 @@
+jsonp({"cep":"13400970","logradouro":"Avenida Armando Salles de Oliveira","bairro":"Centro","cidade":"Piracicaba","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13413105","logradouro":"Rua Professor Doutor Edmar Furquim Cabral de Vasconcellos","bairro":"Loteamento Distrito Industrial Uninorte","cidade":"Piracicaba","uf":"SP","estado":"S\u00e3o Paulo"});
