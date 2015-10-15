@@ -1,0 +1,1 @@
+jsonp({"cep":"13575030","logradouro":"Rua Natalino Mastro Francisco","bairro":"Vila Boa Vista 1","cidade":"S\u00e3o Carlos","uf":"SP","estado":"S\u00e3o Paulo"});

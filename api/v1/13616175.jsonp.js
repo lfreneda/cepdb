@@ -1,0 +1,1 @@
+jsonp({"cep":"13616175","logradouro":"Rua Ernesto Grossklauss","bairro":"Jardim Primavera","cidade":"Leme","uf":"SP","estado":"S\u00e3o Paulo"});

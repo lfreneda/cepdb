@@ -1,0 +1,1 @@
+jsonp({"cep":"13575668","logradouro":"Rua Oswaldo Vianna Salgado","bairro":"Jardim das Torres Prolongamento","cidade":"S\u00e3o Carlos","uf":"SP","estado":"S\u00e3o Paulo"});
