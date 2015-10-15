@@ -1,0 +1,1 @@
+jsonp({"cep":"09405340","logradouro":"Rua S\u00e3o Vicente","bairro":"Santa Luzia","cidade":"Ribeir\u00e3o Pires","uf":"SP","estado":"S\u00e3o Paulo"});
