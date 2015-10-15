@@ -1,0 +1,1 @@
+jsonp({"cep":"12927120","logradouro":"Alameda Saulo Crispim Marques","bairro":"N\u00facleo Residencial Henedina Rodrigues Cortez","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

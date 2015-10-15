@@ -1,0 +1,1 @@
+jsonp({"cep":"12906040","logradouro":"Rua Coronel Ayrton Gon\u00e7alves Fr\u00f3es","bairro":"Jardim S\u00e3o Crist\u00f3v\u00e3o","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

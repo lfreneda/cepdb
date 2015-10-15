@@ -1,0 +1,1 @@
+jsonp({"cep":"12919604","logradouro":"Travessa Padre Jos\u00e9 Orlando Siqueira do Amaral","bairro":"Residencial Ros\u00e1rio de F\u00e1tima","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

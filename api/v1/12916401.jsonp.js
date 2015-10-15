@@ -1,0 +1,1 @@
+jsonp({"cep":"12916401","logradouro":"Condom\u00ednio Residencial Portal de Bragan\u00e7a Horizonte","bairro":"Lagos de Santa Helena","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

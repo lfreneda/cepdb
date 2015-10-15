@@ -1,0 +1,1 @@
+jsonp({"cep":"12919550","logradouro":"Rua Virg\u00edlio Ant\u00f4nio Di Nizo","bairro":"Ch\u00e1caras S\u00e3o Conrado","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

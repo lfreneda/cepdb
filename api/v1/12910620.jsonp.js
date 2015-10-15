@@ -1,0 +1,1 @@
+jsonp({"cep":"12910620","logradouro":"Rua Doutor Jos\u00e9 Fonseca Rosas","bairro":"Jardim Doutor J\u00falio de Mesquita Filho","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

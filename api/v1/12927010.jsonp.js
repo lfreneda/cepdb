@@ -1,0 +1,1 @@
+jsonp({"cep":"12927010","logradouro":"Rua Adekeilor Gomes Ferreira","bairro":"N\u00facleo Residencial Henedina Rodrigues Cortez","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

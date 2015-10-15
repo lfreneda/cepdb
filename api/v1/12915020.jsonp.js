@@ -1,0 +1,1 @@
+jsonp({"cep":"12915020","logradouro":"Avenida Ant\u00f4nio S\u00e9rgio de Oliveira Lolli","bairro":"Ch\u00e1cara Portal das Est\u00e2ncias","cidade":"Bragan\u00e7a Paulista","uf":"SP","estado":"S\u00e3o Paulo"});
