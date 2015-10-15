@@ -1,0 +1,1 @@
+jsonp({"cep":"58407503","logradouro":"Rua Jo\u00e3o L\u00e9lis","bairro":"Jos\u00e9 Pinheiro","cidade":"Campina Grande","uf":"PB","estado":"Para\u00edba"});
