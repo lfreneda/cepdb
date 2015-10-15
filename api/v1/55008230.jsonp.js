@@ -1,0 +1,1 @@
+jsonp({"cep":"55008230","logradouro":"Rua Professor Ferr\u00facio","bairro":"S\u00e3o Francisco","cidade":"Caruaru","uf":"PE","estado":"Pernambuco"});

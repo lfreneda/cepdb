@@ -1,0 +1,1 @@
+jsonp({"cep":"55038055","logradouro":"Rua Jos\u00e9 Ant\u00f4nio Liberato","bairro":"Boa Vista","cidade":"Caruaru","uf":"PE","estado":"Pernambuco"});

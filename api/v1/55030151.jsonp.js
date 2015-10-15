@@ -1,0 +1,1 @@
+jsonp({"cep":"55030151","logradouro":"1\u00aa Travessa Professora Ad\u00e9lia Leal Ferreira","bairro":"Vassoural","cidade":"Caruaru","uf":"PE","estado":"Pernambuco"});

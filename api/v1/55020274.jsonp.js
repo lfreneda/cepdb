@@ -1,0 +1,1 @@
+jsonp({"cep":"55020274","logradouro":"Rua Martins Jos\u00e9 de Mac\u00eado","bairro":"Salgado","cidade":"Caruaru","uf":"PE","estado":"Pernambuco"});

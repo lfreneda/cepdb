@@ -1,0 +1,1 @@
+jsonp({"cep":"55030193","logradouro":"3\u00aa Travessa S\u00e3o Lu\u00eds","bairro":"Vassoural","cidade":"Caruaru","uf":"PE","estado":"Pernambuco"});
