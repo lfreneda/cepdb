@@ -1,0 +1,1 @@
+jsonp({"cep":"91260450","logradouro":"Rua Jorge de Lorenzi","bairro":"M\u00e1rio Quintana","cidade":"Porto Alegre","uf":"RS","estado":"Rio Grande do Sul"});

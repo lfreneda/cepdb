@@ -1,0 +1,1 @@
+jsonp({"cep":"91260520","logradouro":"Rua Marqu\u00eas Rebelo","bairro":"Prot\u00e1sio Alves","cidade":"Porto Alegre","uf":"RS","estado":"Rio Grande do Sul"});
