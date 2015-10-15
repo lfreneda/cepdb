@@ -1,0 +1,1 @@
+jsonp({"cep":"61941180","logradouro":"Rua Sin\u00e9sio Pontes Tavares","bairro":"Pregui\u00e7a","cidade":"Maranguape","uf":"CE","estado":"Cear\u00e1"});

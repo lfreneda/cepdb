@@ -1,0 +1,1 @@
+jsonp({"cep":"62051315","logradouro":"Avenida Senador Fernandes T\u00e1vora","bairro":"Cidade Gerardo Cristino de Menezes","cidade":"Sobral","uf":"CE","estado":"Cear\u00e1"});

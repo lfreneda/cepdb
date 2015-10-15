@@ -1,0 +1,1 @@
+jsonp({"cep":"63012145","logradouro":"Rua S\u00e3o Tom\u00e9","bairro":"Horto","cidade":"Juazeiro do Norte","uf":"CE","estado":"Cear\u00e1"});
