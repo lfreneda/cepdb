@@ -1,0 +1,1 @@
+jsonp({"cep":"58069611","logradouro":"Rua Joaquim \u00c2ngelo da Costa","bairro":"Gramame","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

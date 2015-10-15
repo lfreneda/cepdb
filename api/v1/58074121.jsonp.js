@@ -1,0 +1,1 @@
+jsonp({"cep":"58074121","logradouro":"Rua Midi\u00e3 de Fran\u00e7a Amaral Lins","bairro":"Jos\u00e9 Am\u00e9rico de Almeida","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

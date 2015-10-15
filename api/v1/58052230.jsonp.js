@@ -1,0 +1,1 @@
+jsonp({"cep":"58052230","logradouro":"Rua Radialista Ant\u00f4nio Assun\u00e7\u00e3o de Jesus","bairro":"Jardim Cidade Universit\u00e1ria","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

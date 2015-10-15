@@ -1,0 +1,1 @@
+jsonp({"cep":"58065127","logradouro":"Rua Oper\u00e1rio Jo\u00e3o Joel de Souza","bairro":"Planalto Boa Esperan\u00e7a","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

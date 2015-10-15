@@ -1,0 +1,1 @@
+jsonp({"cep":"58056650","logradouro":"Rua Ilustrador No\u00e9 Vieira de Almeida","bairro":"Mangabeira","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

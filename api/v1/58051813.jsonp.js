@@ -1,0 +1,1 @@
+jsonp({"cep":"58051813","logradouro":"Granja Nossa Senhora da Concei\u00e7\u00e3o","bairro":"Banc\u00e1rios","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

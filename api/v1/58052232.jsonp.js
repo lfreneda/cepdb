@@ -1,0 +1,1 @@
+jsonp({"cep":"58052232","logradouro":"Rua Escritor No\u00e9 Ant\u00f4nio de Oliveira","bairro":"Jardim Cidade Universit\u00e1ria","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

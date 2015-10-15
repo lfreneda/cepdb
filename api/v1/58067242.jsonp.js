@@ -1,0 +1,1 @@
+jsonp({"cep":"58067242","logradouro":"Rua Funcion\u00e1rio P\u00fablico Paulo Antonio Bastos Portela","bairro":"Valentina de Figueiredo","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

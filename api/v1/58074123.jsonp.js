@@ -1,0 +1,1 @@
+jsonp({"cep":"58074123","logradouro":"Rua Auxiliar de Escrit\u00f3rio Pedro de Lima Pereira","bairro":"Jos\u00e9 Am\u00e9rico de Almeida","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

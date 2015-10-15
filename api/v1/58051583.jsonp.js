@@ -1,0 +1,1 @@
+jsonp({"cep":"58051583","logradouro":"Pra\u00e7a Engenheiro Roberto Galliza do Amaral Marinho","bairro":"Jardim Cidade Universit\u00e1ria","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"58062314","logradouro":"Rua Ti\u00e9-Sangue","bairro":"Paratibe","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});
