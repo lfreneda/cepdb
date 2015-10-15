@@ -1,0 +1,1 @@
+jsonp({"cep":"81580370","logradouro":"Rua Ant\u00f4nio Andriguetto","bairro":"Uberaba","cidade":"Curitiba","uf":"PR","estado":"Paran\u00e1"});
