@@ -1,0 +1,1 @@
+jsonp({"cep":"13031190","logradouro":"Pra\u00e7a Expedicion\u00e1rio Jo\u00e3o Corinthians de Brito","bairro":"Funda\u00e7\u00e3o da Casa Popular","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});
