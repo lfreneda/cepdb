@@ -1,0 +1,1 @@
+jsonp({"cep":"94960432","logradouro":"Rua Jos\u00e9 Rauil da Fonseca","bairro":"Parque Granja Esperan\u00e7a","cidade":"Cachoeirinha","uf":"RS","estado":"Rio Grande do Sul"});

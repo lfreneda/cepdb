@@ -1,0 +1,1 @@
+jsonp({"cep":"95013534","logradouro":"Rua Maria Cavalli","bairro":"Marechal Floriano","cidade":"Caxias do Sul","uf":"RS","estado":"Rio Grande do Sul"});
