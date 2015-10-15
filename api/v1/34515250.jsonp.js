@@ -1,0 +1,1 @@
+jsonp({"cep":"34515250","logradouro":"Pra\u00e7a Serra da Nevada","bairro":"Conjunto Morada da Serra","cidade":"Sabar\u00e1","uf":"MG","estado":"Minas Gerais"});

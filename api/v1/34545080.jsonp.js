@@ -1,0 +1,1 @@
+jsonp({"cep":"34545080","logradouro":"Rua Santa L\u00facia","bairro":"Santo Ant\u00f4nio (Ro\u00e7a Grande)","cidade":"Sabar\u00e1","uf":"MG","estado":"Minas Gerais"});

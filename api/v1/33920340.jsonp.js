@@ -1,0 +1,1 @@
+jsonp({"cep":"33920340","logradouro":"Rua Beg\u00f4nias","bairro":"Santa Margarida (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"34515450","logradouro":"Rua Jo\u00e3o Lu\u00eds Spechitt","bairro":"Vila Santo Ant\u00f4nio de P\u00e1dua","cidade":"Sabar\u00e1","uf":"MG","estado":"Minas Gerais"});

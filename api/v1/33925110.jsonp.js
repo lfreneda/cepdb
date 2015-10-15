@@ -1,0 +1,1 @@
+jsonp({"cep":"33925110","logradouro":"Rua Jos\u00e9 Tavares de Melo","bairro":"Pedra Branca (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

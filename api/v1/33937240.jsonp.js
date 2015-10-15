@@ -1,0 +1,1 @@
+jsonp({"cep":"33937240","logradouro":"Rua Jo\u00e3o Soares Ferreira Diniz","bairro":"Conjunto Nova Pampulha (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

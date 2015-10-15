@@ -1,0 +1,1 @@
+jsonp({"cep":"33944265","logradouro":"Rua Leoc\u00e1dia Hil\u00e1ria Vieira dos Santos","bairro":"Viena (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

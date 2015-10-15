@@ -1,0 +1,1 @@
+jsonp({"cep":"34535232","logradouro":"Rua Jornalista Jos\u00e9 Sebasti\u00e3o Viana Passos","bairro":"Santo Ant\u00f4nio (Ro\u00e7a Grande)","cidade":"Sabar\u00e1","uf":"MG","estado":"Minas Gerais"});

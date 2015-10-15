@@ -1,0 +1,1 @@
+jsonp({"cep":"33920090","logradouro":"Rua S\u00e3o Jo\u00e3o","bairro":"Areias (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

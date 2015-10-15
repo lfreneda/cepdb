@@ -1,0 +1,1 @@
+jsonp({"cep":"34505470","logradouro":"Rua Ant\u00f4nio Bas\u00edlio Pereira","bairro":"Centro","cidade":"Sabar\u00e1","uf":"MG","estado":"Minas Gerais"});
