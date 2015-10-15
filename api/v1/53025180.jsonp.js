@@ -1,0 +1,1 @@
+jsonp({"cep":"53025180","logradouro":"Rua Severino Jos\u00e9 Ramalho","bairro":"Amparo","cidade":"Olinda","uf":"PE","estado":"Pernambuco"});

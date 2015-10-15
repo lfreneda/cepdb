@@ -1,0 +1,1 @@
+jsonp({"cep":"53110170","logradouro":"Rua Coronel Jo\u00e3o Jos\u00e9 Figueiredo","bairro":"S\u00edtio Novo","cidade":"Olinda","uf":"PE","estado":"Pernambuco"});

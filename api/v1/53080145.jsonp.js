@@ -1,0 +1,1 @@
+jsonp({"cep":"53080145","logradouro":"Rua Projetada 01","bairro":"Rio Doce","cidade":"Olinda","uf":"PE","estado":"Pernambuco"});

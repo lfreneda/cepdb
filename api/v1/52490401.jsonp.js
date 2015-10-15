@@ -1,0 +1,1 @@
+jsonp({"cep":"52490401","logradouro":"Travessa Fascina\u00e7\u00e3o","bairro":"Guabiraba","cidade":"Recife","uf":"PE","estado":"Pernambuco"});
