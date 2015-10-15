@@ -1,0 +1,1 @@
+jsonp({"cep":"69907770","logradouro":"Rua Apurin\u00e3","bairro":"Santa In\u00eas","cidade":"Rio Branco","uf":"AC","estado":"Acre"});

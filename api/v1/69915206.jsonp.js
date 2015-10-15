@@ -1,0 +1,1 @@
+jsonp({"cep":"69915206","logradouro":"Beco da Esperan\u00e7a","bairro":"Nova Esperan\u00e7a","cidade":"Rio Branco","uf":"AC","estado":"Acre"});
