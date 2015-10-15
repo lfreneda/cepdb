@@ -1,0 +1,1 @@
+jsonp({"cep":"17027651","logradouro":"Rua Doutor Jos\u00e9 Correia Veiga Martins de Mesquita","bairro":"Conjunto Habitacional Isaura Pitta Garms","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

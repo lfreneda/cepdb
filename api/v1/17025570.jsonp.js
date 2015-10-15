@@ -1,0 +1,1 @@
+jsonp({"cep":"17025570","logradouro":"Rua Soldado-Pol\u00edcia Militar Ant\u00f4nio Rodrigues Filho","bairro":"N\u00facleo Residencial Beija-Flor","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"17039800","logradouro":"Rodovia Comandante Jo\u00e3o Ribeiro de Barros","bairro":"Distrito Industrial Marcus Vin\u00edcius Feliz Machado","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

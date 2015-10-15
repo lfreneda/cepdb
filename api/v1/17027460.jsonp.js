@@ -1,0 +1,1 @@
+jsonp({"cep":"17027460","logradouro":"Rua Doutor Jo\u00e3o Pedro Vit\u00f3rio Filho","bairro":"Parque Giansante","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

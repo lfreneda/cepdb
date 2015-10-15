@@ -1,0 +1,1 @@
+jsonp({"cep":"17018713","logradouro":"Pra\u00e7a Jos\u00e9 Manzatto","bairro":"Vila Avia\u00e7\u00e3o","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});
