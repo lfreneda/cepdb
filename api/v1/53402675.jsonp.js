@@ -1,0 +1,1 @@
+jsonp({"cep":"53402675","logradouro":"Rua Jos\u00e9 Silvestre da Luz","bairro":"Fragoso","cidade":"Paulista","uf":"PE","estado":"Pernambuco"});

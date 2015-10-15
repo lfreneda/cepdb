@@ -1,0 +1,1 @@
+jsonp({"cep":"53409110","logradouro":"Rua Padre Ant\u00f4nio de P\u00e1dua Belarmino de Sena","bairro":"Jardim Paulista","cidade":"Paulista","uf":"PE","estado":"Pernambuco"});

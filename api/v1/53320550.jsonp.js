@@ -1,0 +1,1 @@
+jsonp({"cep":"53320550","logradouro":"Rua Gl\u00f3ria do Goita","bairro":"Guadalupe","cidade":"Olinda","uf":"PE","estado":"Pernambuco"});
