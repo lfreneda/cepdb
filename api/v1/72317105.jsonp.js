@@ -1,0 +1,1 @@
+jsonp({"cep":"72317105","logradouro":"Quadra QR 523 Conjunto 5","bairro":"Samambaia Sul (Samambaia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"72327540","logradouro":"Quadra QN 427","bairro":"Samambaia Norte (Samambaia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
