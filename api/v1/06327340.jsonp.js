@@ -1,0 +1,1 @@
+jsonp({"cep":"06327340","logradouro":"Rua Tenente Alcides Jos\u00e9 de Freitas","bairro":"Conjunto Habitacional Presidente Castelo Branco","cidade":"Carapicu\u00edba","uf":"SP","estado":"S\u00e3o Paulo"});

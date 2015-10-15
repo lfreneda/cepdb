@@ -1,0 +1,1 @@
+jsonp({"cep":"06329350","logradouro":"Avenida Presidente Tancredo de Almeida Neves","bairro":"Conjunto Habitacional Presidente Castelo Branco","cidade":"Carapicu\u00edba","uf":"SP","estado":"S\u00e3o Paulo"});
