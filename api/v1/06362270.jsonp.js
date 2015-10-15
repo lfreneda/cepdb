@@ -1,0 +1,1 @@
+jsonp({"cep":"06362270","logradouro":"Rua Serra do Mar","bairro":"Jardim Planalto","cidade":"Carapicu\u00edba","uf":"SP","estado":"S\u00e3o Paulo"});
