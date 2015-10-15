@@ -1,0 +1,1 @@
+jsonp({"cep":"13201833","logradouro":"Rua Euclides da Cunha","bairro":"Vila Gotardo","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

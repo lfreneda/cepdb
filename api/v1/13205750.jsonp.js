@@ -1,0 +1,1 @@
+jsonp({"cep":"13205750","logradouro":"Rua Sargento Maur\u00edcio Vicente da Silva","bairro":"Jardim Marabambaia II (Jardim Santa gertrudes)","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

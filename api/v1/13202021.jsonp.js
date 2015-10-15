@@ -1,0 +1,1 @@
+jsonp({"cep":"13202021","logradouro":"Travessa M\u00f4naco","bairro":"Vila S\u00e3o Sebasti\u00e3o","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

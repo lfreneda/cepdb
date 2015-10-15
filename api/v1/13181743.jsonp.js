@@ -1,0 +1,1 @@
+jsonp({"cep":"13181743","logradouro":"Avenida Engenheiro Jayme Pinheiro de Ulh\u00f4a Cintra","bairro":"Parque Bandeirantes I (Nova Veneza)","cidade":"Sumar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});
