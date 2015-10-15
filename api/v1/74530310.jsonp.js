@@ -1,0 +1,1 @@
+jsonp({"cep":"74530310","logradouro":"Avenida T 2","bairro":"Vila Boa Sorte","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

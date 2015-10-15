@@ -1,0 +1,1 @@
+jsonp({"cep":"74640150","logradouro":"Rua 210-A","bairro":"Setor Leste Vila Nova","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
