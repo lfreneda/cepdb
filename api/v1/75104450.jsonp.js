@@ -1,0 +1,1 @@
+jsonp({"cep":"75104450","logradouro":"Avenida Parano\u00e1","bairro":"Jardim Alvorada","cidade":"An\u00e1polis","uf":"GO","estado":"Goi\u00e1s"});

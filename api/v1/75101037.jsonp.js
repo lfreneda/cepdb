@@ -1,0 +1,1 @@
+jsonp({"cep":"75101037","logradouro":"Rodovia BR-060","bairro":"Residencial Buritis","cidade":"An\u00e1polis","uf":"GO","estado":"Goi\u00e1s"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"75110350","logradouro":"Rua Jo\u00e3o Jos\u00e9","bairro":"Jundia\u00ed","cidade":"An\u00e1polis","uf":"GO","estado":"Goi\u00e1s"});

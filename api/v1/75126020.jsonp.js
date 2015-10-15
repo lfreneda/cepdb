@@ -1,0 +1,1 @@
+jsonp({"cep":"75126020","logradouro":"Rua Dona I\u00e2mina Caied","bairro":"Olhos D ' \u00c1gua","cidade":"An\u00e1polis","uf":"GO","estado":"Goi\u00e1s"});
