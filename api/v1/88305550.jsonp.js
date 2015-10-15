@@ -1,0 +1,1 @@
+jsonp({"cep":"88305550","logradouro":"Rua Ant\u00f4nio Jos\u00e9 Peixer","bairro":"Barra do Rio","cidade":"Itaja\u00ed","uf":"SC","estado":"Santa Catarina"});

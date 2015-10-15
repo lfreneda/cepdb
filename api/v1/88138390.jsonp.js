@@ -1,0 +1,1 @@
+jsonp({"cep":"88138390","logradouro":"Rua Manoel Eufr\u00e1sio de Medeiros","bairro":"Praia de Fora","cidade":"Palho\u00e7a","uf":"SC","estado":"Santa Catarina"});

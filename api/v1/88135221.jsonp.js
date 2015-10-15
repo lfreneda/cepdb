@@ -1,0 +1,1 @@
+jsonp({"cep":"88135221","logradouro":"Rua Ialene Sch\u00fctz Horstmann","bairro":"Aririu","cidade":"Palho\u00e7a","uf":"SC","estado":"Santa Catarina"});

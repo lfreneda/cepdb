@@ -1,0 +1,1 @@
+jsonp({"cep":"88131740","logradouro":"Rua Br\u00e1ulio Sebasti\u00e3o Goulart","bairro":"Rio Grande","cidade":"Palho\u00e7a","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"88136545","logradouro":"Rua de Ponta Delgada","bairro":"S\u00e3o Sebasti\u00e3o","cidade":"Palho\u00e7a","uf":"SC","estado":"Santa Catarina"});

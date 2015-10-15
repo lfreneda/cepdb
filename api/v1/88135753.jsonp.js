@@ -1,0 +1,1 @@
+jsonp({"cep":"88135753","logradouro":"Rua dos Pinheiros","bairro":"Alto Aririu","cidade":"Palho\u00e7a","uf":"SC","estado":"Santa Catarina"});
