@@ -1,0 +1,1 @@
+jsonp({"cep":"39408337","logradouro":"Rua Jos\u00e9 Joaquim da Maia","bairro":"Jardim Parque Morada do Sol","cidade":"Montes Claros","uf":"MG","estado":"Minas Gerais"});

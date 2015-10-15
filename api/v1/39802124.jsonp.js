@@ -1,0 +1,1 @@
+jsonp({"cep":"39802124","logradouro":"Rua Cinquenta e Dois","bairro":"Lourival Soares da Costa","cidade":"Te\u00f3filo Otoni","uf":"MG","estado":"Minas Gerais"});

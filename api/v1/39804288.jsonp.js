@@ -1,0 +1,1 @@
+jsonp({"cep":"39804288","logradouro":"Rua Ant\u00f4nio Proc\u00f3pio","bairro":"Conc\u00f3rdia","cidade":"Te\u00f3filo Otoni","uf":"MG","estado":"Minas Gerais"});
