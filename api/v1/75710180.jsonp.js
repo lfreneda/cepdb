@@ -1,0 +1,1 @@
+jsonp({"cep":"75710180","logradouro":"Rua 96","bairro":"Castelo Branco","cidade":"Catal\u00e3o","uf":"GO","estado":"Goi\u00e1s"});

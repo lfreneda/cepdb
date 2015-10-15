@@ -1,0 +1,1 @@
+jsonp({"cep":"75707432","logradouro":"Rua 406","bairro":"Loteamento Vila Planalto","cidade":"Catal\u00e3o","uf":"GO","estado":"Goi\u00e1s"});
