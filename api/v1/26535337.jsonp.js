@@ -1,0 +1,1 @@
+jsonp({"cep":"26535337","logradouro":"Travessa Isaura Costa S\u00e1 Coelho","bairro":"Nova Cidade","cidade":"Nil\u00f3polis","uf":"RJ","estado":"Rio de Janeiro"});

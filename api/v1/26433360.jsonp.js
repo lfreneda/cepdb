@@ -1,0 +1,1 @@
+jsonp({"cep":"26433360","logradouro":"Rua Pastor Idal\u00e9cio Ferreira da Silva","bairro":"Nova Bel\u00e9m","cidade":"Japeri","uf":"RJ","estado":"Rio de Janeiro"});

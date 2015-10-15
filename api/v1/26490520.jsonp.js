@@ -1,0 +1,1 @@
+jsonp({"cep":"26490520","logradouro":"Rua Cosme e Dami\u00e3o","bairro":"Vila Nossa Senhora do Ros\u00e1rio","cidade":"Japeri","uf":"RJ","estado":"Rio de Janeiro"});
