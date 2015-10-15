@@ -1,0 +1,1 @@
+jsonp({"cep":"88107416","logradouro":"Rua S\u00e3o Vicente","bairro":"Forquilhas","cidade":"S\u00e3o Jos\u00e9","uf":"SC","estado":"Santa Catarina"});

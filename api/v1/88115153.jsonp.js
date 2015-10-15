@@ -1,0 +1,1 @@
+jsonp({"cep":"88115153","logradouro":"Rua Jo\u00e3o Bento dos Santos","bairro":"Serraria","cidade":"S\u00e3o Jos\u00e9","uf":"SC","estado":"Santa Catarina"});

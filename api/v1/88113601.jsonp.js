@@ -1,0 +1,1 @@
+jsonp({"cep":"88113601","logradouro":"Rua \u00c1lvaro Medeiros Santiago","bairro":"Areias","cidade":"S\u00e3o Jos\u00e9","uf":"SC","estado":"Santa Catarina"});

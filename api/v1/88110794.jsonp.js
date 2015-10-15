@@ -1,0 +1,1 @@
+jsonp({"cep":"88110794","logradouro":"Rua Eg\u00eddio Manoel Schmitz","bairro":"Bela Vista","cidade":"S\u00e3o Jos\u00e9","uf":"SC","estado":"Santa Catarina"});
