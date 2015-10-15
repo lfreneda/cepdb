@@ -1,0 +1,1 @@
+jsonp({"cep":"96418662","logradouro":"Rua Quatrocentos e Oitenta e Dois","bairro":"S\u00e3o Judas","cidade":"Bag\u00e9","uf":"RS","estado":"Rio Grande do Sul"});
