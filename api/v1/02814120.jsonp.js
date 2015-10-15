@@ -1,0 +1,1 @@
+jsonp({"cep":"02814120","logradouro":"Rua Oito","bairro":"Jardim Paulistano (Zona Norte)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

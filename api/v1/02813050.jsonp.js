@@ -1,0 +1,1 @@
+jsonp({"cep":"02813050","logradouro":"Rua Maria da Concei\u00e7\u00e3o Aparecida Bastos Costa","bairro":"Jardim Paulistano (Zona Norte)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
