@@ -1,0 +1,1 @@
+jsonp({"cep":"12328497","logradouro":"Rua Expedicion\u00e1rio Jo\u00e3o Rosa da Silva J\u00fanior","bairro":"Residencial Parque dos Sinos","cidade":"Jacare\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

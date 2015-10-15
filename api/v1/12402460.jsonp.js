@@ -1,0 +1,1 @@
+jsonp({"cep":"12402460","logradouro":"Rua Vereador Tib\u00farcio Nunes do Nascimento J\u00fanior","bairro":"Loteamento Residencial Andrade","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

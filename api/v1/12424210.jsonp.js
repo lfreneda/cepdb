@@ -1,0 +1,1 @@
+jsonp({"cep":"12424210","logradouro":"Avenida Doutor Andr\u00e9 Andrade Ribeiro de Almeida","bairro":"Residencial e Comercial Cidade Jardim","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12403770","logradouro":"Rua Doutor Jos\u00e9 Ricardo Atayde Marcondes","bairro":"Residencial e Comercial Cidade Morumbi","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

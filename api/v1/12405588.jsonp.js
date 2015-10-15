@@ -1,0 +1,1 @@
+jsonp({"cep":"12405588","logradouro":"Rua Jacyrema de Castro Giulianetti Almeida","bairro":"Loteamento Residencial e Comercial Vila S\u00e3o Paulo","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

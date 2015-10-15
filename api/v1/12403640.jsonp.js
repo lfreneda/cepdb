@@ -1,0 +1,1 @@
+jsonp({"cep":"12403640","logradouro":"Rua Sargento Jos\u00e9 Francisco Rejes Rangel","bairro":"Residencial e Comercial Cidade Morumbi","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

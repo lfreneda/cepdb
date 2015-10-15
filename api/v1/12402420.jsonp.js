@@ -1,0 +1,1 @@
+jsonp({"cep":"12402420","logradouro":"Avenida Sargento Jos\u00e9 Joaquim dos Santos Sobrinho","bairro":"Loteamento Residencial Andrade","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

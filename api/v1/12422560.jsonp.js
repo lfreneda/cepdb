@@ -1,0 +1,1 @@
+jsonp({"cep":"12422560","logradouro":"Rua Capit\u00e3o Isa\u00edas Marcondes Homem de Mello","bairro":"Jardim Residencial Doutor Lessa","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

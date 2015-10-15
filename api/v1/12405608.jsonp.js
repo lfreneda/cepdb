@@ -1,0 +1,1 @@
+jsonp({"cep":"12405608","logradouro":"Rua Mois\u00e9s Mour\u00e3o Neto","bairro":"Loteamento Residencial e Comercial Vila S\u00e3o Paulo","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

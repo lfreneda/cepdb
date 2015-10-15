@@ -1,0 +1,1 @@
+jsonp({"cep":"12405582","logradouro":"Avenida Professora Mirian Maria Monteiro Ferraz","bairro":"Loteamento Residencial e Comercial Vila S\u00e3o Paulo","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});
