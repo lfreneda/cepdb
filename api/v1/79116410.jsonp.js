@@ -1,0 +1,1 @@
+jsonp({"cep":"79116410","logradouro":"Rua Conselheiro Jo\u00e3o Alfredo","bairro":"Vila Nossa Senhora das Gra\u00e7as","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});
