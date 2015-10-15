@@ -1,0 +1,1 @@
+jsonp({"cep":"18213360","logradouro":"Rua Andr\u00e9 Ord\u00f4nio","bairro":"Jardim Vieira de Moraes","cidade":"Itapetininga","uf":"SP","estado":"S\u00e3o Paulo"});

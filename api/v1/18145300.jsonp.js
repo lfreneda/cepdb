@@ -1,0 +1,1 @@
+jsonp({"cep":"18145300","logradouro":"Rua Nossa Senhora do Carmo","bairro":"Bairro do Carmo (Canguera)","cidade":"S\u00e3o Roque","uf":"SP","estado":"S\u00e3o Paulo"});

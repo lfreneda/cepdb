@@ -1,0 +1,1 @@
+jsonp({"cep":"18200290","logradouro":"Rua Capit\u00e3o Jos\u00e9 Leme","bairro":"Centro","cidade":"Itapetininga","uf":"SP","estado":"S\u00e3o Paulo"});
