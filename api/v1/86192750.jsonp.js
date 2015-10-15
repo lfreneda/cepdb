@@ -1,0 +1,1 @@
+jsonp({"cep":"86192750","logradouro":"Rua David Trevizan","bairro":"Jardim It\u00e1lia","cidade":"Camb\u00e9","uf":"PR","estado":"Paran\u00e1"});

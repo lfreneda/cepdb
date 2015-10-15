@@ -1,0 +1,1 @@
+jsonp({"cep":"86191380","logradouro":"Rua Jos\u00e9 Firmino de Sales","bairro":"Jardim Tarob\u00e1","cidade":"Camb\u00e9","uf":"PR","estado":"Paran\u00e1"});

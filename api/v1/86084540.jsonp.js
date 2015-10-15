@@ -1,0 +1,1 @@
+jsonp({"cep":"86084540","logradouro":"Rua Juarez T\u00e1vora","bairro":"Sebasti\u00e3o de Melo C\u00e9sar","cidade":"Londrina","uf":"PR","estado":"Paran\u00e1"});

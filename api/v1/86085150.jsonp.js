@@ -1,0 +1,1 @@
+jsonp({"cep":"86085150","logradouro":"Rua Valentim Hon\u00f3rio da Silva","bairro":"Conjunto Habitacional Maria Cec\u00edlia Serrano de Oliveira","cidade":"Londrina","uf":"PR","estado":"Paran\u00e1"});

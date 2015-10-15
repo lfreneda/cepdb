@@ -1,0 +1,1 @@
+jsonp({"cep":"86089090","logradouro":"Rua Umbelina C\u00e2ndida da Silva de Oliveira","bairro":"Conjunto Habitacional An\u00edbal de Siqueira Cabral","cidade":"Londrina","uf":"PR","estado":"Paran\u00e1"});
