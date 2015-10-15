@@ -1,0 +1,1 @@
+jsonp({"cep":"15803300","logradouro":"Rua Paulo Louren\u00e7o Figueiredo","bairro":"Conjunto Polo Comercial e Industrial Giordano Mestrinelli","cidade":"Catanduva","uf":"SP","estado":"S\u00e3o Paulo"});

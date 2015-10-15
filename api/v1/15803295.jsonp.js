@@ -1,0 +1,1 @@
+jsonp({"cep":"15803295","logradouro":"Rua Abelardo Rodrigues Y Rodrigues","bairro":"Conjunto Polo Comercial e Industrial Giordano Mestrinelli","cidade":"Catanduva","uf":"SP","estado":"S\u00e3o Paulo"});

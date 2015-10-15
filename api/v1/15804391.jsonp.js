@@ -1,0 +1,1 @@
+jsonp({"cep":"15804391","logradouro":"Avenida Jos\u00e9 Augusto Norberto Frey","bairro":"Loteamento Conjunto Habitacional Comendador Theodoro Rosa Filho","cidade":"Catanduva","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15801075","logradouro":"Pra\u00e7a C\u00f4nego Oscar Serra do Amaral","bairro":"Parque Residencial Comendador Jo\u00e3o Am\u00eandola","cidade":"Catanduva","uf":"SP","estado":"S\u00e3o Paulo"});

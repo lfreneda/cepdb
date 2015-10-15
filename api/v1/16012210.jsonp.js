@@ -1,0 +1,1 @@
+jsonp({"cep":"16012210","logradouro":"Rua Doutora Cl\u00e9a F. Sacramento","bairro":"Conjunto Habitacional Jo\u00e3o Batista Botelho","cidade":"Ara\u00e7atuba","uf":"SP","estado":"S\u00e3o Paulo"});

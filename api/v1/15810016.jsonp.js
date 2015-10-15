@@ -1,0 +1,1 @@
+jsonp({"cep":"15810016","logradouro":"Pra\u00e7a Em\u00edlia Marquesa de Abr\u00e3o","bairro":"Vila Celso Mauad","cidade":"Catanduva","uf":"SP","estado":"S\u00e3o Paulo"});

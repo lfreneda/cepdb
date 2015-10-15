@@ -1,0 +1,1 @@
+jsonp({"cep":"15813505","logradouro":"Avenida Doutora Maria In\u00eas Dal'Antonia Curi","bairro":"Polo Comercial Industrial Raul de Carvalho","cidade":"Catanduva","uf":"SP","estado":"S\u00e3o Paulo"});

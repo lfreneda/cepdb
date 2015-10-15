@@ -1,0 +1,1 @@
+jsonp({"cep":"16012608","logradouro":"Rua Professor Doutor S\u00e9rgio Manoel Moretti Vieira","bairro":"Conjunto Habitacional Ivo Tozzi","cidade":"Ara\u00e7atuba","uf":"SP","estado":"S\u00e3o Paulo"});

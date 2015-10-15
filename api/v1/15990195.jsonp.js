@@ -1,0 +1,1 @@
+jsonp({"cep":"15990195","logradouro":"Avenida Padre Nelson Ant\u00f4nio Rom\u00e3o","bairro":"Centro","cidade":"Mat\u00e3o","uf":"SP","estado":"S\u00e3o Paulo"});
