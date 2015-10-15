@@ -1,0 +1,1 @@
+jsonp({"cep":"79904472","logradouro":"Rua Acad\u00eamico Rodrigo Garcia Teixeira","bairro":"Residencial Erotildes Saldanha Moreira","cidade":"Ponta Por\u00e3","uf":"MS","estado":"Mato Grosso do Sul"});

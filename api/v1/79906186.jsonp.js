@@ -1,0 +1,1 @@
+jsonp({"cep":"79906186","logradouro":"Rua Ant\u00f4nio Soares","bairro":"Vila Ministro Salgado Filho","cidade":"Ponta Por\u00e3","uf":"MS","estado":"Mato Grosso do Sul"});

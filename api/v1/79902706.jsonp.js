@@ -1,0 +1,1 @@
+jsonp({"cep":"79902706","logradouro":"Rua Doutor Jos\u00e9 Lauro Esp\u00edndola Sanches","bairro":"Residencial Ponta Por\u00e3 II","cidade":"Ponta Por\u00e3","uf":"MS","estado":"Mato Grosso do Sul"});

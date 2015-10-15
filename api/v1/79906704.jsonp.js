@@ -1,0 +1,1 @@
+jsonp({"cep":"79906704","logradouro":"Travessa Alcides Guimar\u00e3es","bairro":"Jardim Universit\u00e1rio","cidade":"Ponta Por\u00e3","uf":"MS","estado":"Mato Grosso do Sul"});

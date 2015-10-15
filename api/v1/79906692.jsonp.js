@@ -1,0 +1,1 @@
+jsonp({"cep":"79906692","logradouro":"Rua Jo\u00e3o Ponce Arruda","bairro":"Jardim Universit\u00e1rio","cidade":"Ponta Por\u00e3","uf":"MS","estado":"Mato Grosso do Sul"});

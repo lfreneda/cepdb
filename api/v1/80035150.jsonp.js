@@ -1,0 +1,1 @@
+jsonp({"cep":"80035150","logradouro":"Rua Coronel Jo\u00e3o de Alencar Guimar\u00e3es Filho","bairro":"Cabral","cidade":"Curitiba","uf":"PR","estado":"Paran\u00e1"});
