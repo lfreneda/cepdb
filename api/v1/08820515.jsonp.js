@@ -1,0 +1,1 @@
+jsonp({"cep":"08820515","logradouro":"Avenida Maria Jos\u00e9 Bechelli","bairro":"N\u00facleo Industrial Vereador Alcides Celestino Filho","cidade":"Mogi das Cruzes","uf":"SP","estado":"S\u00e3o Paulo"});
