@@ -1,0 +1,1 @@
+jsonp({"cep":"39402164","logradouro":"Rua Luiz V\u00edctor Guimar\u00e3es","bairro":"Delfino Magalh\u00e3es","cidade":"Montes Claros","uf":"MG","estado":"Minas Gerais"});

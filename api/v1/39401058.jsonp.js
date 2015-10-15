@@ -1,0 +1,1 @@
+jsonp({"cep":"39401058","logradouro":"Rua Afonso Celso Guimar\u00e3es","bairro":"Jardim S\u00e3o Luiz","cidade":"Montes Claros","uf":"MG","estado":"Minas Gerais"});
