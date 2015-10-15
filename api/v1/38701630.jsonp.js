@@ -1,0 +1,1 @@
+jsonp({"cep":"38701630","logradouro":"Rua Ant\u00f4nio Am\u00e2ncio Filho","bairro":"Nossa Senhora de F\u00e1tima","cidade":"Patos de Minas","uf":"MG","estado":"Minas Gerais"});

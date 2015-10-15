@@ -1,0 +1,1 @@
+jsonp({"cep":"38701173","logradouro":"Rua L\u00e1zara Mota de Azev\u00eado","bairro":"Guanabara","cidade":"Patos de Minas","uf":"MG","estado":"Minas Gerais"});

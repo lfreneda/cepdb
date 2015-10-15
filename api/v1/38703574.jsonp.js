@@ -1,0 +1,1 @@
+jsonp({"cep":"38703574","logradouro":"Rua Ad\u00e3o Bas\u00edlio de Brito","bairro":"Novo Horizonte","cidade":"Patos de Minas","uf":"MG","estado":"Minas Gerais"});
