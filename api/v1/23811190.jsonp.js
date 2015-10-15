@@ -1,0 +1,1 @@
+jsonp({"cep":"23811190","logradouro":"Rua Coronel Jesu\u00edno de S\u00e1","bairro":"S\u00e3o Salvador","cidade":"Itagua\u00ed","uf":"RJ","estado":"Rio de Janeiro"});

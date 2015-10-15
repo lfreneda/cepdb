@@ -1,0 +1,1 @@
+jsonp({"cep":"23902720","logradouro":"Caminho Sebasti\u00e3o Lara","bairro":"Morro do Santo Ant\u00f4nio","cidade":"Angra dos Reis","uf":"RJ","estado":"Rio de Janeiro"});

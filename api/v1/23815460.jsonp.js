@@ -1,0 +1,1 @@
+jsonp({"cep":"23815460","logradouro":"Rua Mois\u00e9s Abra\u00e3o","bairro":"Centro","cidade":"Itagua\u00ed","uf":"RJ","estado":"Rio de Janeiro"});
