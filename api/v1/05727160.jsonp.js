@@ -1,0 +1,1 @@
+jsonp({"cep":"05727160","logradouro":"Rua Aureliano Guimar\u00e3es","bairro":"Vila Andrade","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
