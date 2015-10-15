@@ -1,0 +1,1 @@
+jsonp({"cep":"89803555","logradouro":"Travessa Gabriel da Luz","bairro":"Parque das Palmeiras","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"89803690","logradouro":"Rua Adolfo Ritta","bairro":"Parque das Palmeiras","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

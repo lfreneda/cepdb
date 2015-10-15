@@ -1,0 +1,1 @@
+jsonp({"cep":"89803840","logradouro":"Servid\u00e3o Greg\u00f3rio Giuriatti","bairro":"Parque das Palmeiras","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

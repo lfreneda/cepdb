@@ -1,0 +1,1 @@
+jsonp({"cep":"89803470","logradouro":"Rua Graciliano Ramos","bairro":"Jardim Am\u00e9rica","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

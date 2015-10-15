@@ -1,0 +1,1 @@
+jsonp({"cep":"89802262","logradouro":"Travessa Ara\u00e7\u00e1","bairro":"Jardim It\u00e1lia","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});
