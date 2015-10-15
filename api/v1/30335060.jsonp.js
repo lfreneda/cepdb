@@ -1,0 +1,1 @@
+jsonp({"cep":"30335060","logradouro":"Rua Jo\u00e3o Pedro Moreira","bairro":"Santa Rita de C\u00e1ssia","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});
