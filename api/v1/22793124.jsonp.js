@@ -1,0 +1,1 @@
+jsonp({"cep":"22793124","logradouro":"Rua S\u00e9gio Henrique Sim\u00f5es","bairro":"Barra da Tijuca","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});

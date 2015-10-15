@@ -1,0 +1,1 @@
+jsonp({"cep":"23020717","logradouro":"Rua Ator Irving S\u00e3o Paulo","bairro":"Guaratiba","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
