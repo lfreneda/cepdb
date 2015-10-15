@@ -1,0 +1,1 @@
+jsonp({"cep":"35660704","logradouro":"Pra\u00e7a Ant\u00f4nio Frederico Ozanan","bairro":"Conjunto Habitacional S\u00e3o Vicente de Paulo","cidade":"Par\u00e1 de Minas","uf":"MG","estado":"Minas Gerais"});

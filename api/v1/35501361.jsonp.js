@@ -1,0 +1,1 @@
+jsonp({"cep":"35501361","logradouro":"Rua Jos\u00e9 Alaor","bairro":"Vivendas da Exposi\u00e7\u00e3o","cidade":"Divin\u00f3polis","uf":"MG","estado":"Minas Gerais"});

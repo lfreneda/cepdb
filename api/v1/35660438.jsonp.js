@@ -1,0 +1,1 @@
+jsonp({"cep":"35660438","logradouro":"Rua Ant\u00f4nio Jos\u00e9 Pinto","bairro":"Padre Lib\u00e9rio","cidade":"Par\u00e1 de Minas","uf":"MG","estado":"Minas Gerais"});

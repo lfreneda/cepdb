@@ -1,0 +1,1 @@
+jsonp({"cep":"35661258","logradouro":"Rua Jos\u00e9 Sim\u00f5es","bairro":"Jardim Beatriz","cidade":"Par\u00e1 de Minas","uf":"MG","estado":"Minas Gerais"});

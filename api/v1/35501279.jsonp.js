@@ -1,0 +1,1 @@
+jsonp({"cep":"35501279","logradouro":"Rua \u00c9rico Ver\u00edssimo","bairro":"Santa Luzia","cidade":"Divin\u00f3polis","uf":"MG","estado":"Minas Gerais"});
