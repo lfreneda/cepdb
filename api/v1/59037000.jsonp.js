@@ -1,0 +1,1 @@
+jsonp({"cep":"59037000","logradouro":"Avenida Coronel Estevam","bairro":"Alecrim","cidade":"Natal","uf":"RN","estado":"Rio Grande do Norte"});
