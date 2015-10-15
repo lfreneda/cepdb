@@ -1,0 +1,1 @@
+jsonp({"cep":"38401172","logradouro":"Avenida Ol\u00edvia de Freitas Guimar\u00e3es","bairro":"Presidente Roosevelt","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

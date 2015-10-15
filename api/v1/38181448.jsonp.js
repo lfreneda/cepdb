@@ -1,0 +1,1 @@
+jsonp({"cep":"38181448","logradouro":"Rua Jos\u00e9 Maur\u00edcio de Ara\u00fajo","bairro":"Ana Ant\u00f4nia","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

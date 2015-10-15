@@ -1,0 +1,1 @@
+jsonp({"cep":"38183378","logradouro":"Rua Jos\u00e9 Helena de Souza","bairro":"Vila Silv\u00e9ria","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"38181764","logradouro":"Rua Cl\u00e1udio Silveira","bairro":"Jardim Europa","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"38305066","logradouro":"Rua Maria An\u00e1lia G. Franco","bairro":"Jer\u00f4nimo Mendon\u00e7a","cidade":"Ituiutaba","uf":"MG","estado":"Minas Gerais"});

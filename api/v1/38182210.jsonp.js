@@ -1,0 +1,1 @@
+jsonp({"cep":"38182210","logradouro":"Rua Jo\u00e3o Batista do Nascimento","bairro":"Engenheiro Clovis Freitas Leal","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

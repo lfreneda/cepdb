@@ -1,0 +1,1 @@
+jsonp({"cep":"38182068","logradouro":"Rua Ad\u00e9lia Maria de Resende","bairro":"Odilon Jos\u00e9 Carneiro","cidade":"Arax\u00e1","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"38304084","logradouro":"Rua S\u00e3o Judas Tadeu","bairro":"Alcides Junqueira","cidade":"Ituiutaba","uf":"MG","estado":"Minas Gerais"});
