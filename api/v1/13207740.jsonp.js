@@ -1,0 +1,1 @@
+jsonp({"cep":"13207740","logradouro":"Rua Marcilio Dias","bairro":"Bela Vista","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

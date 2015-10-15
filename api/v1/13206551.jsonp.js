@@ -1,0 +1,1 @@
+jsonp({"cep":"13206551","logradouro":"Rua Jos\u00e9 Aiello","bairro":"Vila Aielo","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

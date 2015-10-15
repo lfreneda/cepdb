@@ -1,0 +1,1 @@
+jsonp({"cep":"13218659","logradouro":"Pra\u00e7a Luiz Ungaro","bairro":"Jardim Caxambu","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

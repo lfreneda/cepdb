@@ -1,0 +1,1 @@
+jsonp({"cep":"13210190","logradouro":"Rua Marechal Henrique Batista Duffles Teixeira Lott","bairro":"N\u00facleo Residencial Dom Gabriel Paulino Bueno Couto","cidade":"Jundia\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});
