@@ -1,0 +1,1 @@
+jsonp({"cep":"37706218","logradouro":"Rua Carlos de Oliveira Apolin\u00e1rio","bairro":"Conjunto Habitacional Pedro Afonso Junqueira","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

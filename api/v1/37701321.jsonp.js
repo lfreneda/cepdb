@@ -1,0 +1,1 @@
+jsonp({"cep":"37701321","logradouro":"Rua Jo\u00e3o Ant\u00f4nio de Oliveira","bairro":"Jardim Santa Augusta","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

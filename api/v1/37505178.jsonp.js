@@ -1,0 +1,1 @@
+jsonp({"cep":"37505178","logradouro":"Rua Ant\u00f4nio Pereira Macedo","bairro":"Vila Isabel","cidade":"Itajub\u00e1","uf":"MG","estado":"Minas Gerais"});

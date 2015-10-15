@@ -1,0 +1,1 @@
+jsonp({"cep":"37706226","logradouro":"Rua Maria de F\u00e1tima Breves Faria","bairro":"Conjunto Habitacional Pedro Afonso Junqueira","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

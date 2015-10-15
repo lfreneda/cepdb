@@ -1,0 +1,1 @@
+jsonp({"cep":"37704283","logradouro":"Avenida Ant\u00f4nio Em\u00eddio de Rezende","bairro":"Jardim Country Club","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

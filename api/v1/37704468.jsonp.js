@@ -1,0 +1,1 @@
+jsonp({"cep":"37704468","logradouro":"Rua Jos\u00e9 Assump\u00e7\u00e3o","bairro":"Boa Esperan\u00e7a","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

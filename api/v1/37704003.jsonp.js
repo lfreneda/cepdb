@@ -1,0 +1,1 @@
+jsonp({"cep":"37704003","logradouro":"Rua Jo\u00e3o de Almeida Prata","bairro":"Jardim S\u00e3o Paulo","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

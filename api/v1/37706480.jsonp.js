@@ -1,0 +1,1 @@
+jsonp({"cep":"37706480","logradouro":"Avenida Ja\u00e7an\u00e3 Musa dos Santos","bairro":"Conjunto Habitacional Pedro Afonso Junqueira","cidade":"Po\u00e7os de Caldas","uf":"MG","estado":"Minas Gerais"});

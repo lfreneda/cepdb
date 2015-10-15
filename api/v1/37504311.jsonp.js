@@ -1,0 +1,1 @@
+jsonp({"cep":"37504311","logradouro":"Rua B Jos\u00e9 Ricota","bairro":"A\u00e7ude","cidade":"Itajub\u00e1","uf":"MG","estado":"Minas Gerais"});
