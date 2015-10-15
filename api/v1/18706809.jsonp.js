@@ -1,0 +1,1 @@
+jsonp({"cep":"18706809","logradouro":"Pra\u00e7a Padre Paulo Roberto Justino","bairro":"Conjunto Habitacional Du\u00edlio Contrucci Gambini","cidade":"Avar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

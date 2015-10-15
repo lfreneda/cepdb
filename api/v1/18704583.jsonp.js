@@ -1,0 +1,1 @@
+jsonp({"cep":"18704583","logradouro":"Pra\u00e7a Assun\u00e7\u00e3o Origuella Alarc\u00e3o","bairro":"Loteamento Terras de S\u00e3o Jos\u00e9","cidade":"Avar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

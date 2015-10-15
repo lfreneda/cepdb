@@ -1,0 +1,1 @@
+jsonp({"cep":"18708780","logradouro":"Rua J\u00falio Jacob da Rocha","bairro":"Conjunto Habitacional Doutor Ant\u00f4nio Francisco Inoc\u00eancio","cidade":"Avar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

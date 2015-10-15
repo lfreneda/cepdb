@@ -1,0 +1,1 @@
+jsonp({"cep":"18685420","logradouro":"Rua Concei\u00e7\u00e3o Martins da Silva","bairro":"N\u00facleo Habitacional Luis Zillo","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

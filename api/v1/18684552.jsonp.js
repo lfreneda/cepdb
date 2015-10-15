@@ -1,0 +1,1 @@
+jsonp({"cep":"18684552","logradouro":"Rua Jo\u00e3o Ramponi","bairro":"Jardim Maria Luiza IV","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

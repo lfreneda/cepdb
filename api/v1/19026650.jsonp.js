@@ -1,0 +1,1 @@
+jsonp({"cep":"19026650","logradouro":"Rodovia Arthur Boigu\u00eas Filho","bairro":"Parque Residencial Carand\u00e1","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

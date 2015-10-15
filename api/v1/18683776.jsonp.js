@@ -1,0 +1,1 @@
+jsonp({"cep":"18683776","logradouro":"Rua Jos\u00e9 Carlos da Gra\u00e7a Morelli","bairro":"Residencial Santa Terezinha II","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

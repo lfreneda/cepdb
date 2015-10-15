@@ -1,0 +1,1 @@
+jsonp({"cep":"18684060","logradouro":"Rua Eug\u00eanio Ferrari","bairro":"Conjunto Habitacional Maestro J\u00falio Ferrari","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

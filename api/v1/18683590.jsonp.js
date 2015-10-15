@@ -1,0 +1,1 @@
+jsonp({"cep":"18683590","logradouro":"Rua Armando Aguinaga","bairro":"Parque Ant\u00e1rtica","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

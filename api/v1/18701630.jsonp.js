@@ -1,0 +1,1 @@
+jsonp({"cep":"18701630","logradouro":"Rua Jos\u00e9 Const\u00e2ncio","bairro":"Parque Santa Elizabeth I","cidade":"Avar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

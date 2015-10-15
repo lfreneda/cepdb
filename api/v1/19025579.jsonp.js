@@ -1,0 +1,1 @@
+jsonp({"cep":"19025579","logradouro":"Rua Jo\u00e3o Correia de Oliveira","bairro":"Conjunto S\u00edtio S\u00e3o Pedro","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

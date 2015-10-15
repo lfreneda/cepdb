@@ -1,0 +1,1 @@
+jsonp({"cep":"18708790","logradouro":"Rua Alfredo C\u00e2mara Sobrinho","bairro":"Conjunto Habitacional Doutor Ant\u00f4nio Francisco Inoc\u00eancio","cidade":"Avar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

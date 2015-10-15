@@ -1,0 +1,1 @@
+jsonp({"cep":"18706807","logradouro":"Rua Jos\u00e9 Cust\u00f3dio Marques Filho","bairro":"Conjunto Habitacional Du\u00edlio Contrucci Gambini","cidade":"Avar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});
