@@ -1,0 +1,1 @@
+jsonp({"cep":"13483326","logradouro":"Rua Maria Jos\u00e9 D'Annuncia\u00e7\u00e3o D'Andrea Mathias","bairro":"Parque Residencial Ab\u00edlio Pedro","cidade":"Limeira","uf":"SP","estado":"S\u00e3o Paulo"});

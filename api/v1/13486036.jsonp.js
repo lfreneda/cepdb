@@ -1,0 +1,1 @@
+jsonp({"cep":"13486036","logradouro":"Rua M\u00e1rio Vinhas","bairro":"Jardim Nova Su\u00ed\u00e7a","cidade":"Limeira","uf":"SP","estado":"S\u00e3o Paulo"});
