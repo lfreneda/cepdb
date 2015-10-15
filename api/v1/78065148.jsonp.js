@@ -1,0 +1,1 @@
+jsonp({"cep":"78065148","logradouro":"Rua Pa\u00eds de Gales","bairro":"Jardim Tropical","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

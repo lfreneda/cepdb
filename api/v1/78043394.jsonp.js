@@ -1,0 +1,1 @@
+jsonp({"cep":"78043394","logradouro":"Rua Jo\u00e3o Bento","bairro":"Duque de Caxias II","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

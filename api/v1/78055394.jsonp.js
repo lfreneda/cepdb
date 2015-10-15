@@ -1,0 +1,1 @@
+jsonp({"cep":"78055394","logradouro":"Rua Pocon\u00e9","bairro":"CPA II","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

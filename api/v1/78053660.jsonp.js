@@ -1,0 +1,1 @@
+jsonp({"cep":"78053660","logradouro":"Rua Vinte e Nove","bairro":"Tancredo Neves","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

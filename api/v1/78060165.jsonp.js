@@ -1,0 +1,1 @@
+jsonp({"cep":"78060165","logradouro":"Rua Jo\u00e3o Ferreira de Souza","bairro":"Santo Ant\u00f4nio do Pedregal","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});
