@@ -1,0 +1,1 @@
+jsonp({"cep":"07053070","logradouro":"Rua Doutor Passos","bairro":"Vila S\u00e3o Rafael","cidade":"Guarulhos","uf":"SP","estado":"S\u00e3o Paulo"});

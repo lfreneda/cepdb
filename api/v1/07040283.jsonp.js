@@ -1,0 +1,1 @@
+jsonp({"cep":"07040283","logradouro":"Rua Terceiro-Sargento-Pol\u00edcia Militar Ant\u00f4nio Eug\u00eanio Martins","bairro":"Vila S\u00e3o Jo\u00e3o","cidade":"Guarulhos","uf":"SP","estado":"S\u00e3o Paulo"});
