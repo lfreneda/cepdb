@@ -1,0 +1,1 @@
+jsonp({"cep":"94010075","logradouro":"Rua Tenente-Coronel Andr\u00e9 de Moraes Sarmento","bairro":"Centro","cidade":"Gravata\u00ed","uf":"RS","estado":"Rio Grande do Sul"});

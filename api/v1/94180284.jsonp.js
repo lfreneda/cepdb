@@ -1,0 +1,1 @@
+jsonp({"cep":"94180284","logradouro":"Rua In\u00e1cio de Loiola Brand\u00e3o","bairro":"S\u00edtio Ga\u00facho","cidade":"Gravata\u00ed","uf":"RS","estado":"Rio Grande do Sul"});

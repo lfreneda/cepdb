@@ -1,0 +1,1 @@
+jsonp({"cep":"93530495","logradouro":"Rua Pastor Valdemar Ram\u00e3o","bairro":"S\u00e3o Jos\u00e9","cidade":"Novo Hamburgo","uf":"RS","estado":"Rio Grande do Sul"});

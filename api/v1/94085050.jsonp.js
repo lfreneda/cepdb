@@ -1,0 +1,1 @@
+jsonp({"cep":"94085050","logradouro":"Rua D\u00e1rio Totta","bairro":"Morada do Vale I","cidade":"Gravata\u00ed","uf":"RS","estado":"Rio Grande do Sul"});

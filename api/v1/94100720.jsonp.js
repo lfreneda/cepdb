@@ -1,0 +1,1 @@
+jsonp({"cep":"94100720","logradouro":"Rua Ipiranga","bairro":"Ne\u00f3polis","cidade":"Gravata\u00ed","uf":"RS","estado":"Rio Grande do Sul"});

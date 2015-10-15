@@ -1,0 +1,1 @@
+jsonp({"cep":"94100390","logradouro":"Rua Buritis","bairro":"Ne\u00f3polis","cidade":"Gravata\u00ed","uf":"RS","estado":"Rio Grande do Sul"});
