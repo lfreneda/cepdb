@@ -1,0 +1,1 @@
+jsonp({"cep":"18053150","logradouro":"Rua Professor Rold\u00e3o Pereira de Mello","bairro":"Conjunto Habitacional J\u00falio de Mesquita Filho","cidade":"Sorocaba","uf":"SP","estado":"S\u00e3o Paulo"});

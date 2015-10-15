@@ -1,0 +1,1 @@
+jsonp({"cep":"18053122","logradouro":"Rua Professora Maria Benedita Augusto Keller","bairro":"Conjunto Habitacional J\u00falio de Mesquita Filho","cidade":"Sorocaba","uf":"SP","estado":"S\u00e3o Paulo"});

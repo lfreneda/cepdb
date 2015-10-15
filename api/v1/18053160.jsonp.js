@@ -1,0 +1,1 @@
+jsonp({"cep":"18053160","logradouro":"Rua Jos\u00e9 Ant\u00f4nio Ruiz Maldonado","bairro":"Conjunto Habitacional J\u00falio de Mesquita Filho","cidade":"Sorocaba","uf":"SP","estado":"S\u00e3o Paulo"});
