@@ -1,0 +1,1 @@
+jsonp({"cep":"33821114","logradouro":"Rua Epamin\u00f4ndas Mendon\u00e7a da Silva","bairro":"Alterosa","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

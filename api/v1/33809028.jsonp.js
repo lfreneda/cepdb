@@ -1,0 +1,1 @@
+jsonp({"cep":"33809028","logradouro":"Alameda Maritacas","bairro":"Jardim Colonial","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"33805245","logradouro":"Rua Erasmo Ant\u00f4nio Rom\u00e3o","bairro":"Santa Matilde","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

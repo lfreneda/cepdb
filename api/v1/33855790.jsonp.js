@@ -1,0 +1,1 @@
+jsonp({"cep":"33855790","logradouro":"Rua Sebastiana Concei\u00e7\u00e3o Moura","bairro":"Santinho","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

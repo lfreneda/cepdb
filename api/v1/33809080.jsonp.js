@@ -1,0 +1,1 @@
+jsonp({"cep":"33809080","logradouro":"Alameda P\u00e1ssaro Preto","bairro":"Jardim Colonial","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

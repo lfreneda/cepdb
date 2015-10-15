@@ -1,0 +1,1 @@
+jsonp({"cep":"33140210","logradouro":"Rua Cl\u00e1udio Jos\u00e9 de Faria","bairro":"Conjunto Palmital (S\u00e3o Benedito)","cidade":"Santa Luzia","uf":"MG","estado":"Minas Gerais"});

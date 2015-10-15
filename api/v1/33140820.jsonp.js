@@ -1,0 +1,1 @@
+jsonp({"cep":"33140820","logradouro":"Avenida Am\u00e1lia Caldas Vargas","bairro":"Conjunto Palmital (S\u00e3o Benedito)","cidade":"Santa Luzia","uf":"MG","estado":"Minas Gerais"});

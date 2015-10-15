@@ -1,0 +1,1 @@
+jsonp({"cep":"33823660","logradouro":"Rua Jos\u00e9 Gon\u00e7alves Viana","bairro":"Floren\u00e7a","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

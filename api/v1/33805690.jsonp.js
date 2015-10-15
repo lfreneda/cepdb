@@ -1,0 +1,1 @@
+jsonp({"cep":"33805690","logradouro":"Rua do Cacique","bairro":"Vila do Cacique","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

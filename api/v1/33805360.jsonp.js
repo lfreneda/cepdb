@@ -1,0 +1,1 @@
+jsonp({"cep":"33805360","logradouro":"Rua S\u00e3o Paulo","bairro":"S\u00e3o Geraldo","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

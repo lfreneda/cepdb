@@ -1,0 +1,1 @@
+jsonp({"cep":"33900435","logradouro":"Beco Jos\u00e9 C\u00e2ndido Magalh\u00e3es","bairro":"S\u00e3o Janu\u00e1rio (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

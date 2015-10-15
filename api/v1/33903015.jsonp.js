@@ -1,0 +1,1 @@
+jsonp({"cep":"33903015","logradouro":"Rua Jos\u00e9 Romualdo Bonif\u00e1cio da Rocha","bairro":"Vera L\u00facia (Justin\u00f3polis)","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});

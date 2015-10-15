@@ -1,0 +1,1 @@
+jsonp({"cep":"33833042","logradouro":"Alameda das Jand\u00e1ias","bairro":"Condom\u00ednio Vale do Ouro","cidade":"Ribeir\u00e3o das Neves","uf":"MG","estado":"Minas Gerais"});
