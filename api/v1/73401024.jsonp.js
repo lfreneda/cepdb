@@ -1,0 +1,1 @@
+jsonp({"cep":"73401024","logradouro":"Rodovia DF-128 km 16.9 \u00c1rea Especial 1","bairro":"Residencial Nova Planaltina (Planaltina)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

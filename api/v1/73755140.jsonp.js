@@ -1,0 +1,1 @@
+jsonp({"cep":"73755140","logradouro":"Quadra Quadra 140","bairro":"Jardim Paquet\u00e1 II","cidade":"Planaltina de Goi\u00e1s","uf":"GO","estado":"Goi\u00e1s"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"73380300","logradouro":"Condom\u00ednio Est\u00e2ncia Mestre D'Armas III","bairro":"Setor Residencial Mestre D'Armas (Planaltina)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

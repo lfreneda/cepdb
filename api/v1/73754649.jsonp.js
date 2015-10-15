@@ -1,0 +1,1 @@
+jsonp({"cep":"73754649","logradouro":"Quadra SQ 58 Conjunto I","bairro":"Brasilinha 16 (Panorama)","cidade":"Planaltina de Goi\u00e1s","uf":"GO","estado":"Goi\u00e1s"});
