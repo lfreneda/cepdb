@@ -1,0 +1,1 @@
+jsonp({"cep":"24858572","logradouro":"Rua Jorge Duarte de S\u00e1","bairro":"Apolo II (Manilha)","cidade":"Itabora\u00ed","uf":"RJ","estado":"Rio de Janeiro"});

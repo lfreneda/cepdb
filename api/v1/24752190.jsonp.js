@@ -1,0 +1,1 @@
+jsonp({"cep":"24752190","logradouro":"Avenida Lu\u00eds Ant\u00f4nio Freire Lessa","bairro":"Ipi\u00edba","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"24841365","logradouro":"Estrada Coronel Diniz","bairro":"Alto do Jac\u00fa (Sambaetiba)","cidade":"Itabora\u00ed","uf":"RJ","estado":"Rio de Janeiro"});

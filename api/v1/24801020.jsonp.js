@@ -1,0 +1,1 @@
+jsonp({"cep":"24801020","logradouro":"Rua El\u00edsio Rodrigues da Costa","bairro":"Nancil\u00e2ndia","cidade":"Itabora\u00ed","uf":"RJ","estado":"Rio de Janeiro"});
