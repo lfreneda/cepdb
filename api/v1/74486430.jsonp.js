@@ -1,0 +1,1 @@
+jsonp({"cep":"74486430","logradouro":"Rua ANI 2","bairro":"Residencial Anicuns","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
