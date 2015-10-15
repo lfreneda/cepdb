@@ -1,0 +1,1 @@
+jsonp({"cep":"58079160","logradouro":"Rua Professora Maria da Gl\u00f3ria Moreira Freire","bairro":"Funcion\u00e1rios","cidade":"Jo\u00e3o Pessoa","uf":"PB","estado":"Para\u00edba"});
