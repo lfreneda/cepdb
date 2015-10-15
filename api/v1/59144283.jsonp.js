@@ -1,0 +1,1 @@
+jsonp({"cep":"59144283","logradouro":"Rua Jos\u00e9 Francisco da SIlva","bairro":"Nova Esperan\u00e7a","cidade":"Parnamirim","uf":"RN","estado":"Rio Grande do Norte"});
