@@ -1,0 +1,1 @@
+jsonp({"cep":"22763220","logradouro":"Rua Penaforte","bairro":"Freguesia (Jacarepagu\u00e1)","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
