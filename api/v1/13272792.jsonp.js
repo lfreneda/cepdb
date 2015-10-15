@@ -1,0 +1,1 @@
+jsonp({"cep":"13272792","logradouro":"Rua Engenheiro Jo\u00e3o Pr\u00f3speri de Ara\u00fajo","bairro":"Loteamento Residencial Santa Gertrudes","cidade":"Valinhos","uf":"SP","estado":"S\u00e3o Paulo"});

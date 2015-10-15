@@ -1,0 +1,1 @@
+jsonp({"cep":"13272840","logradouro":"Rua Tr\u00eas","bairro":"Jardim S\u00e3o Marcos","cidade":"Valinhos","uf":"SP","estado":"S\u00e3o Paulo"});

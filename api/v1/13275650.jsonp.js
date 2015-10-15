@@ -1,0 +1,1 @@
+jsonp({"cep":"13275650","logradouro":"Rua Cezira Trombeta Speglish","bairro":"Residencial Nova Era","cidade":"Valinhos","uf":"SP","estado":"S\u00e3o Paulo"});

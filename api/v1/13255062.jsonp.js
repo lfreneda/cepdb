@@ -1,0 +1,1 @@
+jsonp({"cep":"13255062","logradouro":"Rua Maria Am\u00e9lia Gon\u00e7alves de Oliveira Bueno","bairro":"Condom\u00ednio Residencial Beija-Flor","cidade":"Itatiba","uf":"SP","estado":"S\u00e3o Paulo"});

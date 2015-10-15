@@ -1,0 +1,1 @@
+jsonp({"cep":"13255579","logradouro":"Pra\u00e7a Ant\u00f4nio M\u00e1rio Machado Filho","bairro":"N\u00facleo Residencial Doutor Luiz de Mattos Pimenta","cidade":"Itatiba","uf":"SP","estado":"S\u00e3o Paulo"});

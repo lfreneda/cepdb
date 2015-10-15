@@ -1,0 +1,1 @@
+jsonp({"cep":"13256765","logradouro":"Rua C\u00f4nego Francisco de Assis Gandolpho","bairro":"N\u00facleo Habitacional Prefeito Erasmo Chrispim","cidade":"Itatiba","uf":"SP","estado":"S\u00e3o Paulo"});
