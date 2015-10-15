@@ -1,0 +1,1 @@
+jsonp({"cep":"83212445","logradouro":"Travessa Jos\u00e9 Maria do Amaral","bairro":"Divin\u00e9ia","cidade":"Paranagu\u00e1","uf":"PR","estado":"Paran\u00e1"});

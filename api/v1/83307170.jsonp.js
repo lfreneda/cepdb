@@ -1,0 +1,1 @@
+jsonp({"cep":"83307170","logradouro":"Rua Vict\u00f3rio Luiz Zamb\u00e3o","bairro":"Vila S\u00e3o Tiago","cidade":"Piraquara","uf":"PR","estado":"Paran\u00e1"});

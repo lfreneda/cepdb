@@ -1,0 +1,1 @@
+jsonp({"cep":"83070310","logradouro":"Rua Doutor Nivaldo \u00canio de Moura e Costa","bairro":"Rio Pequeno","cidade":"S\u00e3o Jos\u00e9 dos Pinhais","uf":"PR","estado":"Paran\u00e1"});

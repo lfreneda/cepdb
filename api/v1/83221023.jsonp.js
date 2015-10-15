@@ -1,0 +1,1 @@
+jsonp({"cep":"83221023","logradouro":"Rua Professora Cristina Beatriz L\u00fcck da Silva Di\u00e1z Martinez","bairro":"Vila Paranagu\u00e1","cidade":"Paranagu\u00e1","uf":"PR","estado":"Paran\u00e1"});
