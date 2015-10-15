@@ -1,0 +1,1 @@
+jsonp({"cep":"06784290","logradouro":"Rua Irm\u00e3 Ol\u00edmpia da Apresenta\u00e7\u00e3o Carvalho","bairro":"S\u00edtio das Madres","cidade":"Tabo\u00e3o da Serra","uf":"SP","estado":"S\u00e3o Paulo"});
