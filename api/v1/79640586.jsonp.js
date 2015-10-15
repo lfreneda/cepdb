@@ -1,0 +1,1 @@
+jsonp({"cep":"79640586","logradouro":"Rua Dirce A. Piacentini","bairro":"Jardim Carand\u00e1","cidade":"Tr\u00eas Lagoas","uf":"MS","estado":"Mato Grosso do Sul"});

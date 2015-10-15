@@ -1,0 +1,1 @@
+jsonp({"cep":"79630290","logradouro":"Rua Ant\u00f4nio Pinelli","bairro":"Jardim das Oliveiras","cidade":"Tr\u00eas Lagoas","uf":"MS","estado":"Mato Grosso do Sul"});

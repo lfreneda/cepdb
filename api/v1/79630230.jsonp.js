@@ -1,0 +1,1 @@
+jsonp({"cep":"79630230","logradouro":"Rua das Na\u00e7\u00f5es","bairro":"Jardim Mo\u00e7ambique","cidade":"Tr\u00eas Lagoas","uf":"MS","estado":"Mato Grosso do Sul"});

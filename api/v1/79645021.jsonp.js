@@ -1,0 +1,1 @@
+jsonp({"cep":"79645021","logradouro":"Alameda C\u00e9lio Jos\u00e9 Costa","bairro":"Jardim Santo Andr\u00e9","cidade":"Tr\u00eas Lagoas","uf":"MS","estado":"Mato Grosso do Sul"});

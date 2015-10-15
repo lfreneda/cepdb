@@ -1,0 +1,1 @@
+jsonp({"cep":"79901068","logradouro":"Travessa Coronel Jos\u00e9 H\u00e9lio Macedo de Carvalho","bairro":"Jardim Independ\u00eancia","cidade":"Ponta Por\u00e3","uf":"MS","estado":"Mato Grosso do Sul"});
