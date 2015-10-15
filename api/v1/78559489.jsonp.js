@@ -1,0 +1,1 @@
+jsonp({"cep":"78559489","logradouro":"Rua Jo\u00e3o Pedro Moreira de Carvalho","bairro":"Loteamento Umuarama II","cidade":"Sinop","uf":"MT","estado":"Mato Grosso"});

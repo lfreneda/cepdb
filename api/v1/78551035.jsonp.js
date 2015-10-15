@@ -1,0 +1,1 @@
+jsonp({"cep":"78551035","logradouro":"Rua Bizazel Jos\u00e9 dos Santos","bairro":"Loteamento Industrial Comercial e de Presta\u00e7\u00e3o de Servi\u00e7o Norte de Sinop","cidade":"Sinop","uf":"MT","estado":"Mato Grosso"});

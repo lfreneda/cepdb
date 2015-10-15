@@ -1,0 +1,1 @@
+jsonp({"cep":"78559138","logradouro":"Rua S\u00e3o Jo\u00e3o","bairro":"Residencial S\u00e3o Francisco","cidade":"Sinop","uf":"MT","estado":"Mato Grosso"});

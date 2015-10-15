@@ -1,0 +1,1 @@
+jsonp({"cep":"78555130","logradouro":"Rua Professor Silv\u00e1rio Rodolfo Bechmann","bairro":"Residencial Vit\u00f3ria R\u00e9gia","cidade":"Sinop","uf":"MT","estado":"Mato Grosso"});

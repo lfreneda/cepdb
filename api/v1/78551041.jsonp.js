@@ -1,0 +1,1 @@
+jsonp({"cep":"78551041","logradouro":"Avenida Adair Leo Dall Agnol","bairro":"Loteamento Industrial Comercial e de Presta\u00e7\u00e3o de Servi\u00e7o Norte de Sinop","cidade":"Sinop","uf":"MT","estado":"Mato Grosso"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"78158775","logradouro":"Rua Nortel\u00e2ndia","bairro":"Parque das Na\u00e7\u00f5es","cidade":"V\u00e1rzea Grande","uf":"MT","estado":"Mato Grosso"});
