@@ -1,0 +1,1 @@
+jsonp({"cep":"17208140","logradouro":"Rua Ant\u00f4nio Camargo Penteado","bairro":"Jardim Netinho Prado","cidade":"Ja\u00fa","uf":"SP","estado":"S\u00e3o Paulo"});

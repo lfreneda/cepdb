@@ -1,0 +1,1 @@
+jsonp({"cep":"17065411","logradouro":"Rua Jo\u00e3o Ant\u00f4nio de Souza","bairro":"N\u00facleo Habitacional Vereador Edson Francisco da Silva","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

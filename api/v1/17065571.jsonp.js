@@ -1,0 +1,1 @@
+jsonp({"cep":"17065571","logradouro":"Rua Ant\u00f4nio de Campos Fraga Neto","bairro":"N\u00facleo Habitacional Vereador Edson Francisco da Silva","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

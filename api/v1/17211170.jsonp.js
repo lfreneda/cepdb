@@ -1,0 +1,1 @@
+jsonp({"cep":"17211170","logradouro":"Alameda Coronel Paula Prado","bairro":"Jardim Antonina","cidade":"Ja\u00fa","uf":"SP","estado":"S\u00e3o Paulo"});

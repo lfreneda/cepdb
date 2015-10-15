@@ -1,0 +1,1 @@
+jsonp({"cep":"17065500","logradouro":"Rua Padre Ros\u00e1rio Ant\u00f4nio Scazzi","bairro":"N\u00facleo Habitacional Vereador Edson Francisco da Silva","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

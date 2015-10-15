@@ -1,0 +1,1 @@
+jsonp({"cep":"17065420","logradouro":"Rua Professora Floripes Silveira de Souza","bairro":"N\u00facleo Habitacional Vereador Edson Francisco da Silva","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

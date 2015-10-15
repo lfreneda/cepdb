@@ -1,0 +1,1 @@
+jsonp({"cep":"17064103","logradouro":"Pra\u00e7a Jovino Gomes da Silva","bairro":"Jardim Petr\u00f3polis","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

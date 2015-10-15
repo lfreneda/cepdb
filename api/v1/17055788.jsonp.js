@@ -1,0 +1,1 @@
+jsonp({"cep":"17055788","logradouro":"Rua Maria Hon\u00f3ria D'\u00c1vila Engler","bairro":"Conjunto Habitacional Joaquim Guilherme de Oliveira","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});

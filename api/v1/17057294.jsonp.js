@@ -1,0 +1,1 @@
+jsonp({"cep":"17057294","logradouro":"Rua Jos\u00e9 Roberto Dantas Ferraz do Amaral","bairro":"Conjunto Habitacional Presidente Eurico Gaspar Dutra","cidade":"Bauru","uf":"SP","estado":"S\u00e3o Paulo"});
