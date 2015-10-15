@@ -1,0 +1,1 @@
+jsonp({"cep":"29176021","logradouro":"Rua Flor\u00eancio da Concei\u00e7\u00e3o","bairro":"Serra Centro","cidade":"Serra","uf":"ES","estado":"Esp\u00edrito Santo"});

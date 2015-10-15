@@ -1,0 +1,1 @@
+jsonp({"cep":"29176558","logradouro":"Rua Jos\u00e9 Francisco II","bairro":"Nossa Senhora da Concei\u00e7\u00e3o","cidade":"Serra","uf":"ES","estado":"Esp\u00edrito Santo"});
