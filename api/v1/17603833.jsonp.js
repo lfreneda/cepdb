@@ -1,0 +1,1 @@
+jsonp({"cep":"17603833","logradouro":"Rua Pioneiro Jo\u00e3o Trocoli","bairro":"Conjunto Habitacional Pioneiro Jos\u00e9 Feliciano","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});

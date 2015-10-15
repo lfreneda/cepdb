@@ -1,0 +1,1 @@
+jsonp({"cep":"17533243","logradouro":"Rua Jo\u00e3o Batista D'aloia","bairro":"S\u00edtios de Recreio Shangril\u00e1 (Padre N\u00f3brega)","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

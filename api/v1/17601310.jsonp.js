@@ -1,0 +1,1 @@
+jsonp({"cep":"17601310","logradouro":"Rua Kossey Yamaki","bairro":"Vila Abarca","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});

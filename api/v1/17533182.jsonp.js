@@ -1,0 +1,1 @@
+jsonp({"cep":"17533182","logradouro":"Rua Lauro Aparecido Gerv\u00e1sio","bairro":"Ch\u00e1cara de Recreio Let\u00edcia II (Padre N\u00f3brega)","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

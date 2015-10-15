@@ -1,0 +1,1 @@
+jsonp({"cep":"17602771","logradouro":"Rua Comerciante Ant\u00f4nio Monteiro Haddad","bairro":"Conjunto Habitacional Severino Fortunato da Silva","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});

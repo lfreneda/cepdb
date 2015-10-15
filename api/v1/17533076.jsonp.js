@@ -1,0 +1,1 @@
+jsonp({"cep":"17533076","logradouro":"Rua Olinda Guiz\u00e3o Spadotto","bairro":"Parque dos Sabi\u00e1s II (Padre N\u00f3brega)","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

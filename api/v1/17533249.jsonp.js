@@ -1,0 +1,1 @@
+jsonp({"cep":"17533249","logradouro":"Rua L\u00eddia Fernande Spress\u00e3o","bairro":"S\u00edtios de Recreio Shangril\u00e1 (Padre N\u00f3brega)","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

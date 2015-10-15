@@ -1,0 +1,1 @@
+jsonp({"cep":"17527631","logradouro":"Rua Clarindo Severino Guedes","bairro":"Conjunto Residencial Sargento Jos\u00e9 Carlos Alves Ferreira","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

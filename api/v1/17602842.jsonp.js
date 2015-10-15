@@ -1,0 +1,1 @@
+jsonp({"cep":"17602842","logradouro":"Rua Arquiteto Jos\u00e9 Carlos Gon\u00e7alves","bairro":"Conjunto Habitacional Ant\u00f4nio Pereira Gaspar","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"17604280","logradouro":"Rua Bauru","bairro":"Vila das Ind\u00fastrias","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});

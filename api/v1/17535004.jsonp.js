@@ -1,0 +1,1 @@
+jsonp({"cep":"17535004","logradouro":"Rua Aurindo Andrade","bairro":"Am\u00e9rico Jos\u00e9 de Oliveira (Ros\u00e1lia)","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

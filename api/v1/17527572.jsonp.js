@@ -1,0 +1,1 @@
+jsonp({"cep":"17527572","logradouro":"Rua L\u00e9ia Cristina Coneglian Iwazaki","bairro":"N\u00facleo Habitacional Jos\u00e9 Teruel Martinez","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

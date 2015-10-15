@@ -1,0 +1,1 @@
+jsonp({"cep":"17603837","logradouro":"Rua Agente Postal Antonio Nicola Salate","bairro":"Conjunto Habitacional Pioneiro Jos\u00e9 Feliciano","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});

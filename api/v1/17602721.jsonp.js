@@ -1,0 +1,1 @@
+jsonp({"cep":"17602721","logradouro":"Rua Pioneiro Ab\u00edlio Pedro de Souza","bairro":"Conjunto Habitacional Vereador Joaquim Ribeiro Porto","cidade":"Tup\u00e3","uf":"SP","estado":"S\u00e3o Paulo"});
