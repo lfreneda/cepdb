@@ -1,0 +1,1 @@
+jsonp({"cep":"86803700","logradouro":"Rua Raul Caetano de Souza","bairro":"Loteamento Residencial Cidade Educa\u00e7\u00e3o","cidade":"Apucarana","uf":"PR","estado":"Paran\u00e1"});
