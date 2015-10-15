@@ -1,0 +1,1 @@
+jsonp({"cep":"73803342","logradouro":"Rua da Esperan\u00e7a","bairro":"Jardim das Am\u00e9ricas","cidade":"Formosa","uf":"GO","estado":"Goi\u00e1s"});

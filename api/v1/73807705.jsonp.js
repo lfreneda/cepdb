@@ -1,0 +1,1 @@
+jsonp({"cep":"73807705","logradouro":"Rua Jos\u00e9 Magalh\u00e3es","bairro":"Jardim Calif\u00f3rnia","cidade":"Formosa","uf":"GO","estado":"Goi\u00e1s"});
