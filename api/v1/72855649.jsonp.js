@@ -1,0 +1,1 @@
+jsonp({"cep":"72855649","logradouro":"Rua Elmasub","bairro":"Cidade Osfaya","cidade":"Luzi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

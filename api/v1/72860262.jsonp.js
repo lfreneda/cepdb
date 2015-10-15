@@ -1,0 +1,1 @@
+jsonp({"cep":"72860262","logradouro":"Conjunto 07 IA Rua 12","bairro":"N\u00facleo Habitacional Novo Gama","cidade":"Novo Gama","uf":"GO","estado":"Goi\u00e1s"});
