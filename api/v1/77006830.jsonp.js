@@ -1,0 +1,1 @@
+jsonp({"cep":"77006830","logradouro":"Quadra 612 Norte Avenida NS 10","bairro":"Plano Diretor Norte","cidade":"Palmas","uf":"TO","estado":"Tocantins"});
