@@ -1,0 +1,1 @@
+jsonp({"cep":"83708100","logradouro":"Rua Capit\u00e3o Arist\u00f3teles Moreira","bairro":"Tindiquera","cidade":"Arauc\u00e1ria","uf":"PR","estado":"Paran\u00e1"});

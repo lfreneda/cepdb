@@ -1,0 +1,1 @@
+jsonp({"cep":"83602640","logradouro":"Rua Irene Am\u00e1bile Stangherlin Teixeira","bairro":"Conjunto Habitacional Joaquim Celestino Ferreira","cidade":"Campo Largo","uf":"PR","estado":"Paran\u00e1"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"83601768","logradouro":"Rua Gern\u00e2ncio Rodrigues de Moura","bairro":"N\u00facleo Habitacional Doutor Abranches Guimar\u00e3es","cidade":"Campo Largo","uf":"PR","estado":"Paran\u00e1"});

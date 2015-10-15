@@ -1,0 +1,1 @@
+jsonp({"cep":"83601780","logradouro":"Rua Terezinha Cola\u00e7o da Silveira","bairro":"N\u00facleo Habitacional Doutor Abranches Guimar\u00e3es","cidade":"Campo Largo","uf":"PR","estado":"Paran\u00e1"});

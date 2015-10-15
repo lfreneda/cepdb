@@ -1,0 +1,1 @@
+jsonp({"cep":"83708020","logradouro":"Rua Anast\u00e1cio Flizikowski","bairro":"Sabi\u00e1","cidade":"Arauc\u00e1ria","uf":"PR","estado":"Paran\u00e1"});
