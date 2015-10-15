@@ -1,0 +1,1 @@
+jsonp({"cep":"91060080","logradouro":"Rua Itiber\u00ea da Cunha","bairro":"S\u00e3o Sebasti\u00e3o","cidade":"Porto Alegre","uf":"RS","estado":"Rio Grande do Sul"});

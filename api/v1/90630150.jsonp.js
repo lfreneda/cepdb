@@ -1,0 +1,1 @@
+jsonp({"cep":"90630150","logradouro":"Rua Dona Eug\u00eania","bairro":"Santa Cec\u00edlia","cidade":"Porto Alegre","uf":"RS","estado":"Rio Grande do Sul"});
