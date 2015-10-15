@@ -1,0 +1,1 @@
+jsonp({"cep":"23061580","logradouro":"Rua Jo\u00e3o Epif\u00e2nio da Silva","bairro":"Campo Grande","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
