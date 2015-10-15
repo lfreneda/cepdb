@@ -1,0 +1,1 @@
+jsonp({"cep":"79032240","logradouro":"Rua Cipriano Barata","bairro":"Vila do Polon\u00eas","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});

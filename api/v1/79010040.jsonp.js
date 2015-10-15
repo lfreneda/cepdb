@@ -1,0 +1,1 @@
+jsonp({"cep":"79010040","logradouro":"Rua Pernambuco","bairro":"Monte Castelo","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});

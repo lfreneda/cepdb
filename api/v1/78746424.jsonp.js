@@ -1,0 +1,1 @@
+jsonp({"cep":"78746424","logradouro":"Avenida Adalberto Antonio da Silva","bairro":"Jardim Maracan\u00e3","cidade":"Rondon\u00f3polis","uf":"MT","estado":"Mato Grosso"});
