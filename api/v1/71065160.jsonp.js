@@ -1,0 +1,1 @@
+jsonp({"cep":"71065160","logradouro":"Quadra QE 30 Conjunto P","bairro":"Guar\u00e1 II","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

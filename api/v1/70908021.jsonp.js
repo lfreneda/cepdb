@@ -1,0 +1,1 @@
+jsonp({"cep":"70908021","logradouro":"Setor Casa do Estudante Universit\u00e1rio Bloco A","bairro":"Campus Universit\u00e1rio Darcy Ribeiro","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
