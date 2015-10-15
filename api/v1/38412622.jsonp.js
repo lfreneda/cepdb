@@ -1,0 +1,1 @@
+jsonp({"cep":"38412622","logradouro":"Avenida Alexi Abrah\u00e3o","bairro":"Nova Uberl\u00e2ndia","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

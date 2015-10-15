@@ -1,0 +1,1 @@
+jsonp({"cep":"38413649","logradouro":"Rua da Fl\u00f4r de C\u00eara","bairro":"Panorama","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

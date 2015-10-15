@@ -1,0 +1,1 @@
+jsonp({"cep":"38414288","logradouro":"Rua Ant\u00f4nio Rufino Borges","bairro":"Luizote de Freitas","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

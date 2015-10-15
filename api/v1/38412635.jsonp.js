@@ -1,0 +1,1 @@
+jsonp({"cep":"38412635","logradouro":"Rua Oct\u00e1vio Ant\u00f4nio de Oliveira","bairro":"Nova Uberl\u00e2ndia","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});
