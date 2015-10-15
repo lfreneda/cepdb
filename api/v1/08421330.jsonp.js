@@ -1,0 +1,1 @@
+jsonp({"cep":"08421330","logradouro":"Rua Ant\u00f4nio Gilberto Porf\u00edrio-Agep\u00ea","bairro":"Conjunto Habitacional Fazenda do Carmo","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

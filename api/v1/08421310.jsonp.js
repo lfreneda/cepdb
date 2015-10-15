@@ -1,0 +1,1 @@
+jsonp({"cep":"08421310","logradouro":"Rua Lu\u00eds Ant\u00f4nio de P\u00e1dua Vieira Costa","bairro":"Conjunto Habitacional Fazenda do Carmo","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
