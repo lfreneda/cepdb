@@ -1,0 +1,1 @@
+jsonp({"cep":"25955403","logradouro":"Pra\u00e7a Pastor Ant\u00f4nio Moreira Portes","bairro":"V\u00e1rzea","cidade":"Teres\u00f3polis","uf":"RJ","estado":"Rio de Janeiro"});

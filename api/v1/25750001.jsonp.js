@@ -1,0 +1,1 @@
+jsonp({"cep":"25750001","logradouro":"Rua Ant\u00f4nio de Almeida Lima J\u00fanior","bairro":"Itaipava","cidade":"Petr\u00f3polis","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"25806180","logradouro":"Rua Ant\u00f4nio Pinto","bairro":"Cantagalo","cidade":"Tr\u00eas Rios","uf":"RJ","estado":"Rio de Janeiro"});
