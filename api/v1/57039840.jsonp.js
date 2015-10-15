@@ -1,0 +1,1 @@
+jsonp({"cep":"57039840","logradouro":"Residencial Ref\u00fagio das \u00c1guas","bairro":"Ipioca","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

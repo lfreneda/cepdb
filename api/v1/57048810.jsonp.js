@@ -1,0 +1,1 @@
+jsonp({"cep":"57048810","logradouro":"Rua Jo\u00e3o Correia Costa","bairro":"Antares","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

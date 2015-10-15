@@ -1,0 +1,1 @@
+jsonp({"cep":"57035238","logradouro":"Rua Jos\u00e9 Cabral Acioli","bairro":"Ponta Verde","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

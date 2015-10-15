@@ -1,0 +1,1 @@
+jsonp({"cep":"57060020","logradouro":"Rua Ant\u00f4nio Monteiro de Carvalho","bairro":"Tabuleiro do Martins","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

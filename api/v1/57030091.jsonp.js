@@ -1,0 +1,1 @@
+jsonp({"cep":"57030091","logradouro":"Rua Doutor Ant\u00f4nio Pedro de Mendon\u00e7a","bairro":"Paju\u00e7ara","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

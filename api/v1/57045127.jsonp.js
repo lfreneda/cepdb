@@ -1,0 +1,1 @@
+jsonp({"cep":"57045127","logradouro":"Rua Jos\u00e9 Ferreira de Almeida","bairro":"Barro Duro","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

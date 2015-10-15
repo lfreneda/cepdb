@@ -1,0 +1,1 @@
+jsonp({"cep":"57039834","logradouro":"Avenida Professor M\u00e1rio Broad","bairro":"Ipioca","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

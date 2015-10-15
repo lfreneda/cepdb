@@ -1,0 +1,1 @@
+jsonp({"cep":"57052645","logradouro":"Avenida Jornalista Jos\u00e9 Batista dos Santos","bairro":"Gruta de Lourdes","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});
