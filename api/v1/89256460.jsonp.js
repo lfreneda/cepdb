@@ -1,0 +1,1 @@
+jsonp({"cep":"89256460","logradouro":"Rua Jos\u00e9 Marcelino Muller","bairro":"Vila Baependi","cidade":"Jaragu\u00e1 do Sul","uf":"SC","estado":"Santa Catarina"});

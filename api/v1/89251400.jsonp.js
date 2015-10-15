@@ -1,0 +1,1 @@
+jsonp({"cep":"89251400","logradouro":"Rua Bar\u00e3o do Rio Branco","bairro":"Centro","cidade":"Jaragu\u00e1 do Sul","uf":"SC","estado":"Santa Catarina"});

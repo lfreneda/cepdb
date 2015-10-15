@@ -1,0 +1,1 @@
+jsonp({"cep":"89262005","logradouro":"Rua Jo\u00e3o Janu\u00e1rio Ayroso","bairro":"Parque Malwee","cidade":"Jaragu\u00e1 do Sul","uf":"SC","estado":"Santa Catarina"});

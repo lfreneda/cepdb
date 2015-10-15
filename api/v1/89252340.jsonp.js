@@ -1,0 +1,1 @@
+jsonp({"cep":"89252340","logradouro":"Rua Tharcicio de Oliveira Motta","bairro":"Vila Lenzi","cidade":"Jaragu\u00e1 do Sul","uf":"SC","estado":"Santa Catarina"});
