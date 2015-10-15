@@ -1,0 +1,1 @@
+jsonp({"cep":"70650493","logradouro":"Quadra SHCES Quadra 409 Bloco C","bairro":"Cruzeiro Novo","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

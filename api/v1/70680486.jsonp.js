@@ -1,0 +1,1 @@
+jsonp({"cep":"70680486","logradouro":"Quadra CCSW 4 Lote 5 Bloco B","bairro":"Setor Sudoeste","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
