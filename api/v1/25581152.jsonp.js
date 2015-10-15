@@ -1,0 +1,1 @@
+jsonp({"cep":"25581152","logradouro":"Rua Palace Freire","bairro":"Parque Teles de Menezes","cidade":"S\u00e3o Jo\u00e3o de Meriti","uf":"RJ","estado":"Rio de Janeiro"});
