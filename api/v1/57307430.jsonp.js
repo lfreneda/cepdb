@@ -1,0 +1,1 @@
+jsonp({"cep":"57307430","logradouro":"Avenida Jos\u00e9 L\u00facio da Silva","bairro":"Jardim Esperan\u00e7a","cidade":"Arapiraca","uf":"AL","estado":"Alagoas"});

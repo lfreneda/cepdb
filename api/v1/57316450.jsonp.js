@@ -1,0 +1,1 @@
+jsonp({"cep":"57316450","logradouro":"Avenida Vereador Jo\u00e3o Saturnino de Almeida","bairro":"Nova Esperan\u00e7a","cidade":"Arapiraca","uf":"AL","estado":"Alagoas"});

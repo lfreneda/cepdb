@@ -1,0 +1,1 @@
+jsonp({"cep":"57303340","logradouro":"Rua Ant\u00f4nio Saturnino de Almeida","bairro":"Boa Vista","cidade":"Arapiraca","uf":"AL","estado":"Alagoas"});

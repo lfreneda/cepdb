@@ -1,0 +1,1 @@
+jsonp({"cep":"57312190","logradouro":"Rua Adem\u00e1rio Jos\u00e9 Mendes Lira","bairro":"Santa Esmeralda","cidade":"Arapiraca","uf":"AL","estado":"Alagoas"});

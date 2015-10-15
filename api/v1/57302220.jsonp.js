@@ -1,0 +1,1 @@
+jsonp({"cep":"57302220","logradouro":"Rua Jos\u00e9 Dias","bairro":"Canaf\u00edstula","cidade":"Arapiraca","uf":"AL","estado":"Alagoas"});
