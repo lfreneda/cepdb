@@ -1,0 +1,1 @@
+jsonp({"cep":"74730110","logradouro":"Rua 3","bairro":"Conjunto Riviera","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

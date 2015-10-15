@@ -1,0 +1,1 @@
+jsonp({"cep":"74769751","logradouro":"Rua TR 2","bairro":"Loteamento Tupinamb\u00e1 dos Reis","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

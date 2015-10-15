@@ -1,0 +1,1 @@
+jsonp({"cep":"74690060","logradouro":"Rua Doutor Napole\u00e3o Rodrigues Laureano","bairro":"Vila Jardim Pomp\u00e9ia","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
