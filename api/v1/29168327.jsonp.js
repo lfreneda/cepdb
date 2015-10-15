@@ -1,0 +1,1 @@
+jsonp({"cep":"29168327","logradouro":"Rua Oito","bairro":"Maring\u00e1","cidade":"Serra","uf":"ES","estado":"Esp\u00edrito Santo"});
