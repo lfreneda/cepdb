@@ -1,0 +1,1 @@
+jsonp({"cep":"92425530","logradouro":"Rua Manoel Antonio Ramos","bairro":"S\u00e3o Jos\u00e9","cidade":"Canoas","uf":"RS","estado":"Rio Grande do Sul"});
