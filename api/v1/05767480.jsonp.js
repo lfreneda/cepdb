@@ -1,0 +1,1 @@
+jsonp({"cep":"05767480","logradouro":"Rua Manuel Ribeiro de Azevedo","bairro":"Jardim Catanduva","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"05858080","logradouro":"Avenida Professor Doutor Tel\u00eamaco Hippolyto de Macedo Van Langendonck","bairro":"Jardim Itaoca","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
