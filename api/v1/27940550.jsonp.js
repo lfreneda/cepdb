@@ -1,0 +1,1 @@
+jsonp({"cep":"27940550","logradouro":"Rua Jonas Mussi","bairro":"Visconde de Ara\u00fajo","cidade":"Maca\u00e9","uf":"RJ","estado":"Rio de Janeiro"});

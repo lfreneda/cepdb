@@ -1,0 +1,1 @@
+jsonp({"cep":"28055150","logradouro":"Rua Doutor Jo\u00e3o de Almeida Filho","bairro":"Parque Corrientes","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

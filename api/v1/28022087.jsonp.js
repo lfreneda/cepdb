@@ -1,0 +1,1 @@
+jsonp({"cep":"28022087","logradouro":"Travessa Jo\u00e3o Maciel","bairro":"Parque J\u00f3quei Club","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

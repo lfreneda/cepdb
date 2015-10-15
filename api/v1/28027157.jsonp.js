@@ -1,0 +1,1 @@
+jsonp({"cep":"28027157","logradouro":"Rua Doutor Ant\u00f4nio Eug\u00eanio Fritsch","bairro":"Parque Ros\u00e1rio","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"27950400","logradouro":"Rua Manuel Ant\u00f4nio de Assump\u00e7\u00e3o","bairro":"Parque Aeroporto","cidade":"Maca\u00e9","uf":"RJ","estado":"Rio de Janeiro"});
