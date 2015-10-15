@@ -1,0 +1,1 @@
+jsonp({"cep":"31365515","logradouro":"Avenida Jo\u00e3o Batista Drumond","bairro":"Bra\u00fanas","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

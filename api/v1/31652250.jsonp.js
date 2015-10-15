@@ -1,0 +1,1 @@
+jsonp({"cep":"31652250","logradouro":"Rua Pedro Gomes Campos","bairro":"Jardim dos Comerci\u00e1rios (Venda Nova)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

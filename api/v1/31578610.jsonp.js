@@ -1,0 +1,1 @@
+jsonp({"cep":"31578610","logradouro":"Rua Radialista Ant\u00f4nio On\u00e9simo","bairro":"C\u00e9u Azul","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

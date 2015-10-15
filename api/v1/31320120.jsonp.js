@@ -1,0 +1,1 @@
+jsonp({"cep":"31320120","logradouro":"Rua \u00c1pio Cardoso da Paix\u00e3o","bairro":"Ouro Preto","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

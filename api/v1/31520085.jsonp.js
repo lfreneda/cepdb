@@ -1,0 +1,1 @@
+jsonp({"cep":"31520085","logradouro":"Rua Madre Teresa de Calcut\u00e1","bairro":"S\u00e3o Jo\u00e3o Batista (Venda Nova)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});
