@@ -1,0 +1,1 @@
+jsonp({"cep":"21236030","logradouro":"Beco Fam\u00edlia Antunes","bairro":"Iraj\u00e1","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
