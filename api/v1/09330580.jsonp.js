@@ -1,0 +1,1 @@
+jsonp({"cep":"09330580","logradouro":"Rua Benedito da Silva","bairro":"Vila Lisboa","cidade":"Mau\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

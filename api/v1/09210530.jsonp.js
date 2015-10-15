@@ -1,0 +1,1 @@
+jsonp({"cep":"09210530","logradouro":"Pra\u00e7a Samuel de Castro Neves","bairro":"Santa Teresinha","cidade":"Santo Andr\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

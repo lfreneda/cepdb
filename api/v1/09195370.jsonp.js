@@ -1,0 +1,1 @@
+jsonp({"cep":"09195370","logradouro":"Rua Ricardo de Lemos","bairro":"Silveira","cidade":"Santo Andr\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});
