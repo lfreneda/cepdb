@@ -1,0 +1,1 @@
+jsonp({"cep":"18408220","logradouro":"Rua Comendadeira Ana Esp\u00edrito Santos Lopes Queiroz","bairro":"Conjunto Habitacional S\u00e3o Camilo","cidade":"Itapeva","uf":"SP","estado":"S\u00e3o Paulo"});

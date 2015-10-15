@@ -1,0 +1,1 @@
+jsonp({"cep":"18682508","logradouro":"Rua Vereador Antonio Dias de Oliveira","bairro":"Conjunto Habitacional Len\u00e7\u00f3is Paulista D","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

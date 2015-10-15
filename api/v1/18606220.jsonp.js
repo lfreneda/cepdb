@@ -1,0 +1,1 @@
+jsonp({"cep":"18606220","logradouro":"Rua Soldado-Pol\u00edcia Militar Roque Elias da Silva","bairro":"Conjunto Residencial Morada do Sol II","cidade":"Botucatu","uf":"SP","estado":"S\u00e3o Paulo"});

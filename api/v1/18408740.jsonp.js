@@ -1,0 +1,1 @@
+jsonp({"cep":"18408740","logradouro":"Rua Governador Am\u00e9rico Brasiliense de Almeida Melo","bairro":"Conjunto Habitacional Danilo Luciano Gimenez","cidade":"Itapeva","uf":"SP","estado":"S\u00e3o Paulo"});

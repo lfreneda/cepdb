@@ -1,0 +1,1 @@
+jsonp({"cep":"18601764","logradouro":"Rua Romeu de Lima","bairro":"Conjunto Habitacional Leandro Alarc\u00e3o Dias","cidade":"Botucatu","uf":"SP","estado":"S\u00e3o Paulo"});

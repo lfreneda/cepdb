@@ -1,0 +1,1 @@
+jsonp({"cep":"18682630","logradouro":"Rua Major Ant\u00f4nio Fiuza Flor\u00eancio do Amaral","bairro":"Vila S\u00e3o Judas Tadeu","cidade":"Len\u00e7\u00f3is Paulista","uf":"SP","estado":"S\u00e3o Paulo"});

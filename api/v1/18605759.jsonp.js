@@ -1,0 +1,1 @@
+jsonp({"cep":"18605759","logradouro":"Rua Dezenove","bairro":"Conjunto Habitacional Popular Altos","cidade":"Botucatu","uf":"SP","estado":"S\u00e3o Paulo"});

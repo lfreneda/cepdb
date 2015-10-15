@@ -1,0 +1,1 @@
+jsonp({"cep":"18601731","logradouro":"Pra\u00e7a Professora L\u00edgia Scolastici Mores","bairro":"Conjunto Habitacional Jos\u00e9 Bicudo Filho","cidade":"Botucatu","uf":"SP","estado":"S\u00e3o Paulo"});
