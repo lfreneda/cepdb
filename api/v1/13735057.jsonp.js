@@ -1,0 +1,1 @@
+jsonp({"cep":"13735057","logradouro":"Rua M\u00e1rio Bedin","bairro":"Jardim S\u00e3o Luiz","cidade":"Mococa","uf":"SP","estado":"S\u00e3o Paulo"});

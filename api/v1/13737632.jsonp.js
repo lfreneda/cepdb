@@ -1,0 +1,1 @@
+jsonp({"cep":"13737632","logradouro":"Avenida Monsenhor Demosthenes Paran\u00e1 Brasil Pontes","bairro":"Conjunto Habitacional Gilberto Rossetti","cidade":"Mococa","uf":"SP","estado":"S\u00e3o Paulo"});

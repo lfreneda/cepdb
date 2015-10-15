@@ -1,0 +1,1 @@
+jsonp({"cep":"13633114","logradouro":"Rua Nicola Can\u00f4nico","bairro":"Parque dos Eucaliptos","cidade":"Pirassununga","uf":"SP","estado":"S\u00e3o Paulo"});
