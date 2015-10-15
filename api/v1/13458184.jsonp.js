@@ -1,0 +1,1 @@
+jsonp({"cep":"13458184","logradouro":"Rua Reverendo Jo\u00e3o Feliciano Pires","bairro":"Conjunto Habitacional Roberto Romano","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

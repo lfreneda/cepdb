@@ -1,0 +1,1 @@
+jsonp({"cep":"13459404","logradouro":"Rua Vereador Arnaldo Jo\u00e3o Boaretto","bairro":"Ch\u00e1cara Recreio Cruzeiro do Sul","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

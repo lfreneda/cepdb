@@ -1,0 +1,1 @@
+jsonp({"cep":"13458626","logradouro":"Avenida L\u00e1zaro Gon\u00e7alves de Oliveira","bairro":"Parque Residencial do Lago","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

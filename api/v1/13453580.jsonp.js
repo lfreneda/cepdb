@@ -1,0 +1,1 @@
+jsonp({"cep":"13453580","logradouro":"Rua Vereador Jos\u00e9 M\u00e1rio da Silva","bairro":"Conjunto Habitacional Angelo Giubina","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

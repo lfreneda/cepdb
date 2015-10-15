@@ -1,0 +1,1 @@
+jsonp({"cep":"13453066","logradouro":"Rua Ipanema","bairro":"Jardim Batagin","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

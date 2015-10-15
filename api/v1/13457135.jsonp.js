@@ -1,0 +1,1 @@
+jsonp({"cep":"13457135","logradouro":"Rua Jo\u00e3o da Silva Crist\u00f3v\u00e3o","bairro":"Jardim Santa Rita de C\u00e1ssia","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

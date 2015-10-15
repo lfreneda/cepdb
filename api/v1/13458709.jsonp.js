@@ -1,0 +1,1 @@
+jsonp({"cep":"13458709","logradouro":"Rua Professora Maria Helena de Oliveira Pyles","bairro":"Residencial Parque Rochele II","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

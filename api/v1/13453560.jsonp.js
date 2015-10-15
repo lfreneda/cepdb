@@ -1,0 +1,1 @@
+jsonp({"cep":"13453560","logradouro":"Rua Vereador Alan Joel Bueno Quirino","bairro":"Conjunto Habitacional Angelo Giubina","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

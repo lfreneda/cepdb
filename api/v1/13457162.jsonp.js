@@ -1,0 +1,1 @@
+jsonp({"cep":"13457162","logradouro":"Rua Jos\u00e9 Nicolau Lux","bairro":"Conjunto Habitacional Francisco de Cillo (INOCOOP)","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

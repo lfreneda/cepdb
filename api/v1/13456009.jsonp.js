@@ -1,0 +1,1 @@
+jsonp({"cep":"13456009","logradouro":"Rua Professora Luzia B. Kirches","bairro":"Jardim Boa Vista","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});
