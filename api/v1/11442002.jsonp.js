@@ -1,0 +1,1 @@
+jsonp({"cep":"11442002","logradouro":"Avenida Desembargador Pl\u00ednio de Carvalho Pinto","bairro":"Loteamento Jo\u00e3o Batista Juli\u00e3o","cidade":"Guaruj\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

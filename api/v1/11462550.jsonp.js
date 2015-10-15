@@ -1,0 +1,1 @@
+jsonp({"cep":"11462550","logradouro":"Pra\u00e7a Professor Eduardo dos Santos Cl\u00e1udio","bairro":"S\u00edtio Paecara (Vicente de Carvalho)","cidade":"Guaruj\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

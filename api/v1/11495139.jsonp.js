@@ -1,0 +1,1 @@
+jsonp({"cep":"11495139","logradouro":"Travessa Jos\u00e9 Filipe da Silva Lima","bairro":"Morrinhos","cidade":"Guaruj\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});
