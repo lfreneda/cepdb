@@ -1,0 +1,1 @@
+jsonp({"cep":"97501624","logradouro":"Rua General Flores da Cunha","bairro":"Centro","cidade":"Uruguaiana","uf":"RS","estado":"Rio Grande do Sul"});

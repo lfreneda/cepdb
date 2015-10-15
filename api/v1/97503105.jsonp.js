@@ -1,0 +1,1 @@
+jsonp({"cep":"97503105","logradouro":"Rua Pinheiro Machado","bairro":"Alexandre Zachia","cidade":"Uruguaiana","uf":"RS","estado":"Rio Grande do Sul"});
