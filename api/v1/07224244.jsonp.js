@@ -1,0 +1,1 @@
+jsonp({"cep":"07224244","logradouro":"Avenida Evangelista Jo\u00e3o A. do Carmo","bairro":"Cidade Industrial Sat\u00e9lite de S\u00e3o Paulo","cidade":"Guarulhos","uf":"SP","estado":"S\u00e3o Paulo"});

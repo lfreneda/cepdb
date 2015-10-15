@@ -1,0 +1,1 @@
+jsonp({"cep":"07230630","logradouro":"Rua Doutor W\u00e1gner Ant\u00f4nio Albuquerque","bairro":"Cidade Industrial Sat\u00e9lite de S\u00e3o Paulo","cidade":"Guarulhos","uf":"SP","estado":"S\u00e3o Paulo"});

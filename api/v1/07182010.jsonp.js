@@ -1,0 +1,1 @@
+jsonp({"cep":"07182010","logradouro":"Rua Sargento da Aeron\u00e1utica da Francisco Morv\u00e3o","bairro":"Conjunto Residencial Paes de Barros","cidade":"Guarulhos","uf":"SP","estado":"S\u00e3o Paulo"});
