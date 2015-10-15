@@ -1,0 +1,1 @@
+jsonp({"cep":"87706610","logradouro":"Rua Aimor\u00e9","bairro":"Ch\u00e1caras Jaragu\u00e1","cidade":"Paranava\u00ed","uf":"PR","estado":"Paran\u00e1"});

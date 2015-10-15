@@ -1,0 +1,1 @@
+jsonp({"cep":"88032007","logradouro":"Rua Jo\u00e3o Em\u00edlia Batista","bairro":"Saco Grande","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

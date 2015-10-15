@@ -1,0 +1,1 @@
+jsonp({"cep":"87711350","logradouro":"Rua Doutor Jos\u00e9 de Mattos Filho","bairro":"Jardim Nossa Senhora de F\u00e1tima","cidade":"Paranava\u00ed","uf":"PR","estado":"Paran\u00e1"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"88034605","logradouro":"Servid\u00e3o Laje de Pedra","bairro":"Itacorubi","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});
