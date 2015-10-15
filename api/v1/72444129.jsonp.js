@@ -1,0 +1,1 @@
+jsonp({"cep":"72444129","logradouro":"Col\u00f4nia Agr\u00edcola C\u00f3rrego do Crispim Ch\u00e1cara 27","bairro":"Setor Leste (Gama)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

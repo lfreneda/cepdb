@@ -1,0 +1,1 @@
+jsonp({"cep":"72549700","logradouro":"Rodovia DF-001","bairro":"Santa Maria","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

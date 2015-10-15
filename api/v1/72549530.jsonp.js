@@ -1,0 +1,1 @@
+jsonp({"cep":"72549530","logradouro":"Setor P\u00f3lo de Desenvolvimento Juscelino Kubitschek Trecho I Conjunto 6","bairro":"Santa Maria","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
