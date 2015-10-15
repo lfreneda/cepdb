@@ -1,0 +1,1 @@
+jsonp({"cep":"88332205","logradouro":"Rua Eliel Corr\u00eaa","bairro":"Barra","cidade":"Balne\u00e1rio Cambori\u00fa","uf":"SC","estado":"Santa Catarina"});

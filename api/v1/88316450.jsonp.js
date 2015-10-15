@@ -1,0 +1,1 @@
+jsonp({"cep":"88316450","logradouro":"Rua Antenor Ant\u00f4nio Vieira","bairro":"Itaipava","cidade":"Itaja\u00ed","uf":"SC","estado":"Santa Catarina"});

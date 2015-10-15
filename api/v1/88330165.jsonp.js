@@ -1,0 +1,1 @@
+jsonp({"cep":"88330165","logradouro":"Rua 4502","bairro":"Centro","cidade":"Balne\u00e1rio Cambori\u00fa","uf":"SC","estado":"Santa Catarina"});

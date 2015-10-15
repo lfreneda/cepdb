@@ -1,0 +1,1 @@
+jsonp({"cep":"88308492","logradouro":"Rua Anatolio Jos\u00e9 da Silva","bairro":"Cidade Nova","cidade":"Itaja\u00ed","uf":"SC","estado":"Santa Catarina"});
