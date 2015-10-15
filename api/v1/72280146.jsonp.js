@@ -1,0 +1,1 @@
+jsonp({"cep":"72280146","logradouro":"Rua Rua 1 \u00c1rea Especial 3","bairro":"Condom\u00ednio Priv\u00ea Lucena Roriz (Ceil\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
