@@ -1,0 +1,1 @@
+jsonp({"cep":"93130410","logradouro":"Rua Honestino Guimar\u00e3es","bairro":"Campina","cidade":"S\u00e3o Leopoldo","uf":"RS","estado":"Rio Grande do Sul"});

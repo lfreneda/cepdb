@@ -1,0 +1,1 @@
+jsonp({"cep":"93040200","logradouro":"Rua Padre Jo\u00e3o Flach","bairro":"S\u00e3o Jos\u00e9","cidade":"S\u00e3o Leopoldo","uf":"RS","estado":"Rio Grande do Sul"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"93035340","logradouro":"Rua Evil\u00e1sio Ant\u00f4nio da Silva","bairro":"Santa Teresa","cidade":"S\u00e3o Leopoldo","uf":"RS","estado":"Rio Grande do Sul"});

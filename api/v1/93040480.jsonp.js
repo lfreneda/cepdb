@@ -1,0 +1,1 @@
+jsonp({"cep":"93040480","logradouro":"Rua Pedro Lessa","bairro":"Rio Branco","cidade":"S\u00e3o Leopoldo","uf":"RS","estado":"Rio Grande do Sul"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"93044430","logradouro":"Rua Morro do Espelho","bairro":"Campestre","cidade":"S\u00e3o Leopoldo","uf":"RS","estado":"Rio Grande do Sul"});
