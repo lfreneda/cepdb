@@ -1,0 +1,1 @@
+jsonp({"cep":"11350350","logradouro":"Rua Greg\u00f3rio Serr\u00e3o","bairro":"Conjunto Residencial Tancredo Neves","cidade":"S\u00e3o Vicente","uf":"SP","estado":"S\u00e3o Paulo"});

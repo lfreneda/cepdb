@@ -1,0 +1,1 @@
+jsonp({"cep":"11349050","logradouro":"Rua Ant\u00f4nio Concei\u00e7\u00e3o Filho","bairro":"Conjunto Residencial Humait\u00e1","cidade":"S\u00e3o Vicente","uf":"SP","estado":"S\u00e3o Paulo"});

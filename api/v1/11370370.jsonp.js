@@ -1,0 +1,1 @@
+jsonp({"cep":"11370370","logradouro":"Rua Jo\u00e3o Jos\u00e9 Penha Morato J\u00fanior","bairro":"Catiapoa","cidade":"S\u00e3o Vicente","uf":"SP","estado":"S\u00e3o Paulo"});

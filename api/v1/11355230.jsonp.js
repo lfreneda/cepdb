@@ -1,0 +1,1 @@
+jsonp({"cep":"11355230","logradouro":"Pra\u00e7a Imigra\u00e7\u00e3o Japonesa","bairro":"Vila Nossa Senhora de F\u00e1tima","cidade":"S\u00e3o Vicente","uf":"SP","estado":"S\u00e3o Paulo"});

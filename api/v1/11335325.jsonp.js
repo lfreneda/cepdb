@@ -1,0 +1,1 @@
+jsonp({"cep":"11335325","logradouro":"Rua Jos\u00e9 Joaquim de Azevedo J\u00fanior","bairro":"Vila Margarida","cidade":"S\u00e3o Vicente","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"11350220","logradouro":"Rua Juli\u00e3o Leoc\u00e1dio Neiva de Lima","bairro":"Cidade Na\u00fatica","cidade":"S\u00e3o Vicente","uf":"SP","estado":"S\u00e3o Paulo"});
