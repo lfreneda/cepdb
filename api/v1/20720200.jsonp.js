@@ -1,0 +1,1 @@
+jsonp({"cep":"20720200","logradouro":"Travessa Alfredo Botelho","bairro":"M\u00e9ier","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});

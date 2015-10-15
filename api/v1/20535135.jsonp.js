@@ -1,0 +1,1 @@
+jsonp({"cep":"20535135","logradouro":"Rua Ant\u00f4nio Fran\u00e7a Velasco","bairro":"Alto da Boa Vista","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
