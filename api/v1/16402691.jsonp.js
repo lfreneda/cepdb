@@ -1,0 +1,1 @@
+jsonp({"cep":"16402691","logradouro":"Rua Aparecida Gon\u00e7alves Bordignon","bairro":"Conjunto Habitacional Jos\u00e9 Dias dos Santos","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});

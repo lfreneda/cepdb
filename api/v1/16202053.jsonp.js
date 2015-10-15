@@ -1,0 +1,1 @@
+jsonp({"cep":"16202053","logradouro":"Rua Octac\u00edlio Camargo F\u00e1vero","bairro":"Jardim S\u00e3o Braz","cidade":"Birig\u00fci","uf":"SP","estado":"S\u00e3o Paulo"});

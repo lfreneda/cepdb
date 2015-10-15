@@ -1,0 +1,1 @@
+jsonp({"cep":"16401487","logradouro":"Pra\u00e7a Ana Am\u00e9lia Beozzo Junqueira de Andrade","bairro":"Conjunto Habitacional Francisco Jos\u00e9 de Oliveira Ratto","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});

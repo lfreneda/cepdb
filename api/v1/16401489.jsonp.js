@@ -1,0 +1,1 @@
+jsonp({"cep":"16401489","logradouro":"Pra\u00e7a Doutor Nilton Chavarelli Galv\u00e3o","bairro":"Conjunto Habitacional Francisco Jos\u00e9 de Oliveira Ratto","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});

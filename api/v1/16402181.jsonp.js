@@ -1,0 +1,1 @@
+jsonp({"cep":"16402181","logradouro":"Pra\u00e7a Doutor Jos\u00e9 Quirino de Carvalho","bairro":"N\u00facleo Habitacional Ulisses Guimar\u00e3es","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});

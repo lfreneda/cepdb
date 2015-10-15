@@ -1,0 +1,1 @@
+jsonp({"cep":"16402185","logradouro":"Pra\u00e7a Coronel-PM Eduardo Assump\u00e7\u00e3o","bairro":"N\u00facleo Habitacional Ulisses Guimar\u00e3es","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});

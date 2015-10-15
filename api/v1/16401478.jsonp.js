@@ -1,0 +1,1 @@
+jsonp({"cep":"16401478","logradouro":"Rua Jos\u00e9 Valad\u00e3o de Freitas Filho","bairro":"Conjunto Habitacional Francisco Jos\u00e9 de Oliveira Ratto","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"16900452","logradouro":"Rua Doutor S\u00edlvio Lima Marinho","bairro":"Conjunto Habitacional Ant\u00f4nio Silvio da Cunha Bueno","cidade":"Andradina","uf":"SP","estado":"S\u00e3o Paulo"});

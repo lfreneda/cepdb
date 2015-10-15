@@ -1,0 +1,1 @@
+jsonp({"cep":"16203238","logradouro":"Rua Ant\u00f4nia Calegari Crist\u00f3v\u00e3o","bairro":"N\u00facleo Habitacional Thereza Maria Barbieri","cidade":"Birig\u00fci","uf":"SP","estado":"S\u00e3o Paulo"});

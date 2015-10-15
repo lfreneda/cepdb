@@ -1,0 +1,1 @@
+jsonp({"cep":"16403247","logradouro":"Rua Jo\u00e3o Pedro de Carvalho J\u00fanior","bairro":"Vila Cinquenten\u00e1rio da Imigra\u00e7\u00e3o Japonesa","cidade":"Lins","uf":"SP","estado":"S\u00e3o Paulo"});
