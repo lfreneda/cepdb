@@ -1,0 +1,1 @@
+jsonp({"cep":"55642745","logradouro":"Rua Jo\u00e3o In\u00e1cio dos Santos","bairro":"Nossa Senhora das Gra\u00e7as","cidade":"Gravat\u00e1","uf":"PE","estado":"Pernambuco"});

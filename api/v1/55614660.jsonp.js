@@ -1,0 +1,1 @@
+jsonp({"cep":"55614660","logradouro":"Rua Ant\u00f4nio Lu\u00eds de Brito","bairro":"L\u00eddia Queiroz","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

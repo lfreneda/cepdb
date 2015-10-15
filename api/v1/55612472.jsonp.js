@@ -1,0 +1,1 @@
+jsonp({"cep":"55612472","logradouro":"2\u00aa Travessa C\u00f4nego Am\u00e9rico Vasco","bairro":"Matriz","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

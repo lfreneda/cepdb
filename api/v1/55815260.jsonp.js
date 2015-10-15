@@ -1,0 +1,1 @@
+jsonp({"cep":"55815260","logradouro":"Rua Bar\u00e3o do Rio Branco","bairro":"S\u00e3o Jos\u00e9","cidade":"Carpina","uf":"PE","estado":"Pernambuco"});

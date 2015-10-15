@@ -1,0 +1,1 @@
+jsonp({"cep":"55613010","logradouro":"Rodovia Luiz Gonzaga","bairro":"Distrito Industrial (Prefeito Jos\u00e9 Augusto Ferrer de Morais)","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

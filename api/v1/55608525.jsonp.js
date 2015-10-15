@@ -1,0 +1,1 @@
+jsonp({"cep":"55608525","logradouro":"Rua C\u00f4nego Ant\u00f4nio Alves","bairro":"Bela Vista","cidade":"Vit\u00f3ria de Santo Ant\u00e3o","uf":"PE","estado":"Pernambuco"});

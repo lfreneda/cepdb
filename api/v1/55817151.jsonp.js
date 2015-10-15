@@ -1,0 +1,1 @@
+jsonp({"cep":"55817151","logradouro":"Travessa Lu\u00eds Ot\u00e1vio Guerra","bairro":"S\u00e3o Jos\u00e9","cidade":"Carpina","uf":"PE","estado":"Pernambuco"});
