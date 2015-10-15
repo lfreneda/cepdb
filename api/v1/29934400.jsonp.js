@@ -1,0 +1,1 @@
+jsonp({"cep":"29934400","logradouro":"Rua Tom Jobim","bairro":"Ch\u00e1cara do Cricar\u00e9","cidade":"S\u00e3o Mateus","uf":"ES","estado":"Esp\u00edrito Santo"});
