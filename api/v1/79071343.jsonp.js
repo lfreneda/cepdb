@@ -1,0 +1,1 @@
+jsonp({"cep":"79071343","logradouro":"Rua Jos\u00e9 Cardoso J\u00fanior","bairro":"N\u00facleo Habitacional Universit\u00e1rias","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});

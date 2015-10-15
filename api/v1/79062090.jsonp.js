@@ -1,0 +1,1 @@
+jsonp({"cep":"79062090","logradouro":"Rua Am\u00e9lia Finotti Guimar\u00e3es","bairro":"Jardim Nossa Senhora do Perp\u00e9tuo Socorro","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});
