@@ -1,0 +1,1 @@
+jsonp({"cep":"14025590","logradouro":"Rua Doutor Hort\u00eancio Mendon\u00e7a Ribeiro","bairro":"Alto da Boa Vista","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"14056803","logradouro":"Rua Professora Maria Of\u00e9lia dos Santos Lapria","bairro":"Parque Residencial Emir Garcia","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

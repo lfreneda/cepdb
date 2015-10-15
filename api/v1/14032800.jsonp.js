@@ -1,0 +1,1 @@
+jsonp({"cep":"14032800","logradouro":"Rodovia Prefeito Ant\u00f4nio Duarte Nogueira","bairro":"Condom\u00ednio Quinta da Boa Vista","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

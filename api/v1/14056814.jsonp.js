@@ -1,0 +1,1 @@
+jsonp({"cep":"14056814","logradouro":"Pra\u00e7a Professor Doutor Jo\u00e3o Baptista Sargi Bonilha","bairro":"Parque Residencial Emir Garcia","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

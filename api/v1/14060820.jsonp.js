@@ -1,0 +1,1 @@
+jsonp({"cep":"14060820","logradouro":"Rua Dom Jos\u00e9 Guilhermo Agnelli","bairro":"Conjunto Habitacional S\u00edlvio Passalacqua","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

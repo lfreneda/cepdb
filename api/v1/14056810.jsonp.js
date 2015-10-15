@@ -1,0 +1,1 @@
+jsonp({"cep":"14056810","logradouro":"Rua Doutor Jo\u00e3o Francisco C\u00eantola N\u00f3brega","bairro":"Parque Residencial Emir Garcia","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

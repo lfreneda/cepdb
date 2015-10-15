@@ -1,0 +1,1 @@
+jsonp({"cep":"14051360","logradouro":"Rua Ot\u00e1vio Henrique de Oliveira","bairro":"Parque Residencial Cidade Universit\u00e1ria","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

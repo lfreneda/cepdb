@@ -1,0 +1,1 @@
+jsonp({"cep":"13976581","logradouro":"Rua Maria Ign\u00eas Eug\u00eanio Galv\u00e3o de Fran\u00e7a","bairro":"Loteamento Jos\u00e9 Casimiro Rodrigues","cidade":"Itapira","uf":"SP","estado":"S\u00e3o Paulo"});

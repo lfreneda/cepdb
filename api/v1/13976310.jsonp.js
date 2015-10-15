@@ -1,0 +1,1 @@
+jsonp({"cep":"13976310","logradouro":"Rua Francisco Gl\u00f3ria de Almeida","bairro":"Loteamento Conjunto Habitacional Ant\u00f4nio Assad Alcici","cidade":"Itapira","uf":"SP","estado":"S\u00e3o Paulo"});

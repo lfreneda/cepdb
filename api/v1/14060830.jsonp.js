@@ -1,0 +1,1 @@
+jsonp({"cep":"14060830","logradouro":"Rua Luiz Cropanese Spadaro J\u00fanior","bairro":"Conjunto Habitacional S\u00edlvio Passalacqua","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

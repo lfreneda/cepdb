@@ -1,0 +1,1 @@
+jsonp({"cep":"14057434","logradouro":"Rua Professor Doutor Jos\u00e9 Moura Gon\u00e7alves","bairro":"Jardim Eug\u00eanio Mendes Lopes","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

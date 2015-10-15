@@ -1,0 +1,1 @@
+jsonp({"cep":"13976261","logradouro":"Rua Professor Ant\u00f4nio Lima Horta","bairro":"Conjunto Habitacional Juscelino Kubitschek de Oliveira","cidade":"Itapira","uf":"SP","estado":"S\u00e3o Paulo"});
