@@ -1,0 +1,1 @@
+jsonp({"cep":"89209418","logradouro":"Rua Ant\u00f4nio Lino","bairro":"Parque Guarani","cidade":"Joinville","uf":"SC","estado":"Santa Catarina"});
