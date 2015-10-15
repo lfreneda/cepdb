@@ -1,0 +1,1 @@
+jsonp({"cep":"69400092","logradouro":"Rua Jo\u00e3o L\u00e9lis","bairro":"Biribiri","cidade":"Manacapuru","uf":"AM","estado":"Amazonas"});

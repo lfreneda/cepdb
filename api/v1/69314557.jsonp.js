@@ -1,0 +1,1 @@
+jsonp({"cep":"69314557","logradouro":"Rua Gen\u00e9sio Alcimiro Lopes","bairro":"Doutor S\u00edlvio Botelho","cidade":"Boa Vista","uf":"RR","estado":"Roraima"});

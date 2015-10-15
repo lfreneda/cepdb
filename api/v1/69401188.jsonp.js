@@ -1,0 +1,1 @@
+jsonp({"cep":"69401188","logradouro":"Beco Tef\u00e9","bairro":"Uni\u00e3o","cidade":"Manacapuru","uf":"AM","estado":"Amazonas"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"69312252","logradouro":"Rua Armando Nogueira","bairro":"Asa Branca","cidade":"Boa Vista","uf":"RR","estado":"Roraima"});

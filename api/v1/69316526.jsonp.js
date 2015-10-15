@@ -1,0 +1,1 @@
+jsonp({"cep":"69316526","logradouro":"Rua Thereza Magalh\u00e3es Brasil","bairro":"Senador H\u00e9lio Campos","cidade":"Boa Vista","uf":"RR","estado":"Roraima"});
