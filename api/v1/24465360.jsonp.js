@@ -1,0 +1,1 @@
+jsonp({"cep":"24465360","logradouro":"Rua Tenente Ant\u00f4nio Jo\u00e3o","bairro":"Brasil\u00e2ndia","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

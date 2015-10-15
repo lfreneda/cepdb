@@ -1,0 +1,1 @@
+jsonp({"cep":"24435822","logradouro":"Travessa V\u00e1lter Costa","bairro":"Porto Novo","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

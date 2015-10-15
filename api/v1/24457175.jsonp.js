@@ -1,0 +1,1 @@
+jsonp({"cep":"24457175","logradouro":"Rua Jos\u00e9 Maria Magalh\u00e3es Bastos","bairro":"Trindade","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});
