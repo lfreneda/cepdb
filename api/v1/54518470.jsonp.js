@@ -1,0 +1,1 @@
+jsonp({"cep":"54518470","logradouro":"Rua Jo\u00e3o Ant\u00f4nio Guimar\u00e3es Rosa","bairro":"Cidade Garapu","cidade":"Cabo de Santo Agostinho","uf":"PE","estado":"Pernambuco"});

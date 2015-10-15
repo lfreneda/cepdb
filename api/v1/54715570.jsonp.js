@@ -1,0 +1,1 @@
+jsonp({"cep":"54715570","logradouro":"Rua Maria do Carmo C. de Ara\u00fajo","bairro":"Penedo","cidade":"S\u00e3o Louren\u00e7o da Mata","uf":"PE","estado":"Pernambuco"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"54510660","logradouro":"Rua Vereador Jos\u00e9 Proc\u00f3pio do Nascimento","bairro":"Vila Doutor Manoel Clementino","cidade":"Cabo de Santo Agostinho","uf":"PE","estado":"Pernambuco"});

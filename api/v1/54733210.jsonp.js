@@ -1,0 +1,1 @@
+jsonp({"cep":"54733210","logradouro":"Rua das Tulipas","bairro":"Pixete","cidade":"S\u00e3o Louren\u00e7o da Mata","uf":"PE","estado":"Pernambuco"});
