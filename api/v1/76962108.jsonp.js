@@ -1,0 +1,1 @@
+jsonp({"cep":"76962108","logradouro":"Travessa das Flores","bairro":"Novo Cacoal","cidade":"Cacoal","uf":"RO","estado":"Rond\u00f4nia"});
