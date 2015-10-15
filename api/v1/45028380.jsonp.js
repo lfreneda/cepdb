@@ -1,0 +1,1 @@
+jsonp({"cep":"45028380","logradouro":"Rodovia Conquista-Barra do Cho\u00e7a","bairro":"Candeias","cidade":"Vit\u00f3ria da Conquista","uf":"BA","estado":"Bahia"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"45077656","logradouro":"Rua P\u00e3o de A\u00e7\u00facar","bairro":"Zabel\u00ea","cidade":"Vit\u00f3ria da Conquista","uf":"BA","estado":"Bahia"});

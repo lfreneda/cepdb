@@ -1,0 +1,1 @@
+jsonp({"cep":"45027050","logradouro":"Rua Tom\u00e1s Ant\u00f4nio Gonzaga","bairro":"Boa Vista","cidade":"Vit\u00f3ria da Conquista","uf":"BA","estado":"Bahia"});

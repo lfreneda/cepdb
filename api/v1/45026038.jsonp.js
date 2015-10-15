@@ -1,0 +1,1 @@
+jsonp({"cep":"45026038","logradouro":"Rua Holanda Cavalcante","bairro":"Boa Vista","cidade":"Vit\u00f3ria da Conquista","uf":"BA","estado":"Bahia"});
