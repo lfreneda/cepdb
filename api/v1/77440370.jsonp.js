@@ -1,0 +1,1 @@
+jsonp({"cep":"77440370","logradouro":"Rua Santa Rita de C\u00e1ssia","bairro":"Parque Residencial S\u00e3o Jos\u00e9","cidade":"Gurupi","uf":"TO","estado":"Tocantins"});

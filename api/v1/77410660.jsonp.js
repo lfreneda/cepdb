@@ -1,0 +1,1 @@
+jsonp({"cep":"77410660","logradouro":"Avenida Para\u00edba","bairro":"Parque Residencial S\u00e3o Paulo","cidade":"Gurupi","uf":"TO","estado":"Tocantins"});
