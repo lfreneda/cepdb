@@ -1,0 +1,1 @@
+jsonp({"cep":"14875400","logradouro":"Rua Doutora Leonor Sanches Louzada e Santos","bairro":"Conjunto Habitacional Hugo Lacorte Vitalle I","cidade":"Jaboticabal","uf":"SP","estado":"S\u00e3o Paulo"});

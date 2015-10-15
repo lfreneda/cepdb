@@ -1,0 +1,1 @@
+jsonp({"cep":"14876120","logradouro":"Rua Terije Martinelli","bairro":"Solar Corinthiano","cidade":"Jaboticabal","uf":"SP","estado":"S\u00e3o Paulo"});

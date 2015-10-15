@@ -1,0 +1,1 @@
+jsonp({"cep":"15043245","logradouro":"Rua Miguel Jos\u00e9 de Ara\u00fajo","bairro":"Conjunto Habitacional Costa do Sol","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

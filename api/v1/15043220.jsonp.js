@@ -1,0 +1,1 @@
+jsonp({"cep":"15043220","logradouro":"Rua Joaquim Fernandes Gomes de Orneles","bairro":"Conjunto Habitacional Costa do Sol","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

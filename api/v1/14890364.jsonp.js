@@ -1,0 +1,1 @@
+jsonp({"cep":"14890364","logradouro":"Rua Afr\u00e2nio Ferreira J\u00fanior","bairro":"Conjunto Habitacional Margarida Raymundo Berchieri","cidade":"Jaboticabal","uf":"SP","estado":"S\u00e3o Paulo"});

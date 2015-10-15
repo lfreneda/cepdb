@@ -1,0 +1,1 @@
+jsonp({"cep":"14811576","logradouro":"Avenida Sargento-Pol\u00edcia Militar Sebasti\u00e3o Edgar de Souza","bairro":"Condom\u00ednio Parque dos Sabi\u00e1s","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

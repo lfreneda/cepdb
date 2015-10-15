@@ -1,0 +1,1 @@
+jsonp({"cep":"15042072","logradouro":"Rua Cec\u00edlia Pinto C\u00e9sar de Medeiros","bairro":"Residencial Monte Verde","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

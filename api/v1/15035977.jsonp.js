@@ -1,0 +1,1 @@
+jsonp({"cep":"15035977","logradouro":"Rua Doutor Labi\u00eanio Teixeira de Mendon\u00e7a","bairro":"Distrito Industrial","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

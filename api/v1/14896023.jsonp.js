@@ -1,0 +1,1 @@
+jsonp({"cep":"14896023","logradouro":"Avenida Herminia Castelani Manfredini","bairro":"Residencial M\u00e1rio Petrassi (C\u00f3rrego Rico)","cidade":"Jaboticabal","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15035390","logradouro":"Rua Benedita Pereira dos Santos","bairro":"Vila S\u00e3o Jos\u00e9 Oper\u00e1rio","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

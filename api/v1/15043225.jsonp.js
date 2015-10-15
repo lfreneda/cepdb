@@ -1,0 +1,1 @@
+jsonp({"cep":"15043225","logradouro":"Pra\u00e7a Doutor Renor Pereira Braga","bairro":"Conjunto Habitacional Costa do Sol","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

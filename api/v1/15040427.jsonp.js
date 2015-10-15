@@ -1,0 +1,1 @@
+jsonp({"cep":"15040427","logradouro":"Rua Ad\u00e9lia Bechara Jos\u00e9 Hage Gabriel","bairro":"Loteamento Porto Seguro","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});
