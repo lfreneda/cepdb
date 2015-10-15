@@ -1,0 +1,1 @@
+jsonp({"cep":"04163010","logradouro":"Rua Jean de La Huerta","bairro":"Vila Brasilina","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
