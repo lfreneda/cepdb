@@ -1,0 +1,1 @@
+jsonp({"cep":"57062280","logradouro":"Avenida Doutor Durval de G\u00f3es Monteiro","bairro":"Petr\u00f3polis","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

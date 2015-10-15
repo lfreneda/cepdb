@@ -1,0 +1,1 @@
+jsonp({"cep":"57071820","logradouro":"Avenida Jornalista Te\u00f3filo Alves Lins","bairro":"Clima Bom","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

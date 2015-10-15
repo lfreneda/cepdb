@@ -1,0 +1,1 @@
+jsonp({"cep":"57063240","logradouro":"Rua Maria Nazareth de Ara\u00fajo Silva","bairro":"Santa Am\u00e9lia","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

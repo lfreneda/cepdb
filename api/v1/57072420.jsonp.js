@@ -1,0 +1,1 @@
+jsonp({"cep":"57072420","logradouro":"Rua Estat\u00edstico Jos\u00e9 Milton B. Melo","bairro":"Cidade Universit\u00e1ria","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

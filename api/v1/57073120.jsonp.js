@@ -1,0 +1,1 @@
+jsonp({"cep":"57073120","logradouro":"Rua Maria Vit\u00f3ria Calheiros Gatto","bairro":"Cidade Universit\u00e1ria","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

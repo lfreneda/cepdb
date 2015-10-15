@@ -1,0 +1,1 @@
+jsonp({"cep":"57073341","logradouro":"Avenida Deputado Sinval Gaia","bairro":"Cidade Universit\u00e1ria","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

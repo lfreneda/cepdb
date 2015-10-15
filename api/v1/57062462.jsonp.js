@@ -1,0 +1,1 @@
+jsonp({"cep":"57062462","logradouro":"Rua Maria Val\u00e9rio","bairro":"Petr\u00f3polis","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});

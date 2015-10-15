@@ -1,0 +1,1 @@
+jsonp({"cep":"57080630","logradouro":"Alameda Eduardo Saraiva de Moura","bairro":"Jardim Petr\u00f3polis","cidade":"Macei\u00f3","uf":"AL","estado":"Alagoas"});
