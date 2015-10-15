@@ -1,0 +1,1 @@
+jsonp({"cep":"08223240","logradouro":"Pra\u00e7a Ant\u00f4nio Ot\u00e1vio Feliciano","bairro":"Cidade Ant\u00f4nio Estev\u00e3o de Carvalho","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
