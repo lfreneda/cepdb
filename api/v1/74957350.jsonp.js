@@ -1,0 +1,1 @@
+jsonp({"cep":"74957350","logradouro":"Alameda Louren\u00e7o Marques","bairro":"Parque das Na\u00e7\u00f5es","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

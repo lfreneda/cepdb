@@ -1,0 +1,1 @@
+jsonp({"cep":"74927012","logradouro":"Rua Irm\u00e3 Maria","bairro":"Parque Trindade II","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

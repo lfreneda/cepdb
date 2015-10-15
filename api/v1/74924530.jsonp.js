@@ -1,0 +1,1 @@
+jsonp({"cep":"74924530","logradouro":"Rua R 22","bairro":"Vale do Sol","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

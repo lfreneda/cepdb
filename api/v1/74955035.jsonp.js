@@ -1,0 +1,1 @@
+jsonp({"cep":"74955035","logradouro":"Rua Olavo Costa Campo","bairro":"Vila Oliveira","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
