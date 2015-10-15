@@ -1,0 +1,1 @@
+jsonp({"cep":"14165372","logradouro":"Rua Am\u00e9lia Tomazini Luiz","bairro":"Conjunto Habitacional Jos\u00e9 Garcia da Costa - Z\u00e9 Garcia","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

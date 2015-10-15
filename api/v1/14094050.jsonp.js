@@ -1,0 +1,1 @@
+jsonp({"cep":"14094050","logradouro":"Avenida Doutor Marcos Ant\u00f4nio Mac\u00e1rio dos Santos","bairro":"Conjunto Habitacional Jardim das Palmeiras","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

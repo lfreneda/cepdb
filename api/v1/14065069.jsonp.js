@@ -1,0 +1,1 @@
+jsonp({"cep":"14065069","logradouro":"Rua Expedicion\u00e1rio Ant\u00f4nio Dovicchi","bairro":"Jardim Jos\u00e9 Sampaio J\u00fanior","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"14080250","logradouro":"Rua Capit\u00e3o Lino Engr\u00e1cia de Oliveira","bairro":"Campos El\u00edseos","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

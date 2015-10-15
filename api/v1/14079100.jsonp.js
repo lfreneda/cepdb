@@ -1,0 +1,1 @@
+jsonp({"cep":"14079100","logradouro":"Rotat\u00f3ria Maria do Ros\u00e1rio Kenan","bairro":"Jardim Professor Ant\u00f4nio Palocci","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

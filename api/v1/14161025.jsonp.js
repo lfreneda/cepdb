@@ -1,0 +1,1 @@
+jsonp({"cep":"14161025","logradouro":"Avenida Jos\u00e9 Ferreira dos Reis","bairro":"Jardim Athenas","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"14164103","logradouro":"Pra\u00e7a Antonio de Souza Gomes","bairro":"Conjunto Habitacional Ant\u00f4nio Costa Patr\u00e3o","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

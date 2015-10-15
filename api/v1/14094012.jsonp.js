@@ -1,0 +1,1 @@
+jsonp({"cep":"14094012","logradouro":"Rua Engenheiro Renato Gon\u00e7alves da Silva","bairro":"Conjunto Habitacional Jardim das Palmeiras","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

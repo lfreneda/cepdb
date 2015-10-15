@@ -1,0 +1,1 @@
+jsonp({"cep":"14075812","logradouro":"Estrada Vereador Ant\u00f4nio Joaquim da Silva","bairro":"Ch\u00e1caras Pedro Corr\u00eaa de Carvalho","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

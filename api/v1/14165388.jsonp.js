@@ -1,0 +1,1 @@
+jsonp({"cep":"14165388","logradouro":"Rua Antonio Massao Shimura","bairro":"Conjunto Habitacional Jos\u00e9 Garcia da Costa - Z\u00e9 Garcia","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

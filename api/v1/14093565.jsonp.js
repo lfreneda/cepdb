@@ -1,0 +1,1 @@
+jsonp({"cep":"14093565","logradouro":"Rua Henrique S\u00e1vio Paiva Teixeira","bairro":"Parque Residencial C\u00e2ndido Portinari","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

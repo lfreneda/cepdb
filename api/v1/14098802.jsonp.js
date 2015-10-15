@@ -1,0 +1,1 @@
+jsonp({"cep":"14098802","logradouro":"Condom\u00ednio Ch\u00e1caras Itamb\u00e9","bairro":"Condom\u00ednio Ch\u00e1caras Itamb\u00e9","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

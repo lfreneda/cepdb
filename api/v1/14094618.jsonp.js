@@ -1,0 +1,1 @@
+jsonp({"cep":"14094618","logradouro":"Condom\u00ednio Ch\u00e1caras Internacional","bairro":"Condom\u00ednio Portal dos Ip\u00eas","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

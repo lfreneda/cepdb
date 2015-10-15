@@ -1,0 +1,1 @@
+jsonp({"cep":"14161750","logradouro":"Rua Alexandre Sanches Ruy","bairro":"Ch\u00e1caras Recreio dos Pampas","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

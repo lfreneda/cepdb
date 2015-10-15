@@ -1,0 +1,1 @@
+jsonp({"cep":"14094080","logradouro":"Rua Dom In\u00e1cio Jo\u00e3o Dal Monte","bairro":"Conjunto Habitacional Jardim das Palmeiras","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

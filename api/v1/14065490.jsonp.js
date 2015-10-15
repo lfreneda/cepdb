@@ -1,0 +1,1 @@
+jsonp({"cep":"14065490","logradouro":"Rua M\u00e1rio Sgliane Cintra","bairro":"Jardim Joaquim Proc\u00f3pio de Ara\u00fajo Ferraz","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});

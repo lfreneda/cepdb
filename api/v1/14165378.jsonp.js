@@ -1,0 +1,1 @@
+jsonp({"cep":"14165378","logradouro":"Rua Ant\u00f4nio Milan","bairro":"Conjunto Habitacional Jos\u00e9 Garcia da Costa - Z\u00e9 Garcia","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

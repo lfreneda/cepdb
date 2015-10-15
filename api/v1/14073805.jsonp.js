@@ -1,0 +1,1 @@
+jsonp({"cep":"14073805","logradouro":"Rua Maria Aparecida de Souza Diniz Guimar\u00e3es","bairro":"Condom\u00ednio Balne\u00e1rio Recreativa","cidade":"Ribeir\u00e3o Preto","uf":"SP","estado":"S\u00e3o Paulo"});
