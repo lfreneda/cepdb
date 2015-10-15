@@ -1,0 +1,1 @@
+jsonp({"cep":"72551600","logradouro":"Esta\u00e7\u00e3o Esta\u00e7\u00e3o de Tratamento de Esgoto Crispim","bairro":"N\u00facleo Rural Alagados (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

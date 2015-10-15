@@ -1,0 +1,1 @@
+jsonp({"cep":"72595630","logradouro":"Condom\u00ednio Ecol\u00f3gico Parque do Mirante","bairro":"Setor Habitacional Toror\u00f3 (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

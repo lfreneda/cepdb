@@ -1,0 +1,1 @@
+jsonp({"cep":"72725544","logradouro":"Quadra Quadra 4 Bloco 4","bairro":"Veredas (Brazl\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

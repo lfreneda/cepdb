@@ -1,0 +1,1 @@
+jsonp({"cep":"72705520","logradouro":"Bloco Centro de Com\u00e9rcio e Divers\u00f5es Bloco S","bairro":"Setor Norte (Brazl\u00e2ndia)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

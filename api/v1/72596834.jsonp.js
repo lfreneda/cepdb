@@ -1,0 +1,1 @@
+jsonp({"cep":"72596834","logradouro":"Travessa Dois Irm\u00e3os","bairro":"Condom\u00ednio Residencial Santa M\u00f4nica (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

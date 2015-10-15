@@ -1,0 +1,1 @@
+jsonp({"cep":"72596840","logradouro":"Travessa S\u00e3o Vicente","bairro":"Condom\u00ednio Residencial Santa M\u00f4nica (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

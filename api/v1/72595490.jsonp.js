@@ -1,0 +1,1 @@
+jsonp({"cep":"72595490","logradouro":"Condom\u00ednio Mans\u00f5es Rurais do Lago Sul","bairro":"Setor Habitacional Toror\u00f3 (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"72579570","logradouro":"Setor Mans\u00f5es Abra\u00e3o I Ch\u00e1cara 14","bairro":"Mans\u00f5es Abra\u00e3o I (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

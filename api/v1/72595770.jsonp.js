@@ -1,0 +1,1 @@
+jsonp({"cep":"72595770","logradouro":"Condom\u00ednio Mans\u00f5es Flamboyant","bairro":"Setor Habitacional Toror\u00f3 (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

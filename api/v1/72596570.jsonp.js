@@ -1,0 +1,1 @@
+jsonp({"cep":"72596570","logradouro":"Condom\u00ednio Jardim Atl\u00e2ntico Sul","bairro":"Setor Habitacional Toror\u00f3 (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

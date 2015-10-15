@@ -1,0 +1,1 @@
+jsonp({"cep":"72596000","logradouro":"Condom\u00ednio Residencial Vale das Palmeiras","bairro":"Setor Habitacional Toror\u00f3 (Santa Maria)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
