@@ -1,0 +1,1 @@
+jsonp({"cep":"13054623","logradouro":"Rua Carlos Jos\u00e9 Pinheiro de Souza Campos","bairro":"Dic VI (Conjunto Habitacional Santo Dias Silva)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

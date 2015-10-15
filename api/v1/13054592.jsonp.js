@@ -1,0 +1,1 @@
+jsonp({"cep":"13054592","logradouro":"Rua Sebastiana Ferreira de Souza Campos Vasconcelos","bairro":"Dic V (Conjunto Habitacional Chico Mendes)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

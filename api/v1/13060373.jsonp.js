@@ -1,0 +1,1 @@
+jsonp({"cep":"13060373","logradouro":"Rua Fortaleza","bairro":"Vila Perseu Leite de Barros","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13056390","logradouro":"Rua Professora Glafira Aparecida Rosa de Faria","bairro":"Dic I (Conjunto Habitacional Monsenhor Luiz Fernando Abreu)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13056338","logradouro":"Rua Jos\u00e9 Leandro de Souza Ferreira","bairro":"Dic I (Conjunto Habitacional Monsenhor Luiz Fernando Abreu)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13060637","logradouro":"Rua \u00cdlton Ferreira da Silva","bairro":"Jardim Yeda","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

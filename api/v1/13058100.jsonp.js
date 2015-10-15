@@ -1,0 +1,1 @@
+jsonp({"cep":"13058100","logradouro":"Rua Doutor Maur\u00edcio Louren\u00e7\u00e3o Seber","bairro":"Conjunto Habitacional Parque da Floresta","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

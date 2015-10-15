@@ -1,0 +1,1 @@
+jsonp({"cep":"13054205","logradouro":"Rua Aguinaldo Jos\u00e9 Antoniolli","bairro":"Dic II (Conj Habitacional Doutor Ant\u00f4nio Mendon\u00e7a de Barros)","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"13058490","logradouro":"Rua Zumbi dos Palmares","bairro":"Jardim Nova Esperan\u00e7a","cidade":"Campinas","uf":"SP","estado":"S\u00e3o Paulo"});
