@@ -1,0 +1,1 @@
+jsonp({"cep":"29046214","logradouro":"Beco Rosa Neres Soares","bairro":"Gurigica","cidade":"Vit\u00f3ria","uf":"ES","estado":"Esp\u00edrito Santo"});

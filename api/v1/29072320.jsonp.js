@@ -1,0 +1,1 @@
+jsonp({"cep":"29072320","logradouro":"Rua Henrique Martins Tuche","bairro":"Seguran\u00e7a do Lar","cidade":"Vit\u00f3ria","uf":"ES","estado":"Esp\u00edrito Santo"});

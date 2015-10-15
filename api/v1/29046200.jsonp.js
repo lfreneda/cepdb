@@ -1,0 +1,1 @@
+jsonp({"cep":"29046200","logradouro":"Rua Pedro Lima do Ros\u00e1rio","bairro":"Gurigica","cidade":"Vit\u00f3ria","uf":"ES","estado":"Esp\u00edrito Santo"});

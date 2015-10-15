@@ -1,0 +1,1 @@
+jsonp({"cep":"29053380","logradouro":"Avenida Carlos Moreira Lima","bairro":"Monte Belo","cidade":"Vit\u00f3ria","uf":"ES","estado":"Esp\u00edrito Santo"});
