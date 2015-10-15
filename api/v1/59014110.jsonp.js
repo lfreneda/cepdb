@@ -1,0 +1,1 @@
+jsonp({"cep":"59014110","logradouro":"Rua Vereador Jo\u00e3o Soares de Ara\u00fajo","bairro":"Areia Preta","cidade":"Natal","uf":"RN","estado":"Rio Grande do Norte"});
