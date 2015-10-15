@@ -1,0 +1,1 @@
+jsonp({"cep":"76804391","logradouro":"Avenida Rio de Janeiro","bairro":"Mato Grosso","cidade":"Porto Velho","uf":"RO","estado":"Rond\u00f4nia"});
