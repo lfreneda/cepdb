@@ -1,0 +1,1 @@
+jsonp({"cep":"07802240","logradouro":"Rua Est\u00eanio Machado Loureiro","bairro":"Companhia Fazenda Bel\u00e9m","cidade":"Franco da Rocha","uf":"SP","estado":"S\u00e3o Paulo"});
