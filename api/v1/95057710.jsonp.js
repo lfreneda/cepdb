@@ -1,0 +1,1 @@
+jsonp({"cep":"95057710","logradouro":"Rua Ernesto Pellanda","bairro":"Mariland","cidade":"Caxias do Sul","uf":"RS","estado":"Rio Grande do Sul"});

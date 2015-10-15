@@ -1,0 +1,1 @@
+jsonp({"cep":"95112010","logradouro":"Rua Adoniran Barbosa","bairro":"Desvio Rizzo","cidade":"Caxias do Sul","uf":"RS","estado":"Rio Grande do Sul"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"95074380","logradouro":"Rua Tucano","bairro":"Cruzeiro","cidade":"Caxias do Sul","uf":"RS","estado":"Rio Grande do Sul"});
