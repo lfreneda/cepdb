@@ -1,0 +1,1 @@
+jsonp({"cep":"41334200","logradouro":"Rua Virg\u00edlio Motta Leal","bairro":"Cajazeiras","cidade":"Salvador","uf":"BA","estado":"Bahia"});

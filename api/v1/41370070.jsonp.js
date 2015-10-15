@@ -1,0 +1,1 @@
+jsonp({"cep":"41370070","logradouro":"Rua S\u00e3o Jos\u00e9 do Jardim Nova Esperan\u00e7a","bairro":"Jardim Nova Esperan\u00e7a","cidade":"Salvador","uf":"BA","estado":"Bahia"});
