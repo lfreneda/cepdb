@@ -1,0 +1,1 @@
+jsonp({"cep":"59159330","logradouro":"Rua Pedra da Serra","bairro":"Parque das Na\u00e7\u00f5es","cidade":"Parnamirim","uf":"RN","estado":"Rio Grande do Norte"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"59607490","logradouro":"Rua Doutor Mois\u00e9s da Costa Lopes","bairro":"Nova Bet\u00e2nia","cidade":"Mossor\u00f3","uf":"RN","estado":"Rio Grande do Norte"});
