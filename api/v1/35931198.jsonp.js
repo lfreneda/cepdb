@@ -1,0 +1,1 @@
+jsonp({"cep":"35931198","logradouro":"Rua Vit\u00f3ria-R\u00e9gia","bairro":"Campos El\u00edsios","cidade":"Jo\u00e3o Monlevade","uf":"MG","estado":"Minas Gerais"});

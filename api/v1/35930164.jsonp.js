@@ -1,0 +1,1 @@
+jsonp({"cep":"35930164","logradouro":"Rua S\u00e3o Louren\u00e7o","bairro":"Ros\u00e1rio","cidade":"Jo\u00e3o Monlevade","uf":"MG","estado":"Minas Gerais"});

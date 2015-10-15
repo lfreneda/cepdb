@@ -1,0 +1,1 @@
+jsonp({"cep":"35930511","logradouro":"Rua Jos\u00e9 Rafael dos Santos","bairro":"Nossa Senhora da Concei\u00e7\u00e3o","cidade":"Jo\u00e3o Monlevade","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"35931159","logradouro":"Rua Bar\u00e3o de Cocais","bairro":"Nova Esperan\u00e7a","cidade":"Jo\u00e3o Monlevade","uf":"MG","estado":"Minas Gerais"});

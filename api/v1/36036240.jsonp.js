@@ -1,0 +1,1 @@
+jsonp({"cep":"36036240","logradouro":"Rua Ad\u00e3o Barbosa Lima","bairro":"S\u00e3o Pedro","cidade":"Juiz de Fora","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"35931123","logradouro":"Rua Marqu\u00eas de S\u00e3o Vicente","bairro":"Novo Cruzeiro","cidade":"Jo\u00e3o Monlevade","uf":"MG","estado":"Minas Gerais"});

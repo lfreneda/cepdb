@@ -1,0 +1,1 @@
+jsonp({"cep":"35932005","logradouro":"Rua Jos\u00e9 de Brito","bairro":"Santa Cec\u00edlia","cidade":"Jo\u00e3o Monlevade","uf":"MG","estado":"Minas Gerais"});
