@@ -1,0 +1,1 @@
+jsonp({"cep":"83005310","logradouro":"Rua Doutor Manoel Ribeiro de Campos","bairro":"Centro","cidade":"S\u00e3o Jos\u00e9 dos Pinhais","uf":"PR","estado":"Paran\u00e1"});

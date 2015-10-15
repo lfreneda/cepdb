@@ -1,0 +1,1 @@
+jsonp({"cep":"83005430","logradouro":"Rua Bar\u00e3o do Cerro Azul","bairro":"Centro","cidade":"S\u00e3o Jos\u00e9 dos Pinhais","uf":"PR","estado":"Paran\u00e1"});
