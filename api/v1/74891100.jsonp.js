@@ -1,0 +1,1 @@
+jsonp({"cep":"74891100","logradouro":"Rua VB 10","bairro":"Residencial Vale das Brisas","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

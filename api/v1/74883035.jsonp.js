@@ -1,0 +1,1 @@
+jsonp({"cep":"74883035","logradouro":"Avenida Rio Bonito","bairro":"Alphaville Flamboyant Residencial Araguaia","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

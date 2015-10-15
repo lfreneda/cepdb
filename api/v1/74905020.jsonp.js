@@ -1,0 +1,1 @@
+jsonp({"cep":"74905020","logradouro":"Avenida Bela Vista","bairro":"Jardim das Esmeraldas","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

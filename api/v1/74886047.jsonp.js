@@ -1,0 +1,1 @@
+jsonp({"cep":"74886047","logradouro":"Rua dos Camar\u00e1s","bairro":"Jardins Verona","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
