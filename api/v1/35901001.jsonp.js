@@ -1,0 +1,1 @@
+jsonp({"cep":"35901001","logradouro":"Rua Ant\u00f4nio F\u00e9lix Filho","bairro":"Cl\u00f3vis Alvim I","cidade":"Itabira","uf":"MG","estado":"Minas Gerais"});

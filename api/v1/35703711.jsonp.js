@@ -1,0 +1,1 @@
+jsonp({"cep":"35703711","logradouro":"Rua Elza C\u00e2ndida Malaquias","bairro":"Barreiro de Cima","cidade":"Sete Lagoas","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"35702364","logradouro":"Rua Wanderl\u00facio Pereira da Silva","bairro":"Conjunto Habitacional Bernardo Valadares Vasconcelos","cidade":"Sete Lagoas","uf":"MG","estado":"Minas Gerais"});

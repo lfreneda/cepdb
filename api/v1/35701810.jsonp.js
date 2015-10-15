@@ -1,0 +1,1 @@
+jsonp({"cep":"35701810","logradouro":"Rua S\u00e3o Crist\u00f3v\u00e3o","bairro":"Lontrinha","cidade":"Sete Lagoas","uf":"MG","estado":"Minas Gerais"});
