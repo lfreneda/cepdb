@@ -1,0 +1,1 @@
+jsonp({"cep":"40310420","logradouro":"Rua Juracy Magalh\u00e3es","bairro":"Pau Mi\u00fado","cidade":"Salvador","uf":"BA","estado":"Bahia"});
