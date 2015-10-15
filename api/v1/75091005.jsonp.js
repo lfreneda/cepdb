@@ -1,0 +1,1 @@
+jsonp({"cep":"75091005","logradouro":"Rua Vener\u00e1vel Waldemar Borges de Almeida","bairro":"Conjunto Habitacional Filostro Machado Carneiro","cidade":"An\u00e1polis","uf":"GO","estado":"Goi\u00e1s"});

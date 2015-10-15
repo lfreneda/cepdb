@@ -1,0 +1,1 @@
+jsonp({"cep":"74990500","logradouro":"Rua R\u00f4mulo Alves de Brito","bairro":"Parque Itamaraty","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

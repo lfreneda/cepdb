@@ -1,0 +1,1 @@
+jsonp({"cep":"74993515","logradouro":"Avenida Jo\u00e3o Rodolfo de Oliveira","bairro":"Parque Industrial de Aparecida de Goi\u00e2nia","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

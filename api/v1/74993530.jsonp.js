@@ -1,0 +1,1 @@
+jsonp({"cep":"74993530","logradouro":"Avenida Maria Elias Lisboa Santos","bairro":"Parque Industrial de Aparecida de Goi\u00e2nia","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
