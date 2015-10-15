@@ -1,0 +1,1 @@
+jsonp({"cep":"40487010","logradouro":"Rua S\u00e3o Corn\u00e9lio","bairro":"Boa Vista do Lobato","cidade":"Salvador","uf":"BA","estado":"Bahia"});
