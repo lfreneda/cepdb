@@ -1,0 +1,1 @@
+jsonp({"cep":"40080035","logradouro":"Pra\u00e7a da Aclama\u00e7\u00e3o","bairro":"Campo Grande","cidade":"Salvador","uf":"BA","estado":"Bahia"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"40221170","logradouro":"Avenida S\u00e3o Greg\u00f3rio","bairro":"Engenho Velho da Federa\u00e7\u00e3o","cidade":"Salvador","uf":"BA","estado":"Bahia"});

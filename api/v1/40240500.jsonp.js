@@ -1,0 +1,1 @@
+jsonp({"cep":"40240500","logradouro":"Rua Ant\u00f4nio Mariani Gravat\u00e1","bairro":"Engenho Velho de Brotas","cidade":"Salvador","uf":"BA","estado":"Bahia"});

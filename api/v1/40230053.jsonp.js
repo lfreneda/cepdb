@@ -1,0 +1,1 @@
+jsonp({"cep":"40230053","logradouro":"Vila Caetano Moura","bairro":"Federa\u00e7\u00e3o","cidade":"Salvador","uf":"BA","estado":"Bahia"});
