@@ -1,0 +1,1 @@
+jsonp({"cep":"73090140","logradouro":"Condom\u00ednio Residencial Sobradinho III Conjunto C","bairro":"Setor Habitacional Contagem (Sobradinho)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
