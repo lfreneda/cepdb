@@ -1,0 +1,1 @@
+jsonp({"cep":"29317075","logradouro":"Rua Maria das Neves Soares de Albuquerque Esp\u00edndula","bairro":"Parque Laranjeiras","cidade":"Cachoeiro de Itapemirim","uf":"ES","estado":"Esp\u00edrito Santo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"29705012","logradouro":"Rua En\u00e9ias de Souza","bairro":"Maria das Gra\u00e7as","cidade":"Colatina","uf":"ES","estado":"Esp\u00edrito Santo"});

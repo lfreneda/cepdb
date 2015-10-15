@@ -1,0 +1,1 @@
+jsonp({"cep":"29316065","logradouro":"Rua Jer\u00f4nimo Afonso de Mendon\u00e7a","bairro":"Bela Vista","cidade":"Cachoeiro de Itapemirim","uf":"ES","estado":"Esp\u00edrito Santo"});

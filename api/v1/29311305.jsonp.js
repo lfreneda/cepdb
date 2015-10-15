@@ -1,0 +1,1 @@
+jsonp({"cep":"29311305","logradouro":"Escadaria Gl\u00f3ria Gon\u00e7alves Atalaia","bairro":"Nossa Senhora de F\u00e1tima","cidade":"Cachoeiro de Itapemirim","uf":"ES","estado":"Esp\u00edrito Santo"});

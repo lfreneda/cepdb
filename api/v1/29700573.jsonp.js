@@ -1,0 +1,1 @@
+jsonp({"cep":"29700573","logradouro":"Travessa Sebasti\u00e3o J\u00e9sus Ferreira Dias","bairro":"Colatina Velha","cidade":"Colatina","uf":"ES","estado":"Esp\u00edrito Santo"});
