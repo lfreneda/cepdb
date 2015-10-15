@@ -1,0 +1,1 @@
+jsonp({"cep":"45652040","logradouro":"Rua Wenceslau Guimar\u00e3es","bairro":"Cidade Nova","cidade":"Ilh\u00e9us","uf":"BA","estado":"Bahia"});

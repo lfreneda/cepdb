@@ -1,0 +1,1 @@
+jsonp({"cep":"45604555","logradouro":"Travessa S\u00e3o Jo\u00e3o","bairro":"Jo\u00e3o Soares","cidade":"Itabuna","uf":"BA","estado":"Bahia"});
