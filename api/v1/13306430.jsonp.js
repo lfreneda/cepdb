@@ -1,0 +1,1 @@
+jsonp({"cep":"13306430","logradouro":"Avenida Corpora\u00e7\u00e3o Musical Uni\u00e3o dos Artistas","bairro":"Condom\u00ednio Terras de S\u00e3o Jos\u00e9","cidade":"Itu","uf":"SP","estado":"S\u00e3o Paulo"});

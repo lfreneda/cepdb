@@ -1,0 +1,1 @@
+jsonp({"cep":"13310210","logradouro":"Rua Cl\u00e1udio Fonseca","bairro":"Parque Nossa Senhora da Candel\u00e1ria","cidade":"Itu","uf":"SP","estado":"S\u00e3o Paulo"});

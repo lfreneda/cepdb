@@ -1,0 +1,1 @@
+jsonp({"cep":"13304776","logradouro":"Rua Miguel Tr\u00edpoli Gli\u00f3rio","bairro":"N\u00facleo Habitacional S\u00e3o Judas Tadeu","cidade":"Itu","uf":"SP","estado":"S\u00e3o Paulo"});
