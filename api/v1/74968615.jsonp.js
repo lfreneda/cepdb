@@ -1,0 +1,1 @@
+jsonp({"cep":"74968615","logradouro":"Rua Henrique Cinale","bairro":"Residencial Solar Garden I","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

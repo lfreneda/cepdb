@@ -1,0 +1,1 @@
+jsonp({"cep":"74965600","logradouro":"Pra\u00e7a Nossa Senhora Aparecida","bairro":"Conjunto Habitacional Madre Germana I","cidade":"Aparecida de Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
