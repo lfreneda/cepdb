@@ -1,0 +1,1 @@
+jsonp({"cep":"69008150","logradouro":"Rua Padre Dami\u00e3o","bairro":"Col\u00f4nia Ant\u00f4nio Aleixo","cidade":"Manaus","uf":"AM","estado":"Amazonas"});

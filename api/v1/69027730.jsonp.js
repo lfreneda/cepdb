@@ -1,0 +1,1 @@
+jsonp({"cep":"69027730","logradouro":"Rua S\u00e3o Jos\u00e9 Oper\u00e1rio","bairro":"Gl\u00f3ria","cidade":"Manaus","uf":"AM","estado":"Amazonas"});

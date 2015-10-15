@@ -1,0 +1,1 @@
+jsonp({"cep":"69015035","logradouro":"Rua da Liberta\u00e7\u00e3o","bairro":"Col\u00f4nia Terra Nova","cidade":"Manaus","uf":"AM","estado":"Amazonas"});

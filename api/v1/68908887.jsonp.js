@@ -1,0 +1,1 @@
+jsonp({"cep":"68908887","logradouro":"Avenida Esquadr\u00e3o Fal\u00e7\u00e3o","bairro":"Infraero","cidade":"Macap\u00e1","uf":"AP","estado":"Amap\u00e1"});
