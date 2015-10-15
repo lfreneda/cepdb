@@ -1,0 +1,1 @@
+jsonp({"cep":"04543013","logradouro":"Complexo Vi\u00e1rio Tribunal de Justi\u00e7a do Estado de S\u00e3o Paulo","bairro":"Vila Nova Concei\u00e7\u00e3o","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
