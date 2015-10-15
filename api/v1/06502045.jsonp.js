@@ -1,0 +1,1 @@
+jsonp({"cep":"06502045","logradouro":"Rua Professor Ant\u00f4nio Oleg\u00e1rio Cardoso Filho","bairro":"Jardim Professor Beno\u00e1","cidade":"Santana de Parna\u00edba","uf":"SP","estado":"S\u00e3o Paulo"});
