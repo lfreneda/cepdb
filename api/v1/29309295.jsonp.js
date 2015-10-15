@@ -1,0 +1,1 @@
+jsonp({"cep":"29309295","logradouro":"Rua Maria Assump\u00e7\u00e3o Gon\u00e7alves Moreira","bairro":"Abelardo Ferreira Machado","cidade":"Cachoeiro de Itapemirim","uf":"ES","estado":"Esp\u00edrito Santo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"29227984","logradouro":"Estrada Rio Cal\u00e7ado-Baia Nova","bairro":"Rio Cal\u00e7ado","cidade":"Guarapari","uf":"ES","estado":"Esp\u00edrito Santo"});

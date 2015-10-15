@@ -1,0 +1,1 @@
+jsonp({"cep":"29309275","logradouro":"Rua Eug\u00eanio Aur\u00e9lio Brand\u00e3o do Vale","bairro":"Abelardo Ferreira Machado","cidade":"Cachoeiro de Itapemirim","uf":"ES","estado":"Esp\u00edrito Santo"});
