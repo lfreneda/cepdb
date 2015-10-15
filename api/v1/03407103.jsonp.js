@@ -1,0 +1,1 @@
+jsonp({"cep":"03407103","logradouro":"Rua Capit\u00e3o Jo\u00e3o Alfredo Almeida","bairro":"Ch\u00e1cara Santo Ant\u00f4nio (Zona Leste)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

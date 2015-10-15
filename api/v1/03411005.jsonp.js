@@ -1,0 +1,1 @@
+jsonp({"cep":"03411005","logradouro":"Travessa Maria da Concei\u00e7\u00e3o de Oliveira Costa","bairro":"Ch\u00e1cara Santo Ant\u00f4nio (Zona Leste)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
