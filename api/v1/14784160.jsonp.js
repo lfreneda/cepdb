@@ -1,0 +1,1 @@
+jsonp({"cep":"14784160","logradouro":"Travessa Il\u00eddio Ferreira da Costa","bairro":"Conjunto Habitacional Jos\u00e9 Eug\u00eanio Abr\u00e3o Miziara - Jone Miziara","cidade":"Barretos","uf":"SP","estado":"S\u00e3o Paulo"});

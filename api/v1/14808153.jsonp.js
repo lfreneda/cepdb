@@ -1,0 +1,1 @@
+jsonp({"cep":"14808153","logradouro":"Rua Professor Laert Jos\u00e9 Tarallo Mendes","bairro":"2\u00b0 Distrito Industrial (Domingos Ferrari)","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

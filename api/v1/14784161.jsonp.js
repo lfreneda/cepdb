@@ -1,0 +1,1 @@
+jsonp({"cep":"14784161","logradouro":"Rua Or\u00edbio Girardo","bairro":"Conjunto Habitacional Jos\u00e9 Eug\u00eanio Abr\u00e3o Miziara - Jone Miziara","cidade":"Barretos","uf":"SP","estado":"S\u00e3o Paulo"});

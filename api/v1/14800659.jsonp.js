@@ -1,0 +1,1 @@
+jsonp({"cep":"14800659","logradouro":"Estrada Vicinal Francisco Jos\u00e9 Zanin","bairro":"7\u00ba Distrito Industrial (Antonio Zanin)","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

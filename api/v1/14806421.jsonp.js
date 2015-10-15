@@ -1,0 +1,1 @@
+jsonp({"cep":"14806421","logradouro":"Rua Capit\u00e3o-Pol\u00edcia Militar Jos\u00e9 Louren\u00e7o de Almeida","bairro":"Vila Fl\u00f3rida","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

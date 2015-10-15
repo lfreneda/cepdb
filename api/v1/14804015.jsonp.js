@@ -1,0 +1,1 @@
+jsonp({"cep":"14804015","logradouro":"Rua \u00c2ngelo Piffer","bairro":"Jardim Residencial Para\u00edso","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

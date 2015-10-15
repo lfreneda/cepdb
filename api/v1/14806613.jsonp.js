@@ -1,0 +1,1 @@
+jsonp({"cep":"14806613","logradouro":"Avenida Brandina Saavedra Campani","bairro":"3\u00b0 Distrito Industrial (Virg\u00edlio Ometto Pavan)","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

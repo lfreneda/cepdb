@@ -1,0 +1,1 @@
+jsonp({"cep":"14808030","logradouro":"Avenida Odont\u00f3logo Euclides de Cunha","bairro":"1\u00b0 Distrito Industrial (Albert Geoges Karam)","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

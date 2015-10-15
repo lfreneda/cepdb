@@ -1,0 +1,1 @@
+jsonp({"cep":"14808036","logradouro":"Rua Capit\u00e3o-Pol\u00edcia Militar Joaquim Jos\u00e9 Maurino Rodrigues","bairro":"Jardim Rafaela Amoroso Micelli","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

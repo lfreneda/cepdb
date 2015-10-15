@@ -1,0 +1,1 @@
+jsonp({"cep":"14804130","logradouro":"Avenida Professora Leila L\u00facia Dias de Toledo Piza Durante","bairro":"Parque Residencial Vale do Sol","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});

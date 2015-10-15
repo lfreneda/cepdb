@@ -1,0 +1,1 @@
+jsonp({"cep":"14805377","logradouro":"Rua Darvis Bassi","bairro":"Ch\u00e1cara Flora Araraquara","cidade":"Araraquara","uf":"SP","estado":"S\u00e3o Paulo"});
