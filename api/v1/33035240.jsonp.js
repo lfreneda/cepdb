@@ -1,0 +1,1 @@
+jsonp({"cep":"33035240","logradouro":"Rua Nilo Pe\u00e7anha","bairro":"Boa Esperan\u00e7a","cidade":"Santa Luzia","uf":"MG","estado":"Minas Gerais"});

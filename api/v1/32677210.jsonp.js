@@ -1,0 +1,1 @@
+jsonp({"cep":"32677210","logradouro":"Rua Ant\u00f4nio Jos\u00e9 Diniz","bairro":"Imbiru\u00e7u","cidade":"Betim","uf":"MG","estado":"Minas Gerais"});

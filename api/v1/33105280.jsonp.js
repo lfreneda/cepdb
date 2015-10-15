@@ -1,0 +1,1 @@
+jsonp({"cep":"33105280","logradouro":"Rua Ant\u00f4nio de Pinho","bairro":"Conjunto Cristina (S\u00e3o Benedito)","cidade":"Santa Luzia","uf":"MG","estado":"Minas Gerais"});
