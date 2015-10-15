@@ -1,0 +1,1 @@
+jsonp({"cep":"70360718","logradouro":"Quadra SHIGS 709 Bloco R","bairro":"Asa Sul","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
