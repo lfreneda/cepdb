@@ -1,0 +1,1 @@
+jsonp({"cep":"59625188","logradouro":"Rua C\u00edcero Luiz de Fran\u00e7a","bairro":"Alto de S\u00e3o Manoel","cidade":"Mossor\u00f3","uf":"RN","estado":"Rio Grande do Norte"});

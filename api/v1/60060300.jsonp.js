@@ -1,0 +1,1 @@
+jsonp({"cep":"60060300","logradouro":"Rua Professor Ant\u00f4nio Gir\u00e3o Barroso","bairro":"Praia de Iracema","cidade":"Fortaleza","uf":"CE","estado":"Cear\u00e1"});

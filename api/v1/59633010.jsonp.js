@@ -1,0 +1,1 @@
+jsonp({"cep":"59633010","logradouro":"Rua Miro Felipe de Mendon\u00e7a","bairro":"Alto de S\u00e3o Manoel","cidade":"Mossor\u00f3","uf":"RN","estado":"Rio Grande do Norte"});

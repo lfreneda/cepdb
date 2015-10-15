@@ -1,0 +1,1 @@
+jsonp({"cep":"59628540","logradouro":"Rua Coronel Joaquim Tavares","bairro":"Dom Jaime C\u00e2mara","cidade":"Mossor\u00f3","uf":"RN","estado":"Rio Grande do Norte"});
