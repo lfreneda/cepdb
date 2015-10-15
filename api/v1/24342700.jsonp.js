@@ -1,0 +1,1 @@
+jsonp({"cep":"24342700","logradouro":"Rua L\u00facia Alves da Concei\u00e7\u00e3o","bairro":"Serra Grande","cidade":"Niter\u00f3i","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"24360200","logradouro":"Rua Tapaj\u00f3s","bairro":"S\u00e3o Francisco","cidade":"Niter\u00f3i","uf":"RJ","estado":"Rio de Janeiro"});

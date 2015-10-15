@@ -1,0 +1,1 @@
+jsonp({"cep":"24420460","logradouro":"Travessa Manuel Pereira J\u00fanior","bairro":"Rocha","cidade":"S\u00e3o Gon\u00e7alo","uf":"RJ","estado":"Rio de Janeiro"});

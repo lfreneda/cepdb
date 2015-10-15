@@ -1,0 +1,1 @@
+jsonp({"cep":"24340130","logradouro":"Avenida Doutor Eduardo L\u00facio Rodrigues Pican\u00e7o","bairro":"Itaipu","cidade":"Niter\u00f3i","uf":"RJ","estado":"Rio de Janeiro"});
