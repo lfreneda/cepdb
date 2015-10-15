@@ -1,0 +1,1 @@
+jsonp({"cep":"48903460","logradouro":"Rua Doutor Jos\u00e9 Gon\u00e7alves","bairro":"Centro","cidade":"Juazeiro","uf":"BA","estado":"Bahia"});

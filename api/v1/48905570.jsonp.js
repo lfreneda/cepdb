@@ -1,0 +1,1 @@
+jsonp({"cep":"48905570","logradouro":"Rua Petron\u00edlia Maria de Jesus","bairro":"Jardim Novo Encontro","cidade":"Juazeiro","uf":"BA","estado":"Bahia"});

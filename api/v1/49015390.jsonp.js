@@ -1,0 +1,1 @@
+jsonp({"cep":"49015390","logradouro":"Pra\u00e7a Joaquim In\u00e1cio Barbosa","bairro":"S\u00e3o Jos\u00e9","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});

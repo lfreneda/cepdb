@@ -1,0 +1,1 @@
+jsonp({"cep":"49032080","logradouro":"Largo Jos\u00e9 Augusto Rocha Lima","bairro":"Farol\u00e2ndia","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});

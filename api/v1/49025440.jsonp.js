@@ -1,0 +1,1 @@
+jsonp({"cep":"49025440","logradouro":"Rua Manoel Esp\u00edrito Santo","bairro":"Grageru","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});

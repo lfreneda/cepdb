@@ -1,0 +1,1 @@
+jsonp({"cep":"49033467","logradouro":"Rua Professor Jos\u00e9 Am\u00e9rico Batista Cardoso","bairro":"Zona de Expans\u00e3o (Robalo)","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});
