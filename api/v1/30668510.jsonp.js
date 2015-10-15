@@ -1,0 +1,1 @@
+jsonp({"cep":"30668510","logradouro":"Rua Maria da Concei\u00e7\u00e3o de Melo","bairro":"Conjunto Renato Ernesto Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

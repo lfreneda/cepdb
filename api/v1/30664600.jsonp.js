@@ -1,0 +1,1 @@
+jsonp({"cep":"30664600","logradouro":"Rua Henry Corr\u00eaa de Ara\u00fajo","bairro":"Conjunto Habitacional Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

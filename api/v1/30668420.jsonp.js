@@ -1,0 +1,1 @@
+jsonp({"cep":"30668420","logradouro":"Rua Ant\u00f4nio Augusto da Silva","bairro":"Conjunto Renato Ernesto Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"30668080","logradouro":"Rua Renato T\u00e1rsia","bairro":"Castanheira I Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

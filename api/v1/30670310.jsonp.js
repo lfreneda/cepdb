@@ -1,0 +1,1 @@
+jsonp({"cep":"30670310","logradouro":"Rua Jos\u00e9 Francisco Pereira","bairro":"Vila Pinho Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

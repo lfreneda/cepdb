@@ -1,0 +1,1 @@
+jsonp({"cep":"30664420","logradouro":"Rua Jos\u00e9 Te\u00f3filo da Silva","bairro":"Conjunto Habitacional Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

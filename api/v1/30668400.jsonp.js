@@ -1,0 +1,1 @@
+jsonp({"cep":"30668400","logradouro":"Rua Francisco Lommez","bairro":"Santa Cec\u00edlia Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

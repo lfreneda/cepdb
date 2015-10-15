@@ -1,0 +1,1 @@
+jsonp({"cep":"30664480","logradouro":"Rua Dom\u00edcio Gabriel de Vasconcelos","bairro":"Conjunto Habitacional Vale do Jatob\u00e1 (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

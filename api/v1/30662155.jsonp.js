@@ -1,0 +1,1 @@
+jsonp({"cep":"30662155","logradouro":"Rua M\u00e1rcio Jos\u00e9 de Ara\u00fajo","bairro":"Tirol (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

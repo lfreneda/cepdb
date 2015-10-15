@@ -1,0 +1,1 @@
+jsonp({"cep":"30672540","logradouro":"Rua Desembargador Gon\u00e7alves Rezende","bairro":"Mineir\u00e3o","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});

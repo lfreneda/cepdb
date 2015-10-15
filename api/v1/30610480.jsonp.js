@@ -1,0 +1,1 @@
+jsonp({"cep":"30610480","logradouro":"Rua Jos\u00e9 Gon\u00e7alves Barbosa","bairro":"Das Ind\u00fastrias I (Barreiro)","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});
