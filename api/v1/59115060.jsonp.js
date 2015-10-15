@@ -1,0 +1,1 @@
+jsonp({"cep":"59115060","logradouro":"Rua Professor Clodoaldo de G\u00f3is","bairro":"Nossa Senhora da Apresenta\u00e7\u00e3o","cidade":"Natal","uf":"RN","estado":"Rio Grande do Norte"});

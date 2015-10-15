@@ -1,0 +1,1 @@
+jsonp({"cep":"59076400","logradouro":"Avenida Capit\u00e3o-Mor Gouveia","bairro":"Lagoa Nova","cidade":"Natal","uf":"RN","estado":"Rio Grande do Norte"});
