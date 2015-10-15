@@ -1,0 +1,1 @@
+jsonp({"cep":"99498000","cidade":"Linha Gl\u00f3ria","uf":"RS","estado":"Rio Grande do Sul"});
