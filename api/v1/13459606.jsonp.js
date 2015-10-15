@@ -1,0 +1,1 @@
+jsonp({"cep":"13459606","logradouro":"Estrada Municipal Jos\u00e9 Augusto de Barros","bairro":"Ch\u00e1caras de Recreio H\u00e9lico","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

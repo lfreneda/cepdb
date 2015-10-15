@@ -1,0 +1,1 @@
+jsonp({"cep":"13476562","logradouro":"Rua Irm\u00e3 Dorothy Mae Stang","bairro":"Loteamento Residencial de Interesse Social Vila Nova Esperan\u00e7a - ASTA 4","cidade":"Americana","uf":"SP","estado":"S\u00e3o Paulo"});

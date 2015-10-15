@@ -1,0 +1,1 @@
+jsonp({"cep":"13459603","logradouro":"Rua Am\u00e9rico Inoc\u00eancio de Oliveira","bairro":"Ch\u00e1caras de Recreio H\u00e9lico","cidade":"Santa B\u00e1rbara D'Oeste","uf":"SP","estado":"S\u00e3o Paulo"});

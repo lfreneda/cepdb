@@ -1,0 +1,1 @@
+jsonp({"cep":"13476560","logradouro":"Rua Madre Teresa de Calcut\u00e1","bairro":"Loteamento Residencial de Interesse Social Vila Nova Esperan\u00e7a - ASTA 4","cidade":"Americana","uf":"SP","estado":"S\u00e3o Paulo"});
