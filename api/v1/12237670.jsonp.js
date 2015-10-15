@@ -1,0 +1,1 @@
+jsonp({"cep":"12237670","logradouro":"Rua Doutor Jo\u00e3o de Paula Cabral","bairro":"Recanto dos Pinheiros","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12237871","logradouro":"Rua Luzia Menezes de Carvalho Cordeiro","bairro":"Residencial de Ville","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

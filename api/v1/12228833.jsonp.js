@@ -1,0 +1,1 @@
+jsonp({"cep":"12228833","logradouro":"Rua Sidney da Costa Coelho","bairro":"Vila Adriana","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12246091","logradouro":"Rua Engenheiro Alexandre C\u00f3ppio Ramos","bairro":"Parque Residencial Aquarius","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

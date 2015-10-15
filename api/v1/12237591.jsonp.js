@@ -1,0 +1,1 @@
+jsonp({"cep":"12237591","logradouro":"Rua Raimundo Batista Concei\u00e7\u00e3o","bairro":"Loteamento Conjunto Morada do Sol II","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

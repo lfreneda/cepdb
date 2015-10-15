@@ -1,0 +1,1 @@
+jsonp({"cep":"12237780","logradouro":"Pra\u00e7a Wilson Rocha de Siqueira","bairro":"Conjunto Residencial Trinta e Um de Mar\u00e7o","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

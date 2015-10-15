@@ -1,0 +1,1 @@
+jsonp({"cep":"12237530","logradouro":"Rua Maria Jos\u00e9 Neme Calil","bairro":"Conjunto Residencial Trinta e Um de Mar\u00e7o","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

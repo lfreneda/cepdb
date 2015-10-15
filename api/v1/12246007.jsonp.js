@@ -1,0 +1,1 @@
+jsonp({"cep":"12246007","logradouro":"Rua S\u00e9rgio Luiz Guimar\u00e3es de Aguiar","bairro":"Parque Residencial Aquarius","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

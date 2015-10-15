@@ -1,0 +1,1 @@
+jsonp({"cep":"12240000","logradouro":"Avenida Doutor Jo\u00e3o Batista Soares de Queiroz J\u00fanior","bairro":"Jardim das Ind\u00fastrias","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

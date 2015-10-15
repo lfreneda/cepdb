@@ -1,0 +1,1 @@
+jsonp({"cep":"12234793","logradouro":"Rua Amado Concei\u00e7\u00e3o Silva Ros\u00e1rio","bairro":"Jardim dos Bandeirantes","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

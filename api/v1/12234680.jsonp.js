@@ -1,0 +1,1 @@
+jsonp({"cep":"12234680","logradouro":"Rua Mernez\u00edlia Moreira dos Santos","bairro":"Conjunto Residencial Elmano Veloso","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

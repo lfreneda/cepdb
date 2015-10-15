@@ -1,0 +1,1 @@
+jsonp({"cep":"12242412","logradouro":"Rotat\u00f3ria Monsenhor Jos\u00e9 Maria Escriv\u00e3","bairro":"Jardim Esplanada","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

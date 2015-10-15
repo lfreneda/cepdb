@@ -1,0 +1,1 @@
+jsonp({"cep":"12244810","logradouro":"Rua Doutor Jos\u00e9 Job de Ara\u00fajo Alves","bairro":"Conjunto Residencial Esplanada do Sol","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

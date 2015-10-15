@@ -1,0 +1,1 @@
+jsonp({"cep":"12229080","logradouro":"Rua Professor Jo\u00e3o Luiz Galv\u00e3o Ribeiro","bairro":"Jardim Torr\u00e3o de Ouro","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

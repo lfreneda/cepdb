@@ -1,0 +1,1 @@
+jsonp({"cep":"12242381","logradouro":"Pra\u00e7a Israel Gomes do Amaral","bairro":"Conjunto Residencial Vale dos Pinheiros","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12236885","logradouro":"Rua Ant\u00f4nio Cust\u00f3dio dos Santos","bairro":"Residencial Bosque dos Ip\u00eas","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

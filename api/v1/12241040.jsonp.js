@@ -1,0 +1,1 @@
+jsonp({"cep":"12241040","logradouro":"Rua Corifeu de Azevedo Marques","bairro":"Jardim das Ind\u00fastrias","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12234862","logradouro":"Avenida Cabo L\u00facio Mauro da Silva Moreira","bairro":"Jardim Nova Rep\u00fablica","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

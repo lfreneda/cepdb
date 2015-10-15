@@ -1,0 +1,1 @@
+jsonp({"cep":"12230300","logradouro":"Avenida Doutor Sebasti\u00e3o Henrique da Cunha Pontes","bairro":"Jardim Sat\u00e9lite","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});
