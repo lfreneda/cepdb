@@ -1,0 +1,1 @@
+jsonp({"cep":"44072186","logradouro":"Rua Corredor dos Ara\u00e7\u00e1s","bairro":"Santo Ant\u00f4nio dos Prazeres","cidade":"Feira de Santana","uf":"BA","estado":"Bahia"});
