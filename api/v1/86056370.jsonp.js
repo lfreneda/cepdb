@@ -1,0 +1,1 @@
+jsonp({"cep":"86056370","logradouro":"Rua Rold\u00e3o Jos\u00e9 Alves","bairro":"Ol\u00edmpico","cidade":"Londrina","uf":"PR","estado":"Paran\u00e1"});

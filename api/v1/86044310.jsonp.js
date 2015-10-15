@@ -1,0 +1,1 @@
+jsonp({"cep":"86044310","logradouro":"Rua dos Taxistas","bairro":"Jardim Uni\u00e3o da Vit\u00f3ria II","cidade":"Londrina","uf":"PR","estado":"Paran\u00e1"});
