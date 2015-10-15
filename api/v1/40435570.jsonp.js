@@ -1,0 +1,1 @@
+jsonp({"cep":"40435570","logradouro":"Rua Doutor M\u00e1rio Augusto Teixeira de Freitas","bairro":"Massaranduba","cidade":"Salvador","uf":"BA","estado":"Bahia"});

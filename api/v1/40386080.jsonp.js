@@ -1,0 +1,1 @@
+jsonp({"cep":"40386080","logradouro":"Travessa Rafael Cincur\u00e1","bairro":"Boa Vista de S\u00e3o Caetano","cidade":"Salvador","uf":"BA","estado":"Bahia"});

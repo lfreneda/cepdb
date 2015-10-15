@@ -1,0 +1,1 @@
+jsonp({"cep":"40353480","logradouro":"Rua Ant\u00f4nio Monteiro dos Santos","bairro":"Fazenda Grande do Retiro","cidade":"Salvador","uf":"BA","estado":"Bahia"});
