@@ -1,0 +1,1 @@
+jsonp({"cep":"15057551","logradouro":"Avenida Jos\u00e9 Eduardo do Esp\u00edrito Santo","bairro":"Recanto dos Eduardos","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

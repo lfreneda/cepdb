@@ -1,0 +1,1 @@
+jsonp({"cep":"15080460","logradouro":"Rua Edurval Guimar\u00e3es de Andrade Foga\u00e7a","bairro":"Parque Quinta das Paineiras","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

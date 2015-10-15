@@ -1,0 +1,1 @@
+jsonp({"cep":"15064242","logradouro":"Estrada S\u00e3o Raphael Arcanjo","bairro":"Condom\u00ednio S\u00e3o Jo\u00e3o II (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15054749","logradouro":"Estrada de 2\u00aa Ordem para Est\u00e2ncia Sossego","bairro":"Est\u00e2ncia Sossego (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

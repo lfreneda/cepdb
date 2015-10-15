@@ -1,0 +1,1 @@
+jsonp({"cep":"15046090","logradouro":"Rua Doutor Ant\u00f4nio Braz de Lima","bairro":"Parque Residencial Dom Lafaiete Lib\u00e2nio","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

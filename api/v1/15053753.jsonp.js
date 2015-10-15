@@ -1,0 +1,1 @@
+jsonp({"cep":"15053753","logradouro":"Avenida Marginal BR-153","bairro":"Ch\u00e1cara Recreio Parque do Sabi\u00e1 (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

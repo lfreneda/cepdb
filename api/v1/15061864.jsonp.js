@@ -1,0 +1,1 @@
+jsonp({"cep":"15061864","logradouro":"Rua Melchiades Rodrigues Chaves Sobrinho","bairro":"Parque Residencial Damha IV","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

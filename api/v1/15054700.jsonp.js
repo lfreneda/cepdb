@@ -1,0 +1,1 @@
+jsonp({"cep":"15054700","logradouro":"Estrada Vicinal Alcides Augusto \u00c1vila","bairro":"Fazenda Retiro (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

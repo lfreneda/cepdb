@@ -1,0 +1,1 @@
+jsonp({"cep":"15061747","logradouro":"Rua Francisco de Assis Or\u00e9fice Gon\u00e7alves","bairro":"Residencial Jardins","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

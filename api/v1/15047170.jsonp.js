@@ -1,0 +1,1 @@
+jsonp({"cep":"15047170","logradouro":"Rua Otac\u00edlio Roque de Camargo Freitas","bairro":"Jardim Santo Ant\u00f4nio","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

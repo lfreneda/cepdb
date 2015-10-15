@@ -1,0 +1,1 @@
+jsonp({"cep":"15057060","logradouro":"Rua Verg\u00edlio Ant\u00f4nio Simionato","bairro":"Conjunto Habitacional S\u00e3o Deocleciano","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

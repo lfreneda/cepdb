@@ -1,0 +1,1 @@
+jsonp({"cep":"15048080","logradouro":"Estrada de 2\u00aa Ordem de Acesso","bairro":"Est\u00e2ncia S\u00e3o Pedro II (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

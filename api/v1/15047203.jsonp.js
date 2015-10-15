@@ -1,0 +1,1 @@
+jsonp({"cep":"15047203","logradouro":"Rua Zacarias Selime Alex Andr\u00e9","bairro":"Parque da Cidadania","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

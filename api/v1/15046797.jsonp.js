@@ -1,0 +1,1 @@
+jsonp({"cep":"15046797","logradouro":"Rua Inoc\u00eancia Maria de Souza","bairro":"Jardim Nunes","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

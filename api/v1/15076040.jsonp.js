@@ -1,0 +1,1 @@
+jsonp({"cep":"15076040","logradouro":"Rua Ministro M\u00e1rio Guimar\u00e3es","bairro":"Parque Residencial Romano Calil","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

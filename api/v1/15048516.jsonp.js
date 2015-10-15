@@ -1,0 +1,1 @@
+jsonp({"cep":"15048516","logradouro":"Rua das Hort\u00eansias","bairro":"Condom\u00ednio Nossa Senhora de Lourdes (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

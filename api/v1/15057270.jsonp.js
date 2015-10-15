@@ -1,0 +1,1 @@
+jsonp({"cep":"15057270","logradouro":"Rua Ademar Ferreira J\u00fanior","bairro":"Conjunto Habitacional S\u00e3o Deocleciano","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

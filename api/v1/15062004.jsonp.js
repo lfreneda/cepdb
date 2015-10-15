@@ -1,0 +1,1 @@
+jsonp({"cep":"15062004","logradouro":"Estrada Jo\u00e3o Pereira Filho","bairro":"Ch\u00e1cara Jockey Club (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

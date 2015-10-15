@@ -1,0 +1,1 @@
+jsonp({"cep":"15057439","logradouro":"Rua Irm\u00e3 Heloisa Helena de Campos Melo","bairro":"Residencial Santa Filomena","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

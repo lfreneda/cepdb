@@ -1,0 +1,1 @@
+jsonp({"cep":"15050265","logradouro":"Rua Major Jos\u00e9 Domingos J\u00fanior","bairro":"Parque Residencial Joaquim Nabuco","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

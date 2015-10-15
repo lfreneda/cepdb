@@ -1,0 +1,1 @@
+jsonp({"cep":"15061723","logradouro":"Rua Doutor Ulisses da Silveira Guimar\u00e3es","bairro":"Parque Residencial Damha","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

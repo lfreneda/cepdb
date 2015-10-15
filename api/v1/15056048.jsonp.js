@@ -1,0 +1,1 @@
+jsonp({"cep":"15056048","logradouro":"Alameda Ana Hil\u00e1rio Madlum","bairro":"Residencial Village Damha Rio Preto II","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15044722","logradouro":"Rua dos L\u00edrios","bairro":"Est\u00e2ncia Pousada dos P\u00e1ssaros (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

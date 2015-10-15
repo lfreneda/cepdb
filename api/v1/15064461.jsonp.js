@@ -1,0 +1,1 @@
+jsonp({"cep":"15064461","logradouro":"Rua Val\u00e9ria Sanches","bairro":"Recanto S\u00e3o Lucas (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

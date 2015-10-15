@@ -1,0 +1,1 @@
+jsonp({"cep":"15054753","logradouro":"Rua Sebasti\u00e3o Feliciano de Faria","bairro":"Ch\u00e1cara Recreio Nossa Senhora do L\u00edbano (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

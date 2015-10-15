@@ -1,0 +1,1 @@
+jsonp({"cep":"15070570","logradouro":"Rua Doutor Theot\u00f4nio Monteiro Barros Filho","bairro":"Parque Residencial Comendador Mancor Daud","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

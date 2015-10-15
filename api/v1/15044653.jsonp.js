@@ -1,0 +1,1 @@
+jsonp({"cep":"15044653","logradouro":"Rua Leonardo Rodrigues da Silveira","bairro":"Residencial Floresta Park (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

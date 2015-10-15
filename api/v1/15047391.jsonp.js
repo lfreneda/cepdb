@@ -1,0 +1,1 @@
+jsonp({"cep":"15047391","logradouro":"Rua Am\u00e9lia Quiles Graciano","bairro":"Loteamento Parque Nova Esperan\u00e7a","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

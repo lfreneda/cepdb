@@ -1,0 +1,1 @@
+jsonp({"cep":"15044729","logradouro":"Rua Nossa Senhora de F\u00e1tima","bairro":"Est\u00e2ncia Todos os Santos (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

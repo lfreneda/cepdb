@@ -1,0 +1,1 @@
+jsonp({"cep":"15052861","logradouro":"Rua Antonio Machado","bairro":"Est\u00e2ncia S\u00e3o Carlos (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

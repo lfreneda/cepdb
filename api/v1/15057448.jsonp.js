@@ -1,0 +1,1 @@
+jsonp({"cep":"15057448","logradouro":"Rua Alexandre Giuseppe Pivotto","bairro":"Residencial Vila Flora","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

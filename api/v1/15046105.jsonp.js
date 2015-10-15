@@ -1,0 +1,1 @@
+jsonp({"cep":"15046105","logradouro":"Pra\u00e7a Valdiani Patr\u00edcia Sabino de Oliveira","bairro":"Parque Residencial Dom Lafaiete Lib\u00e2nio","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15046235","logradouro":"Rua Maria de Lourdes de Oliveira Russo","bairro":"Residencial Alto das Andorinhas","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

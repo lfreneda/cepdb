@@ -1,0 +1,1 @@
+jsonp({"cep":"15052720","logradouro":"Rua Doutor Leonan Lu\u00eds de Almeida Gouveia","bairro":"Distrito Industrial Doutor Carlos Arnaldo e Silva","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

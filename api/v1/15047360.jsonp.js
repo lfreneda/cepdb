@@ -1,0 +1,1 @@
+jsonp({"cep":"15047360","logradouro":"Rua An\u00e1lia Alves Martins Candial","bairro":"Loteamento Parque Nova Esperan\u00e7a","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

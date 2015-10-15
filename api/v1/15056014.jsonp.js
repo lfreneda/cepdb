@@ -1,0 +1,1 @@
+jsonp({"cep":"15056014","logradouro":"Rua Maria Hon\u00f3ria da Silva Narciso","bairro":"Condom\u00ednio Village Rio Preto","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

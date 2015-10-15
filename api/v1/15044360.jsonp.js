@@ -1,0 +1,1 @@
+jsonp({"cep":"15044360","logradouro":"Rua Doutor M\u00e1rio Valad\u00e3o Furquim","bairro":"Solo Sagrado I","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

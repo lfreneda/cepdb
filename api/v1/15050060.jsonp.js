@@ -1,0 +1,1 @@
+jsonp({"cep":"15050060","logradouro":"Rua Doutor Napole\u00e3o Laureno","bairro":"Vila Ang\u00e9lica","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

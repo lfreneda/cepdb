@@ -1,0 +1,1 @@
+jsonp({"cep":"15076400","logradouro":"Rua Terezinha Eurides Reino Sp\u00ednola Castro","bairro":"Conjunto Habitacional CAIC","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

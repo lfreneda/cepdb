@@ -1,0 +1,1 @@
+jsonp({"cep":"15054770","logradouro":"Estrada 2\u00aa Ordem para Est\u00e2ncia Pingo D'\u00c1gua","bairro":"Est\u00e2ncia Pingo D'\u00c1gua (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

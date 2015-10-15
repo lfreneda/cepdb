@@ -1,0 +1,1 @@
+jsonp({"cep":"15052432","logradouro":"Rua Jer\u00f4nimo Arroyo","bairro":"Ch\u00e1caras de Recreio Felicidade (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

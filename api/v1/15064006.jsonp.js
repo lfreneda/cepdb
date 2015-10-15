@@ -1,0 +1,1 @@
+jsonp({"cep":"15064006","logradouro":"Estrada Municipal para Guapia\u00e7\u00fa","bairro":"Fazenda Monte Alto (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

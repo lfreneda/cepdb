@@ -1,0 +1,1 @@
+jsonp({"cep":"15061882","logradouro":"Rua Wilson Alves Tremura","bairro":"Parque Residencial Damha IV","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

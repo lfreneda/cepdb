@@ -1,0 +1,1 @@
+jsonp({"cep":"15053751","logradouro":"Estrada de Ordem de Acesso a Talhados","bairro":"S\u00e3o Benedito da Capelinha (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

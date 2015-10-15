@@ -1,0 +1,1 @@
+jsonp({"cep":"15045170","logradouro":"Rua Eurides da Cruz","bairro":"Ch\u00e1cara Tranq\u00fcilidade","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

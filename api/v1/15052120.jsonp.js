@@ -1,0 +1,1 @@
+jsonp({"cep":"15052120","logradouro":"Rua Ad\u00e9lia Cury Naum","bairro":"Conjunto Habitacional S\u00e3o Jos\u00e9 do Rio Preto","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

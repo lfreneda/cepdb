@@ -1,0 +1,1 @@
+jsonp({"cep":"15062051","logradouro":"Rua Eg\u00eddio Nardin","bairro":"Est\u00e2ncia Nossa Senhora de F\u00e1tima (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15050090","logradouro":"Rua dos Aimor\u00e9s","bairro":"Vila Anchieta","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

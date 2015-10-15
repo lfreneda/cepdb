@@ -1,0 +1,1 @@
+jsonp({"cep":"15076490","logradouro":"Avenida Am\u00e9lia Cury Gabriel","bairro":"Parque Residencial Lauriano Tebar II","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

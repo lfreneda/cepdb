@@ -1,0 +1,1 @@
+jsonp({"cep":"15070630","logradouro":"Rua Duque Miguel Ant\u00f4nio","bairro":"Parque Residencial Comendador Mancor Daud","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

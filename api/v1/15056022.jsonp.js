@@ -1,0 +1,1 @@
+jsonp({"cep":"15056022","logradouro":"Rua M\u00e1rio Gon\u00e7alves de Oliveira","bairro":"Condom\u00ednio Village Rio Preto","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15044805","logradouro":"Estrada Municipal Aloysio Nunes Ferreira","bairro":"Fazenda Vista Alegre (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});
