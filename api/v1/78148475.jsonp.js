@@ -1,0 +1,1 @@
+jsonp({"cep":"78148475","logradouro":"Rua Esmeralda Carolina de Fran\u00e7a","bairro":"S\u00e3o Sim\u00e3o","cidade":"V\u00e1rzea Grande","uf":"MT","estado":"Mato Grosso"});

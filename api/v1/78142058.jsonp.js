@@ -1,0 +1,1 @@
+jsonp({"cep":"78142058","logradouro":"Rua Dezoito","bairro":"Jardim Novo Niter\u00f3i","cidade":"V\u00e1rzea Grande","uf":"MT","estado":"Mato Grosso"});
