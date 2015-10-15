@@ -1,0 +1,1 @@
+jsonp({"cep":"14177329","logradouro":"Rua Jo\u00e3o Borelli","bairro":"Conjunto Habitacional Doutor Walter Ant\u00f4nio de P\u00e1dua Becker","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

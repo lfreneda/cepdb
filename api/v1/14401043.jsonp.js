@@ -1,0 +1,1 @@
+jsonp({"cep":"14401043","logradouro":"Avenida Am\u00e9lia Antunes Pinheiro","bairro":"Vila Nossa Senhora das Gra\u00e7as","cidade":"Franca","uf":"SP","estado":"S\u00e3o Paulo"});

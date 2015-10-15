@@ -1,0 +1,1 @@
+jsonp({"cep":"14169350","logradouro":"Rua Aparecida do Ros\u00e1rio Gatto Viel","bairro":"Jardim Boa Sorte","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

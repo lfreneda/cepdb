@@ -1,0 +1,1 @@
+jsonp({"cep":"14177332","logradouro":"Rua Vict\u00f3rio Bisson","bairro":"Conjunto Habitacional Doutor Walter Ant\u00f4nio de P\u00e1dua Becker","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

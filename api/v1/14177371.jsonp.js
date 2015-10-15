@@ -1,0 +1,1 @@
+jsonp({"cep":"14177371","logradouro":"Rua Atenair Rodrigues de Ara\u00fajo Furtado","bairro":"Conjunto Habitacional Lu\u00eds Carlos Zequim","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

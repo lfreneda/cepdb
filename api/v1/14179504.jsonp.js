@@ -1,0 +1,1 @@
+jsonp({"cep":"14179504","logradouro":"Rua Jo\u00e3o Mondin","bairro":"Distrito Industrial Waldemar Balbo J\u00fanior (Cruz das Posses)","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

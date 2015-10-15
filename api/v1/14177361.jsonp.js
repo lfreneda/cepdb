@@ -1,0 +1,1 @@
+jsonp({"cep":"14177361","logradouro":"Rua Alexandre Borges","bairro":"Conjunto Habitacional Doutor Ulysses Silveira Guimar\u00e3es","cidade":"Sert\u00e3ozinho","uf":"SP","estado":"S\u00e3o Paulo"});

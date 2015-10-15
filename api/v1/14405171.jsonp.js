@@ -1,0 +1,1 @@
+jsonp({"cep":"14405171","logradouro":"Rua Capit\u00e3o Fel\u00edcio Radesca","bairro":"Parque S\u00e3o Jorge","cidade":"Franca","uf":"SP","estado":"S\u00e3o Paulo"});
