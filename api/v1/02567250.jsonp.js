@@ -1,0 +1,1 @@
+jsonp({"cep":"02567250","logradouro":"Travessa L\u00e9o Ara\u00fajo","bairro":"Conjunto Habitacional Morro da Esperan\u00e7a (Cachoeirinha)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

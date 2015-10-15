@@ -1,0 +1,1 @@
+jsonp({"cep":"02434010","logradouro":"Rua Pontal do Sul","bairro":"Lauzane Paulista","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

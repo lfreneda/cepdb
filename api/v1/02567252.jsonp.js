@@ -1,0 +1,1 @@
+jsonp({"cep":"02567252","logradouro":"Travessa Maria Isabel Baltar da Rocha","bairro":"Conjunto Habitacional Morro da Esperan\u00e7a (Cachoeirinha)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
