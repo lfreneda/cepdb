@@ -1,0 +1,1 @@
+jsonp({"cep":"18306070","logradouro":"Rua Treze","bairro":"Vila Santa Isabel","cidade":"Cap\u00e3o Bonito","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"18275765","logradouro":"Rua Professora Maria Ol\u00edmpia Alc\u00e2ntara Barbosa Louren\u00e7o","bairro":"Residencial Donato Flores","cidade":"Tatu\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

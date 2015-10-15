@@ -1,0 +1,1 @@
+jsonp({"cep":"18274781","logradouro":"Rua Investigador de Pol\u00edcia Gerson Vieira de Resende","bairro":"Conjunto Habitacional Osvaldo Del Fiol","cidade":"Tatu\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

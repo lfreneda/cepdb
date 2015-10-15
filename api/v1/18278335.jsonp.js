@@ -1,0 +1,1 @@
+jsonp({"cep":"18278335","logradouro":"Rua Jos\u00e9 Ribeiro de Campos","bairro":"Nova Tatu\u00ed","cidade":"Tatu\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

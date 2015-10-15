@@ -1,0 +1,1 @@
+jsonp({"cep":"18276470","logradouro":"Rua Professor Maria Jos\u00e9 Bertrami Bordim","bairro":"Funda\u00e7\u00e3o Educacional Manoel Guedes","cidade":"Tatu\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});
