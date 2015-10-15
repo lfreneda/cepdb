@@ -1,0 +1,1 @@
+jsonp({"cep":"50810540","logradouro":"Rua dos L\u00edrios","bairro":"V\u00e1rzea","cidade":"Recife","uf":"PE","estado":"Pernambuco"});
