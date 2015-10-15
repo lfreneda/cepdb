@@ -1,0 +1,1 @@
+jsonp({"cep":"68182020","logradouro":"Rua Terceira","bairro":"Mesquitas","cidade":"Itaituba","uf":"PA","estado":"Par\u00e1"});

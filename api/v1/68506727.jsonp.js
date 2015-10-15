@@ -1,0 +1,1 @@
+jsonp({"cep":"68506727","logradouro":"Rua Pedro Carneiro","bairro":"Morada Nova","cidade":"Marab\u00e1","uf":"PA","estado":"Par\u00e1"});

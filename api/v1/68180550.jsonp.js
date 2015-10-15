@@ -1,0 +1,1 @@
+jsonp({"cep":"68180550","logradouro":"Rua Trig\u00e9sima Quinta","bairro":"Piracana","cidade":"Itaituba","uf":"PA","estado":"Par\u00e1"});
