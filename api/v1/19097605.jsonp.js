@@ -1,0 +1,1 @@
+jsonp({"cep":"19097605","logradouro":"Rua Hermelinda \u00c2ngela de Jesus Ribeiro","bairro":"Parque Residencial Francisco Belo Galindo","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

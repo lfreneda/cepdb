@@ -1,0 +1,1 @@
+jsonp({"cep":"19110115","logradouro":"Rua Artes\u00e3o Luis Roberto Alexandre Ferreira dos Santos","bairro":"Residencial Daiane (Montalv\u00e3o)","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

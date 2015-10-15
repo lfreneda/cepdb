@@ -1,0 +1,1 @@
+jsonp({"cep":"19100390","logradouro":"Rua Maria das Gra\u00e7as Ayres Greghi","bairro":"Conjunto Habitacional Jardim Humberto Salvador","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

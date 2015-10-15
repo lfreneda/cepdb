@@ -1,0 +1,1 @@
+jsonp({"cep":"19065620","logradouro":"Rua dos Abacateiros","bairro":"Jardim S\u00e3o Gabriel","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"19045333","logradouro":"Rua Rotary Clube de Presidente Prudente Prudente-Alvorada","bairro":"Vila Rot\u00e1ria \"Arch C. Klumph\"","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});

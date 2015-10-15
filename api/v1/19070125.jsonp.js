@@ -1,0 +1,1 @@
+jsonp({"cep":"19070125","logradouro":"Condom\u00ednio Condominio Residencial Jardins de Anahy","bairro":"Condom\u00ednio Residencial Jardins de Anahy","cidade":"Presidente Prudente","uf":"SP","estado":"S\u00e3o Paulo"});
