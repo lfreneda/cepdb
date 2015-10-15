@@ -1,0 +1,1 @@
+jsonp({"cep":"29145060","logradouro":"Rua Jo\u00e3o Cl\u00edmaco S\u00e1 Rodrigues","bairro":"Santa B\u00e1rbara","cidade":"Cariacica","uf":"ES","estado":"Esp\u00edrito Santo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"29151230","logradouro":"Rua S\u00e3o Jo\u00e3o Batista","bairro":"Alto Laje","cidade":"Cariacica","uf":"ES","estado":"Esp\u00edrito Santo"});
