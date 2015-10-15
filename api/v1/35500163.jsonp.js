@@ -1,0 +1,1 @@
+jsonp({"cep":"35500163","logradouro":"Rua Ant\u00f4nio Dias","bairro":"Bom Pastor","cidade":"Divin\u00f3polis","uf":"MG","estado":"Minas Gerais"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"35500219","logradouro":"Rua Marfim","bairro":"Niter\u00f3i","cidade":"Divin\u00f3polis","uf":"MG","estado":"Minas Gerais"});

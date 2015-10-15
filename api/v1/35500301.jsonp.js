@@ -1,0 +1,1 @@
+jsonp({"cep":"35500301","logradouro":"Rua Monte L\u00edbano","bairro":"Halin Souki","cidade":"Divin\u00f3polis","uf":"MG","estado":"Minas Gerais"});

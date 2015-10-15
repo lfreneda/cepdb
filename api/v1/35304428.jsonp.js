@@ -1,0 +1,1 @@
+jsonp({"cep":"35304428","logradouro":"Rua Jos\u00e9 P. Tim\u00f3teo","bairro":"D\u00e1rio Grossi","cidade":"Caratinga","uf":"MG","estado":"Minas Gerais"});

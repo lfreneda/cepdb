@@ -1,0 +1,1 @@
+jsonp({"cep":"35182202","logradouro":"Rua S\u00e3o Domingos do Prata","bairro":"Bela Vista","cidade":"Tim\u00f3teo","uf":"MG","estado":"Minas Gerais"});
