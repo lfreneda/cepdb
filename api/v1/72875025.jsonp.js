@@ -1,0 +1,1 @@
+jsonp({"cep":"72875025","logradouro":"Rua Padre Feij\u00f3","bairro":"Ch\u00e1caras Ipanema","cidade":"Valpara\u00edso de Goi\u00e1s","uf":"GO","estado":"Goi\u00e1s"});

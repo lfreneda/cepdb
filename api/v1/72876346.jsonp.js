@@ -1,0 +1,1 @@
+jsonp({"cep":"72876346","logradouro":"Quadra Quadra 46","bairro":"Parque Esplanada III","cidade":"Valpara\u00edso de Goi\u00e1s","uf":"GO","estado":"Goi\u00e1s"});

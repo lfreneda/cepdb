@@ -1,0 +1,1 @@
+jsonp({"cep":"72863111","logradouro":"Quadra Quadra 193","bairro":"Residencial Alvorada","cidade":"Novo Gama","uf":"GO","estado":"Goi\u00e1s"});
