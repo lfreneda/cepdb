@@ -1,0 +1,1 @@
+jsonp({"cep":"12307070","logradouro":"Travessa Adriana Rodrigues Franca","bairro":"Vila Pinheiro","cidade":"Jacare\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

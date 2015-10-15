@@ -1,0 +1,1 @@
+jsonp({"cep":"12283260","logradouro":"Avenida Jos\u00e9 Rufino C\u00e9sar Guimar\u00e3es","bairro":"Parque Residencial Nova Ca\u00e7apava","cidade":"Ca\u00e7apava","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12248516","logradouro":"Rua Capit\u00e3o Paulo Jos\u00e9 de Menezes Filho","bairro":"Jardim Santa In\u00eas II","cidade":"S\u00e3o Jos\u00e9 dos Campos","uf":"SP","estado":"S\u00e3o Paulo"});

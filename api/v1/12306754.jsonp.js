@@ -1,0 +1,1 @@
+jsonp({"cep":"12306754","logradouro":"Rua Expedicion\u00e1rio Ant\u00f4nio C\u00e2ndido dos Santos","bairro":"Jardim Altos de Santana II","cidade":"Jacare\u00ed","uf":"SP","estado":"S\u00e3o Paulo"});

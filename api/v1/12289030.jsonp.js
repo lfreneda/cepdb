@@ -1,0 +1,1 @@
+jsonp({"cep":"12289030","logradouro":"Rua Diogo Ant\u00f4nio Feij\u00f3","bairro":"Vila Menino Jesus","cidade":"Ca\u00e7apava","uf":"SP","estado":"S\u00e3o Paulo"});

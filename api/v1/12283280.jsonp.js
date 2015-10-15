@@ -1,0 +1,1 @@
+jsonp({"cep":"12283280","logradouro":"Avenida Padre Jos\u00e9 Fortunato da Silva Ramos","bairro":"Parque Residencial Nova Ca\u00e7apava","cidade":"Ca\u00e7apava","uf":"SP","estado":"S\u00e3o Paulo"});

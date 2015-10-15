@@ -1,0 +1,1 @@
+jsonp({"cep":"12285410","logradouro":"Rua Jos\u00e9 Vieira Veiga Junior","bairro":"Residencial Esperan\u00e7a","cidade":"Ca\u00e7apava","uf":"SP","estado":"S\u00e3o Paulo"});
