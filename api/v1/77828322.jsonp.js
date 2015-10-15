@@ -1,0 +1,1 @@
+jsonp({"cep":"77828322","logradouro":"Rua Boa Esperan\u00e7a","bairro":"Morada do Sol","cidade":"Aragua\u00edna","uf":"TO","estado":"Tocantins"});

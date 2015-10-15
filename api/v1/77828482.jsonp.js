@@ -1,0 +1,1 @@
+jsonp({"cep":"77828482","logradouro":"Rua JM 2","bairro":"Loteamento Jardins M\u00f4naco","cidade":"Aragua\u00edna","uf":"TO","estado":"Tocantins"});

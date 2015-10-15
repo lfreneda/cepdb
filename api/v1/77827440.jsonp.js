@@ -1,0 +1,1 @@
+jsonp({"cep":"77827440","logradouro":"Rua dos Chor\u00f5es","bairro":"Loteamento Aragua\u00edna Sul","cidade":"Aragua\u00edna","uf":"TO","estado":"Tocantins"});

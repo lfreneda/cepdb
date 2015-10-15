@@ -1,0 +1,1 @@
+jsonp({"cep":"77816790","logradouro":"Avenida C\u00f4nego Jo\u00e3o Lima","bairro":"Jardim Pedra Alta","cidade":"Aragua\u00edna","uf":"TO","estado":"Tocantins"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"77825190","logradouro":"Rua 13","bairro":"Vila Couto Magalh\u00e3es","cidade":"Aragua\u00edna","uf":"TO","estado":"Tocantins"});
