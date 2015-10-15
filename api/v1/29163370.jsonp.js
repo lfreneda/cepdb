@@ -1,0 +1,1 @@
+jsonp({"cep":"29163370","logradouro":"Avenida Desembargador M\u00e1rio da Silva Nunes","bairro":"S\u00e3o Geraldo","cidade":"Serra","uf":"ES","estado":"Esp\u00edrito Santo"});

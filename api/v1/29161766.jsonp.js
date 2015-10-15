@@ -1,0 +1,1 @@
+jsonp({"cep":"29161766","logradouro":"Rua Concei\u00e7\u00e3o do Castelo","bairro":"Jardim Carapina","cidade":"Serra","uf":"ES","estado":"Esp\u00edrito Santo"});
