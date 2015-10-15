@@ -1,0 +1,1 @@
+jsonp({"cep":"27313035","logradouro":"Beco Jos\u00e9 Ant\u00f4nio","bairro":"Bom Pastor","cidade":"Barra Mansa","uf":"RJ","estado":"Rio de Janeiro"});

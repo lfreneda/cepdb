@@ -1,0 +1,1 @@
+jsonp({"cep":"27273540","logradouro":"Rua Concei\u00e7\u00e3o de Macabu","bairro":"Siderl\u00e2ndia","cidade":"Volta Redonda","uf":"RJ","estado":"Rio de Janeiro"});
