@@ -1,0 +1,1 @@
+jsonp({"cep":"75705390","logradouro":"Rua Ant\u00f4nio Gomes da Silva","bairro":"Novo Horizonte","cidade":"Catal\u00e3o","uf":"GO","estado":"Goi\u00e1s"});

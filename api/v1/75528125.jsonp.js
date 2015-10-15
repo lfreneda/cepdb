@@ -1,0 +1,1 @@
+jsonp({"cep":"75528125","logradouro":"Rua MS 9","bairro":"Conjunto Habitacional Morada dos Sonhos","cidade":"Itumbiara","uf":"GO","estado":"Goi\u00e1s"});

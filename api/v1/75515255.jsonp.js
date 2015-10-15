@@ -1,0 +1,1 @@
+jsonp({"cep":"75515255","logradouro":"Avenida Celso Maeda","bairro":"Setor Santa Rita","cidade":"Itumbiara","uf":"GO","estado":"Goi\u00e1s"});
