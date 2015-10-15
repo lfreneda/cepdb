@@ -1,0 +1,1 @@
+jsonp({"cep":"23951370","logradouro":"Pra\u00e7a Augusto Jord\u00e3o da Silva Vargas","bairro":"Vila Hist\u00f3rica de Mambucaba (Mambucaba)","cidade":"Angra dos Reis","uf":"RJ","estado":"Rio de Janeiro"});
