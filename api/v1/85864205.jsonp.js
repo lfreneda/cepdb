@@ -1,0 +1,1 @@
+jsonp({"cep":"85864205","logradouro":"Rua Manoel da N\u00f3brega","bairro":"Vila Bras\u00edlia","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

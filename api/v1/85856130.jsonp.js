@@ -1,0 +1,1 @@
+jsonp({"cep":"85856130","logradouro":"Alameda Codegrande Jos\u00e9 da Rocha","bairro":"Jardim Esmeralda","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

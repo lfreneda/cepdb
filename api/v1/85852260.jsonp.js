@@ -1,0 +1,1 @@
+jsonp({"cep":"85852260","logradouro":"Rua Maria Quit\u00e9ria","bairro":"Jardim Cl\u00e1udia","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

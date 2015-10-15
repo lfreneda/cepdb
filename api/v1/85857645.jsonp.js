@@ -1,0 +1,1 @@
+jsonp({"cep":"85857645","logradouro":"Rua El\u00f3i Lohmann","bairro":"Conjunto Libra II","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

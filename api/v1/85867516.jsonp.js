@@ -1,0 +1,1 @@
+jsonp({"cep":"85867516","logradouro":"Rua Prud\u00eancio Sotelo","bairro":"Jardim Porto Belo","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

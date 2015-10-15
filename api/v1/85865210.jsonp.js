@@ -1,0 +1,1 @@
+jsonp({"cep":"85865210","logradouro":"Rua Anita Malfatti","bairro":"Vila P\u00e9rola","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

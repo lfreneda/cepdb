@@ -1,0 +1,1 @@
+jsonp({"cep":"85862686","logradouro":"Rua In\u00e1cio Martins","bairro":"Conjunto Residencial Gra\u00fana","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

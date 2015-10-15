@@ -1,0 +1,1 @@
+jsonp({"cep":"85862528","logradouro":"Travessa Trindade","bairro":"Loteamento Menger","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

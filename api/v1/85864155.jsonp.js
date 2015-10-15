@@ -1,0 +1,1 @@
+jsonp({"cep":"85864155","logradouro":"Rua das Miss\u00f5es","bairro":"Jardim Am\u00e9rica","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

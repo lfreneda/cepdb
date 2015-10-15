@@ -1,0 +1,1 @@
+jsonp({"cep":"85862536","logradouro":"Rua Cambori\u00fa","bairro":"Loteamento Witt","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});

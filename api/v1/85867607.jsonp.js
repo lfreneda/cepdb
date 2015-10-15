@@ -1,0 +1,1 @@
+jsonp({"cep":"85867607","logradouro":"Travessa Fl\u00f3rida","bairro":"Jardim Belvedere II","cidade":"Foz do Igua\u00e7u","uf":"PR","estado":"Paran\u00e1"});
