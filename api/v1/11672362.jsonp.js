@@ -1,0 +1,1 @@
+jsonp({"cep":"11672362","logradouro":"Rua M\u00e1rio Fernandes de Oliveira","bairro":"Pontal de Santa Marina","cidade":"Caraguatatuba","uf":"SP","estado":"S\u00e3o Paulo"});
