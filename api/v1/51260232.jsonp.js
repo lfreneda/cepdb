@@ -1,0 +1,1 @@
+jsonp({"cep":"51260232","logradouro":"2\u00aa Travessa Flor do Sert\u00e3o","bairro":"Jord\u00e3o","cidade":"Recife","uf":"PE","estado":"Pernambuco"});

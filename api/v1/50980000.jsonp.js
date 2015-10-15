@@ -1,0 +1,1 @@
+jsonp({"cep":"50980000","logradouro":"Avenida Joaquim Ribeiro","bairro":"Caxang\u00e1","cidade":"Recife","uf":"PE","estado":"Pernambuco"});
