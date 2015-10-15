@@ -1,0 +1,1 @@
+jsonp({"cep":"21050020","logradouro":"Travessa Gil Gafree","bairro":"Manguinhos","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});

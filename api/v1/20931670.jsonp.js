@@ -1,0 +1,1 @@
+jsonp({"cep":"20931670","logradouro":"Rua Monsenhor Manuel Gomes","bairro":"S\u00e3o Crist\u00f3v\u00e3o","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
