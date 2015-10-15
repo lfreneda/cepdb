@@ -1,0 +1,1 @@
+jsonp({"cep":"17512863","logradouro":"Rua Marlene Guimar\u00e3es Ortega","bairro":"Conjunto Residencial Luiz Egydio de Cerqueira C\u00e9sar","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

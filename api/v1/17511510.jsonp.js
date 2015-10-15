@@ -1,0 +1,1 @@
+jsonp({"cep":"17511510","logradouro":"Rua Br\u00edgido Hil\u00e1rio Rafael Lopes Saes","bairro":"N\u00facleo Habitacional Doutor Fernando Mauro Pires Rocha","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

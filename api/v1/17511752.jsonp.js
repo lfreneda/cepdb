@@ -1,0 +1,1 @@
+jsonp({"cep":"17511752","logradouro":"Rua Manoel Ortiz R\u00fabia","bairro":"N\u00facleo Habitacional Presidente J\u00e2nio da Silva Quadros","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

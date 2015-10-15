@@ -1,0 +1,1 @@
+jsonp({"cep":"17511724","logradouro":"Rua Oct\u00e1vio Roberto Ramos","bairro":"N\u00facleo Habitacional Presidente J\u00e2nio da Silva Quadros","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

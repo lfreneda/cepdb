@@ -1,0 +1,1 @@
+jsonp({"cep":"17512850","logradouro":"Rua C\u00e2ndido Ribeiro de Britto","bairro":"Conjunto Residencial Luiz Egydio de Cerqueira C\u00e9sar","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

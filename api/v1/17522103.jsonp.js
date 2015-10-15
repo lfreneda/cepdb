@@ -1,0 +1,1 @@
+jsonp({"cep":"17522103","logradouro":"Pra\u00e7a Am\u00e9rico Fittipaldi","bairro":"Conjunto Habitacional Monsenhor Jo\u00e3o Batista Toffoli","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

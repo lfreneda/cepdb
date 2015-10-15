@@ -1,0 +1,1 @@
+jsonp({"cep":"17511725","logradouro":"Rua Eliane Sanches Chambo Barreto","bairro":"N\u00facleo Habitacional Presidente J\u00e2nio da Silva Quadros","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

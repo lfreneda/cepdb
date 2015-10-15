@@ -1,0 +1,1 @@
+jsonp({"cep":"17522180","logradouro":"Rua Erasmo Luiz Funari da Silva","bairro":"Conjunto Habitacional Monsenhor Jo\u00e3o Batista Toffoli","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});

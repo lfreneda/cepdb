@@ -1,0 +1,1 @@
+jsonp({"cep":"17522040","logradouro":"Rua T\u00e1cito de Camargo Bicudo","bairro":"Conjunto Habitacional Monsenhor Jo\u00e3o Batista Toffoli","cidade":"Mar\u00edlia","uf":"SP","estado":"S\u00e3o Paulo"});
