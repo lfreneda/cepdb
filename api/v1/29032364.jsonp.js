@@ -1,0 +1,1 @@
+jsonp({"cep":"29032364","logradouro":"Rua Vera L\u00facia Corr\u00eaa de Souza Dutra","bairro":"Nova Palestina","cidade":"Vit\u00f3ria","uf":"ES","estado":"Esp\u00edrito Santo"});

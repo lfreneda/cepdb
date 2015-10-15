@@ -1,0 +1,1 @@
+jsonp({"cep":"28921130","logradouro":"Rua Teles C\u00e2ndido Cardoso","bairro":"Porto do Carro","cidade":"Cabo Frio","uf":"RJ","estado":"Rio de Janeiro"});
