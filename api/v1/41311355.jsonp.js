@@ -1,0 +1,1 @@
+jsonp({"cep":"41311355","logradouro":"Rua da Paz de Cajazeiras","bairro":"\u00c1guas Claras","cidade":"Salvador","uf":"BA","estado":"Bahia"});

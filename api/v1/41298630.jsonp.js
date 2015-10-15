@@ -1,0 +1,1 @@
+jsonp({"cep":"41298630","logradouro":"Rua da Esperan\u00e7a da Val\u00e9ria","bairro":"Boca da Mata de Val\u00e9ria","cidade":"Salvador","uf":"BA","estado":"Bahia"});

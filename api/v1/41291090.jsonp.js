@@ -1,0 +1,1 @@
+jsonp({"cep":"41291090","logradouro":"Rua VL-2A","bairro":"Piraj\u00e1","cidade":"Salvador","uf":"BA","estado":"Bahia"});
