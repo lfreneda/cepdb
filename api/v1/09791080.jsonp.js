@@ -1,0 +1,1 @@
+jsonp({"cep":"09791080","logradouro":"Rua Ara\u00fajo Viana","bairro":"Ferraz\u00f3polis","cidade":"S\u00e3o Bernardo do Campo","uf":"SP","estado":"S\u00e3o Paulo"});

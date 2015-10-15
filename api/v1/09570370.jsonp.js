@@ -1,0 +1,1 @@
+jsonp({"cep":"09570370","logradouro":"Rua Capit\u00e3o Rafael Oberdan de Nicola","bairro":"Ol\u00edmpico","cidade":"S\u00e3o Caetano do Sul","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"09572110","logradouro":"Rua Frederico Jos\u00e9 Furlanetto","bairro":"Boa Vista","cidade":"S\u00e3o Caetano do Sul","uf":"SP","estado":"S\u00e3o Paulo"});

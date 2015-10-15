@@ -1,0 +1,1 @@
+jsonp({"cep":"09572630","logradouro":"Rua Jos\u00e9 Henrique de S\u00e1","bairro":"Nova Gerty","cidade":"S\u00e3o Caetano do Sul","uf":"SP","estado":"S\u00e3o Paulo"});
