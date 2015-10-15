@@ -1,0 +1,1 @@
+jsonp({"cep":"30840800","logradouro":"Rua Fernando Corn\u00e9lio de Paula","bairro":"Al\u00edpio de Melo","cidade":"Belo Horizonte","uf":"MG","estado":"Minas Gerais"});
