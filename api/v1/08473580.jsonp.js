@@ -1,0 +1,1 @@
+jsonp({"cep":"08473580","logradouro":"Travessa Jos\u00e9 C\u00e2ndido de Andrade Murici","bairro":"Conjunto Habitacional Barro Branco II","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

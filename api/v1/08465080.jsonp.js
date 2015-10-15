@@ -1,0 +1,1 @@
+jsonp({"cep":"08465080","logradouro":"Rua Alfredo da Ressurrei\u00e7\u00e3o Raba\u00e7al","bairro":"Conjunto Habitacional Juscelino Kubitschek","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

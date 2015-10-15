@@ -1,0 +1,1 @@
+jsonp({"cep":"08535100","logradouro":"Avenida Jos\u00e9 do Patroc\u00ednio","bairro":"Conjunto Residencial Presidente Castello Branco","cidade":"Ferraz de Vasconcelos","uf":"SP","estado":"S\u00e3o Paulo"});

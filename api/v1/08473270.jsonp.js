@@ -1,0 +1,1 @@
+jsonp({"cep":"08473270","logradouro":"Rua Ant\u00f4nio Carlos Mingues Lopes","bairro":"Conjunto Habitacional Sitio Concei\u00e7\u00e3o","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

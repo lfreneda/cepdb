@@ -1,0 +1,1 @@
+jsonp({"cep":"08490540","logradouro":"Avenida Santa Efig\u00eania","bairro":"Ch\u00e1cara Santa Etelvina","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

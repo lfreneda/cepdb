@@ -1,0 +1,1 @@
+jsonp({"cep":"08465100","logradouro":"Rua Pl\u00e1cido St\u00e9lvio Mazza Llhano","bairro":"Conjunto Habitacional Juscelino Kubitschek","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
