@@ -1,0 +1,1 @@
+jsonp({"cep":"54250004","logradouro":"4\u00aa Travessa Governador Agamenon Magalh\u00e3es","bairro":"Cavaleiro","cidade":"Jaboat\u00e3o dos Guararapes","uf":"PE","estado":"Pernambuco"});
