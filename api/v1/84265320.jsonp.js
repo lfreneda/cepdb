@@ -1,0 +1,1 @@
+jsonp({"cep":"84265320","logradouro":"Rua Maring\u00e1","bairro":"Nossa Senhora do Perp\u00e9tuo Socorro","cidade":"Tel\u00eamaco Borba","uf":"PR","estado":"Paran\u00e1"});

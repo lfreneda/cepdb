@@ -1,0 +1,1 @@
+jsonp({"cep":"84063170","logradouro":"Rua S\u00e3o Val\u00e9rio","bairro":"Chapada","cidade":"Ponta Grossa","uf":"PR","estado":"Paran\u00e1"});

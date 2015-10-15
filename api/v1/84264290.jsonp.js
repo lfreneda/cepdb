@@ -1,0 +1,1 @@
+jsonp({"cep":"84264290","logradouro":"Rua Jo\u00e3o Teixeira de Mendon\u00e7a","bairro":"Nossa Senhora de F\u00e1tima","cidade":"Tel\u00eamaco Borba","uf":"PR","estado":"Paran\u00e1"});
