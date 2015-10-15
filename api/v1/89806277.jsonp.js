@@ -1,0 +1,1 @@
+jsonp({"cep":"89806277","logradouro":"Rua Jo\u00e3o Batista Alleth Winckler","bairro":"Presidente M\u00e9dici","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"89805401","logradouro":"Rua Albino S\u00e1 Filho - E","bairro":"L\u00edder","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

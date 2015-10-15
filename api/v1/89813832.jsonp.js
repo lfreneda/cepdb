@@ -1,0 +1,1 @@
+jsonp({"cep":"89813832","logradouro":"Servid\u00e3o Servid\u00e3o - Distr. Ind. Flavio Baldissera","bairro":"Distrito Industrial Fl\u00e1vio Baldissera","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

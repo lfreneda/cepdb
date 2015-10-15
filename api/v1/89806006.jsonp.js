@@ -1,0 +1,1 @@
+jsonp({"cep":"89806006","logradouro":"Rua Dom Carlos Eduardo Sab\u00f3ia Bandeira de Melo","bairro":"Bom Pastor","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

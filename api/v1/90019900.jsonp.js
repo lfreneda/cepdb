@@ -1,0 +1,1 @@
+jsonp({"cep":"90019900","logradouro":"Rua Caldas J\u00fanior","bairro":"Centro Hist\u00f3rico","cidade":"Porto Alegre","uf":"RS","estado":"Rio Grande do Sul"});

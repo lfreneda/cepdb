@@ -1,0 +1,1 @@
+jsonp({"cep":"89813365","logradouro":"Rua Luiz Spangnolo","bairro":"Semin\u00e1rio","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});

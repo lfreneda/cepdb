@@ -1,0 +1,1 @@
+jsonp({"cep":"89809424","logradouro":"Rua Jo\u00e3o Carlos Schneider da Costa","bairro":"Engenho Braun","cidade":"Chapec\u00f3","uf":"SC","estado":"Santa Catarina"});
