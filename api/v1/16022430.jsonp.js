@@ -1,0 +1,1 @@
+jsonp({"cep":"16022430","logradouro":"Rua Doutor Du\u00edlio D'\u00c2ngelo","bairro":"Conjunto Habitacional Cl\u00f3vis Valentin Picolotto","cidade":"Ara\u00e7atuba","uf":"SP","estado":"S\u00e3o Paulo"});

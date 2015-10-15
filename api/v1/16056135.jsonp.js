@@ -1,0 +1,1 @@
+jsonp({"cep":"16056135","logradouro":"Pra\u00e7a Abelardo Geraldo Ferreira da Costa Lobo","bairro":"Conjunto Habitacional Castelo Branco","cidade":"Ara\u00e7atuba","uf":"SP","estado":"S\u00e3o Paulo"});

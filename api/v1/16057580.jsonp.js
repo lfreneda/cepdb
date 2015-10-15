@@ -1,0 +1,1 @@
+jsonp({"cep":"16057580","logradouro":"Rua Contabilista Ant\u00f4nio de Souza Lima","bairro":"Conjunto Habitacional Doutor Ant\u00f4nio Villela Silva","cidade":"Ara\u00e7atuba","uf":"SP","estado":"S\u00e3o Paulo"});
