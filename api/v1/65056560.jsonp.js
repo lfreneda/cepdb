@@ -1,0 +1,1 @@
+jsonp({"cep":"65056560","logradouro":"Rua Jo\u00e3o de Deus","bairro":"Vila Brasil","cidade":"S\u00e3o Lu\u00eds","uf":"MA","estado":"Maranh\u00e3o"});
