@@ -1,0 +1,1 @@
+jsonp({"cep":"79095220","logradouro":"Rua Barra do Gar\u00e7as","bairro":"Vila S\u00e3o Jorge da Lagoa","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});

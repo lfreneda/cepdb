@@ -1,0 +1,1 @@
+jsonp({"cep":"79097260","logradouro":"Rua Ant\u00f4nio Luiz de Freitas","bairro":"Jardim Tarum\u00e3","cidade":"Campo Grande","uf":"MS","estado":"Mato Grosso do Sul"});
