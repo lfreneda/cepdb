@@ -1,0 +1,1 @@
+jsonp({"cep":"78099145","logradouro":"Rua Vinte e Nove","bairro":"Pedra 90","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

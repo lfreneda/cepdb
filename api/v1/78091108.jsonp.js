@@ -1,0 +1,1 @@
+jsonp({"cep":"78091108","logradouro":"Avenida Col\u00f4nia Pascoal Ramos","bairro":"Santa Laura","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

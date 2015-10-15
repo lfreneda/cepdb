@@ -1,0 +1,1 @@
+jsonp({"cep":"78089000","logradouro":"Avenida Ant\u00f4nio Pinheiro da Silva","bairro":"Residencial Recanto do Sol","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});

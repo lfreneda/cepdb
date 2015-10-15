@@ -1,0 +1,1 @@
+jsonp({"cep":"78090877","logradouro":"Rua Projetada - H","bairro":"Condom\u00ednio Residencial Domingos S\u00e1vio Brand\u00e3o Lima J\u00fanior","cidade":"Cuiab\u00e1","uf":"MT","estado":"Mato Grosso"});
