@@ -1,0 +1,1 @@
+jsonp({"cep":"49085190","logradouro":"Rua Juiz M\u00e1rio Almeida Lob\u00e3o","bairro":"Jos\u00e9 Conrado de Ara\u00fajo","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});
