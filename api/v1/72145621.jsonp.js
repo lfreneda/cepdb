@@ -1,0 +1,1 @@
+jsonp({"cep":"72145621","logradouro":"Quadra QNM 36 Conjunto U","bairro":"Taguatinga Norte (Taguatinga)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

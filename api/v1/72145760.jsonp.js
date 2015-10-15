@@ -1,0 +1,1 @@
+jsonp({"cep":"72145760","logradouro":"Setor Auxiliar de Garagens Oficinas e Com\u00e9rcio Afins","bairro":"Taguatinga Norte (Taguatinga)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

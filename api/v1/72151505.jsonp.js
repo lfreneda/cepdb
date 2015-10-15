@@ -1,0 +1,1 @@
+jsonp({"cep":"72151505","logradouro":"Quadra EQNL 9/11 \u00c1rea Especial s/n","bairro":"Taguatinga Norte (Taguatinga)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
