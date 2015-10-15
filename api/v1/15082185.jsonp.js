@@ -1,0 +1,1 @@
+jsonp({"cep":"15082185","logradouro":"Rua Sem Denomina\u00e7\u00e3o","bairro":"Condom\u00ednio Jo\u00e3o Bernardino Souza (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

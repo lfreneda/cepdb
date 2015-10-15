@@ -1,0 +1,1 @@
+jsonp({"cep":"15086800","logradouro":"Estrada de 2\u00aa Ordem de Acesso","bairro":"Residencial Vista Alegre I (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

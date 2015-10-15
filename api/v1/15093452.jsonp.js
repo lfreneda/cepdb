@@ -1,0 +1,1 @@
+jsonp({"cep":"15093452","logradouro":"Estrada de Acesso ao Parque dos P\u00e1ssaros","bairro":"Fazenda Palhinha (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

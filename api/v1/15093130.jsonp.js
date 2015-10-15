@@ -1,0 +1,1 @@
+jsonp({"cep":"15093130","logradouro":"Rua Doutor M\u00e1rio Clapier Urbinati","bairro":"Jardim Moys\u00e9s Miguel Haddad","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"15093252","logradouro":"Rua Val\u00e9ria Aparecida Pinoti do Esp\u00edrito Santo","bairro":"Condom\u00ednio Harmonia Residence","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

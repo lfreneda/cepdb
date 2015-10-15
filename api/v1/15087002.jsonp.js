@@ -1,0 +1,1 @@
+jsonp({"cep":"15087002","logradouro":"Estrada de 2\u00aa Ordem de Acesso \u00e0 Bady Bassitt","bairro":"Vila Azul (Zona Rural)","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

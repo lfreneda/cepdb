@@ -1,0 +1,1 @@
+jsonp({"cep":"15093316","logradouro":"Rua Doutor Roberto Luiz Kaiser","bairro":"Residencial Quinta do Golfe","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

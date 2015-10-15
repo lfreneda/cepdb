@@ -1,0 +1,1 @@
+jsonp({"cep":"15092600","logradouro":"Avenida Joaquim Thomaz de Aquino","bairro":"Distrito Industrial Doutor Ulysses da Silveira Guimar\u00e3es","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

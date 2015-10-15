@@ -1,0 +1,1 @@
+jsonp({"cep":"15093533","logradouro":"Rua Doutor Jos\u00e9 Carlos Assump\u00e7\u00e3o Coimbra","bairro":"Condom\u00ednio Vilage La Montagne","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

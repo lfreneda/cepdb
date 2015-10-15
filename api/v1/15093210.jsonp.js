@@ -1,0 +1,1 @@
+jsonp({"cep":"15093210","logradouro":"Rua R\u00f4mulo Oliveira de Queiroz","bairro":"Jardim Moys\u00e9s Miguel Haddad","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

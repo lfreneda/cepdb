@@ -1,0 +1,1 @@
+jsonp({"cep":"15093531","logradouro":"Rua Maria do Ros\u00e1rio de Sant'anna","bairro":"Condom\u00ednio Vilage La Montagne","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

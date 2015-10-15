@@ -1,0 +1,1 @@
+jsonp({"cep":"15092605","logradouro":"Rua Izabel Soler Cortezia","bairro":"Distrito Industrial Doutor Ulysses da Silveira Guimar\u00e3es","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

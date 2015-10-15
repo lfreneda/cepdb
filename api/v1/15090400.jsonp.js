@@ -1,0 +1,1 @@
+jsonp({"cep":"15090400","logradouro":"Rua Capit\u00e3o Justino Moreira do Esp\u00edrito Santo","bairro":"Jardim Vivendas","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});

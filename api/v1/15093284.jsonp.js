@@ -1,0 +1,1 @@
+jsonp({"cep":"15093284","logradouro":"Rua Alcides de Freitas Assun\u00e7\u00e3o","bairro":"Residencial Eco Village","cidade":"S\u00e3o Jos\u00e9 do Rio Preto","uf":"SP","estado":"S\u00e3o Paulo"});
