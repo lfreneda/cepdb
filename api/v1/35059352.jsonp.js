@@ -1,0 +1,1 @@
+jsonp({"cep":"35059352","logradouro":"Beco Carij\u00f3s Dois","bairro":"Morro do Querozene","cidade":"Governador Valadares","uf":"MG","estado":"Minas Gerais"});

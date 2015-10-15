@@ -1,0 +1,1 @@
+jsonp({"cep":"35030350","logradouro":"Rua Maria Cec\u00edlia Moreira","bairro":"S\u00e3o Paulo","cidade":"Governador Valadares","uf":"MG","estado":"Minas Gerais"});

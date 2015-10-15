@@ -1,0 +1,1 @@
+jsonp({"cep":"35041690","logradouro":"Rua Pero Vaz de Caminha","bairro":"Vera Cruz","cidade":"Governador Valadares","uf":"MG","estado":"Minas Gerais"});

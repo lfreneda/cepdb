@@ -1,0 +1,1 @@
+jsonp({"cep":"35040380","logradouro":"Avenida Padre Jos\u00e9 Manoel da Concei\u00e7\u00e3o","bairro":"Santa Rita","cidade":"Governador Valadares","uf":"MG","estado":"Minas Gerais"});
