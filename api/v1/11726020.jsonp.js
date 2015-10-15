@@ -1,0 +1,1 @@
+jsonp({"cep":"11726020","logradouro":"Pra\u00e7a Presidente Washington Luiz Pereira de Souza","bairro":"Tude Bastos (S\u00edtio do Campo)","cidade":"Praia Grande","uf":"SP","estado":"S\u00e3o Paulo"});

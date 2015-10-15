@@ -1,0 +1,1 @@
+jsonp({"cep":"12062143","logradouro":"Pra\u00e7a Padre Le\u00e3o Jo\u00e3o Dehon","bairro":"Jardim Calif\u00f3rnia","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12052390","logradouro":"Rua Jo\u00e3o Lopes","bairro":"Vila Elvira","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

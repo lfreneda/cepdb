@@ -1,0 +1,1 @@
+jsonp({"cep":"12031310","logradouro":"Rua Capit\u00e3o-Pol\u00edcia Militar Alberto Mendes J\u00fanior","bairro":"Jardim Independ\u00eancia","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

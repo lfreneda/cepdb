@@ -1,0 +1,1 @@
+jsonp({"cep":"12070040","logradouro":"Rua Ar\u00e3o Areao","bairro":"Jardim Maria Augusta","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

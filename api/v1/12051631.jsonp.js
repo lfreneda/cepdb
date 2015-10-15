@@ -1,0 +1,1 @@
+jsonp({"cep":"12051631","logradouro":"Rua Projetada Um","bairro":"Vila Bela","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12010310","logradouro":"Rua Doutor R\u00fabens Cursino Vieira","bairro":"Ch\u00e1cara Doutor Hip\u00f3lito","cidade":"Taubat\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});
