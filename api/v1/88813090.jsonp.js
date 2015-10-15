@@ -1,0 +1,1 @@
+jsonp({"cep":"88813090","logradouro":"Rua S\u00e3o Sebasti\u00e3o","bairro":"Pr\u00f3spera","cidade":"Crici\u00fama","uf":"SC","estado":"Santa Catarina"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"88810549","logradouro":"Rua Engenheiro Fiuza da Rocha","bairro":"Mina do Mato","cidade":"Crici\u00fama","uf":"SC","estado":"Santa Catarina"});
