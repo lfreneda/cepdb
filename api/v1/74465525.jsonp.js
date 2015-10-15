@@ -1,0 +1,1 @@
+jsonp({"cep":"74465525","logradouro":"Rua SM 1","bairro":"Setor Marab\u00e1","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

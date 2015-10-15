@@ -1,0 +1,1 @@
+jsonp({"cep":"74463325","logradouro":"Rua Gon\u00e7alves Ledo","bairro":"Setor C\u00e2ndida de Morais","cidade":"Goi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
