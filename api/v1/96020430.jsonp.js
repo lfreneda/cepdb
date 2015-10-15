@@ -1,0 +1,1 @@
+jsonp({"cep":"96020430","logradouro":"Rua Doutor Jos\u00e9 Bonif\u00e1cio de Carvalho Costa","bairro":"Tr\u00eas Vendas","cidade":"Pelotas","uf":"RS","estado":"Rio Grande do Sul"});

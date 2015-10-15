@@ -1,0 +1,1 @@
+jsonp({"cep":"96065886","logradouro":"Travessa Tr\u00eas","bairro":"Tr\u00eas Vendas","cidade":"Pelotas","uf":"RS","estado":"Rio Grande do Sul"});
