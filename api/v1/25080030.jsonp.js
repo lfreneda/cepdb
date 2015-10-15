@@ -1,0 +1,1 @@
+jsonp({"cep":"25080030","logradouro":"Rua Pernambuco","bairro":"Parque Paulic\u00e9ia","cidade":"Duque de Caxias","uf":"RJ","estado":"Rio de Janeiro"});

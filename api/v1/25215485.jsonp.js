@@ -1,0 +1,1 @@
+jsonp({"cep":"25215485","logradouro":"Rua Atos dos Ap\u00f3stolos","bairro":"Parque Imp\u00e9rio","cidade":"Duque de Caxias","uf":"RJ","estado":"Rio de Janeiro"});
