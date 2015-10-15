@@ -1,0 +1,1 @@
+jsonp({"cep":"04890860","logradouro":"Rua Ad\u00e3o Augusto de Reimberg Filho","bairro":"Jardim S\u00e3o Francisco de Assis (Parelheiros)","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

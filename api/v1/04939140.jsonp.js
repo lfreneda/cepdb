@@ -1,0 +1,1 @@
+jsonp({"cep":"04939140","logradouro":"Rua Jos\u00e9 da Costa Lima","bairro":"Jardim Copacabana","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
