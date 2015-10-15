@@ -1,0 +1,1 @@
+jsonp({"cep":"89230298","logradouro":"Rua Jovelina Per\u00f3la Negra","bairro":"Jo\u00e3o Costa","cidade":"Joinville","uf":"SC","estado":"Santa Catarina"});

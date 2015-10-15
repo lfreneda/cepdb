@@ -1,0 +1,1 @@
+jsonp({"cep":"89228795","logradouro":"Rua Le\u00f4nida In\u00e1cio de Salles","bairro":"Espinheiros","cidade":"Joinville","uf":"SC","estado":"Santa Catarina"});

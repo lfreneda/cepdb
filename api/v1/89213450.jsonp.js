@@ -1,0 +1,1 @@
+jsonp({"cep":"89213450","logradouro":"Rua Francisco Massaneiro","bairro":"Nova Bras\u00edlia","cidade":"Joinville","uf":"SC","estado":"Santa Catarina"});
