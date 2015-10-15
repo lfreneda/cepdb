@@ -1,0 +1,1 @@
+jsonp({"cep":"29199828","logradouro":"Rua B\u00e1lsamo","bairro":"Pontal do Piraquea\u00e7\u00fa","cidade":"Aracruz","uf":"ES","estado":"Esp\u00edrito Santo"});

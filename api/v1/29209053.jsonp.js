@@ -1,0 +1,1 @@
+jsonp({"cep":"29209053","logradouro":"Rua Nossa Senhora da Concei\u00e7\u00e3o","bairro":"Condados","cidade":"Guarapari","uf":"ES","estado":"Esp\u00edrito Santo"});
