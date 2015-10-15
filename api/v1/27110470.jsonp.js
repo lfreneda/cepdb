@@ -1,0 +1,1 @@
+jsonp({"cep":"27110470","logradouro":"Rua Prefeito Iago Jos\u00e9 de Castro Val\u00e9rio","bairro":"Oficinas Velhas","cidade":"Barra do Pira\u00ed","uf":"RJ","estado":"Rio de Janeiro"});
