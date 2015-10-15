@@ -1,0 +1,1 @@
+jsonp({"cep":"32670690","logradouro":"Rua S\u00e3o Jo\u00e3o","bairro":"Jardim das Alterosas - 1\u00aa Se\u00e7\u00e3o","cidade":"Betim","uf":"MG","estado":"Minas Gerais"});

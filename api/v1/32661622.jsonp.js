@@ -1,0 +1,1 @@
+jsonp({"cep":"32661622","logradouro":"Rua Maria Rezende de Melo","bairro":"Conjunto Habitacional Jos\u00e9 Gomes de Castro","cidade":"Betim","uf":"MG","estado":"Minas Gerais"});

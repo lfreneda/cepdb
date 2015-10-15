@@ -1,0 +1,1 @@
+jsonp({"cep":"32672120","logradouro":"Rua S\u00e3o Luiz","bairro":"Niter\u00f3i","cidade":"Betim","uf":"MG","estado":"Minas Gerais"});

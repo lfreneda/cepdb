@@ -1,0 +1,1 @@
+jsonp({"cep":"32672442","logradouro":"Rua Eronildes Anast\u00e1cio dos Santos","bairro":"Conjunto Habitacional Jalila Concei\u00e7\u00e3o Pedrosa","cidade":"Betim","uf":"MG","estado":"Minas Gerais"});
