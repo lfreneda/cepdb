@@ -1,0 +1,1 @@
+jsonp({"cep":"19915300","logradouro":"Rua Adail Faria da Cunha","bairro":"Jardim Josefina","cidade":"Ourinhos","uf":"SP","estado":"S\u00e3o Paulo"});
