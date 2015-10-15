@@ -1,0 +1,1 @@
+jsonp({"cep":"21670230","logradouro":"Rua Soldado Jos\u00e9 L\u00f3pes Filho","bairro":"Marechal Hermes","cidade":"Rio de Janeiro","uf":"RJ","estado":"Rio de Janeiro"});
