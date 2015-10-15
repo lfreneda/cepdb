@@ -1,0 +1,1 @@
+jsonp({"cep":"24931630","logradouro":"Rua Jornalista Al\u00edpio dos Santos","bairro":"S\u00e3o Jos\u00e9 do Imbassa\u00ed","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});

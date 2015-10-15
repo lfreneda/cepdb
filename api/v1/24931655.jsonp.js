@@ -1,0 +1,1 @@
+jsonp({"cep":"24931655","logradouro":"Rua Santa Cec\u00edlia","bairro":"S\u00e3o Jos\u00e9 do Imbassa\u00ed","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"24937000","logradouro":"Rua Ant\u00f4nio Modesto de S\u00e1","bairro":"Recanto de Itaipua\u00e7u (Itaipua\u00e7u)","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});

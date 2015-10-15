@@ -1,0 +1,1 @@
+jsonp({"cep":"24943180","logradouro":"Rua Doutor Jo\u00e3o Gomes de Mattos Sobrinho","bairro":"Ino\u00e3 (Ino\u00e3)","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});

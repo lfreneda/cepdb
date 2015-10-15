@@ -1,0 +1,1 @@
+jsonp({"cep":"24935195","logradouro":"Rua M\u00e1rio C\u00e9sar Damasceno Valente","bairro":"Jardim Atl\u00e2ntico Oeste (Itaipua\u00e7u)","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});

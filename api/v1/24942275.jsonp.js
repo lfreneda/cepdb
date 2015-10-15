@@ -1,0 +1,1 @@
+jsonp({"cep":"24942275","logradouro":"Avenida Carlos Mariguella","bairro":"Ino\u00e3 (Ino\u00e3)","cidade":"Maric\u00e1","uf":"RJ","estado":"Rio de Janeiro"});
