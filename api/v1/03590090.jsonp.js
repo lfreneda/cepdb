@@ -1,0 +1,1 @@
+jsonp({"cep":"03590090","logradouro":"Rua Padre Estev\u00e3o de Oliveira","bairro":"Conjunto Habitacional Padre Manoel da N\u00f3brega","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

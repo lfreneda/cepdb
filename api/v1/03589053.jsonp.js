@@ -1,0 +1,1 @@
+jsonp({"cep":"03589053","logradouro":"Pra\u00e7a Ant\u00f4nio Hirohisa Ishi","bairro":"Conjunto Habitacional Padre Jos\u00e9 de Anchieta","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

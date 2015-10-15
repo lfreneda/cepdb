@@ -1,0 +1,1 @@
+jsonp({"cep":"03677090","logradouro":"Rua Porto do Ros\u00e1rio","bairro":"Jardim Tr\u00eas Marias","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
