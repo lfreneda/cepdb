@@ -1,0 +1,1 @@
+jsonp({"cep":"09962320","logradouro":"Travessa S\u00e3o Gon\u00e7alo","bairro":"Casa Grande","cidade":"Diadema","uf":"SP","estado":"S\u00e3o Paulo"});
