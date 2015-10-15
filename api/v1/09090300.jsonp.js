@@ -1,0 +1,1 @@
+jsonp({"cep":"09090300","logradouro":"Largo S\u00e3o Francisco","bairro":"Vila Alpina","cidade":"Santo Andr\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

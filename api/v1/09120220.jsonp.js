@@ -1,0 +1,1 @@
+jsonp({"cep":"09120220","logradouro":"Rua Magalh\u00e3es Barata","bairro":"Parque Gerassi","cidade":"Santo Andr\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});
