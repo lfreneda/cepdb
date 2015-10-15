@@ -1,0 +1,1 @@
+jsonp({"cep":"26060150","logradouro":"Rua Casimiro de Abreu","bairro":"Vila Fluminense","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

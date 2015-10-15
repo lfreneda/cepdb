@@ -1,0 +1,1 @@
+jsonp({"cep":"26085045","logradouro":"Rua Jos\u00e9 Ant\u00f4nio de Sena","bairro":"Inconfid\u00eancia","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});

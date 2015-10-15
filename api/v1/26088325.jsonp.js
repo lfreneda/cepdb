@@ -1,0 +1,1 @@
+jsonp({"cep":"26088325","logradouro":"Rua Ricardo Maur\u00edcio dos Santos Pereira","bairro":"Vila Guimar\u00e3es","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});
