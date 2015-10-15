@@ -1,0 +1,1 @@
+jsonp({"cep":"71697601","logradouro":"Condom\u00ednio Mans\u00f5es Bra\u00fana","bairro":"Residencial Itaipu (S\u00e3o Sebasti\u00e3o)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

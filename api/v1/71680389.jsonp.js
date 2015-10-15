@@ -1,0 +1,1 @@
+jsonp({"cep":"71680389","logradouro":"Condom\u00ednio Est\u00e2ncia Quintas da Alvorada","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

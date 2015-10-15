@@ -1,0 +1,1 @@
+jsonp({"cep":"71680388","logradouro":"Condom\u00ednio Fazenda Jardim Bot\u00e2nico Ch\u00e1cara 5","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

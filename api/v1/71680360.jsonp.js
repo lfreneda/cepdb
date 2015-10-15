@@ -1,0 +1,1 @@
+jsonp({"cep":"71680360","logradouro":"Condom\u00ednio Ecol\u00f3gico Village III","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"71680363","logradouro":"Condom\u00ednio Portal do Lago Sul","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

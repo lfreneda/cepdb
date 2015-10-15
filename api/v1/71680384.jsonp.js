@@ -1,0 +1,1 @@
+jsonp({"cep":"71680384","logradouro":"Condom\u00ednio Mans\u00f5es Bra\u00fana","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

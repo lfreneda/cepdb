@@ -1,0 +1,1 @@
+jsonp({"cep":"71680621","logradouro":"Condom\u00ednio Mini Ch\u00e1caras do Lago Sul","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

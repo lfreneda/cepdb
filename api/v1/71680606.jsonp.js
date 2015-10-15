@@ -1,0 +1,1 @@
+jsonp({"cep":"71680606","logradouro":"Condom\u00ednio Quinta Santa B\u00e1rbara","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

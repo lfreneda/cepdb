@@ -1,0 +1,1 @@
+jsonp({"cep":"71680348","logradouro":"Condom\u00ednio Priv\u00ea Morada Sul Etapa C","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

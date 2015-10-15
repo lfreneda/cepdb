@@ -1,0 +1,1 @@
+jsonp({"cep":"71680001","logradouro":"\u00c1rea Especial SMDB Esta\u00e7\u00e3o Ecol\u00f3gica Jardim Bot\u00e2nico de Bras\u00edlia","bairro":"Setor de Mans\u00f5es Dom Bosco","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

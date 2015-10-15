@@ -1,0 +1,1 @@
+jsonp({"cep":"71676030","logradouro":"\u00c1rea Especial SEDB Semin\u00e1rio Redemptoris Mater","bairro":"Setor de Habita\u00e7\u00f5es Individuais Sul","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"71680373","logradouro":"Condom\u00ednio Residencial Mans\u00f5es Itaipu","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

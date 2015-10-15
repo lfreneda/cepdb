@@ -1,0 +1,1 @@
+jsonp({"cep":"71608050","logradouro":"Aeroporto Setor de Concession\u00e1rias e Locadoras","bairro":"Setor de Habita\u00e7\u00f5es Individuais Sul","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

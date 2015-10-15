@@ -1,0 +1,1 @@
+jsonp({"cep":"71680392","logradouro":"S\u00edtio Santos Dumont Trecho 2","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

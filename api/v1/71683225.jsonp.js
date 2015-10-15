@@ -1,0 +1,1 @@
+jsonp({"cep":"71683225","logradouro":"Ch\u00e1cara Mans\u00f5es Mata da Anta Sede II","bairro":"Setor Habitacional Jardim Bot\u00e2nico (Lago Sul)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

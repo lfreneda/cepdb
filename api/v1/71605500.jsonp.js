@@ -1,0 +1,1 @@
+jsonp({"cep":"71605500","logradouro":"Quadra SHIS QI 3 \u00c1rea Especial 1 - Escola","bairro":"Setor de Habita\u00e7\u00f5es Individuais Sul","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

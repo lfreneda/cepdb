@@ -1,0 +1,1 @@
+jsonp({"cep":"71608972","logradouro":"Aeroporto Internacional de Bras\u00edlia Juscelino Kubitschek","bairro":"Setor de Habita\u00e7\u00f5es Individuais Sul","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
