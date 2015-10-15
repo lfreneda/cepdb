@@ -1,0 +1,1 @@
+jsonp({"cep":"45000860","logradouro":"Rua Caf\u00e9 Filho","bairro":"Centro","cidade":"Vit\u00f3ria da Conquista","uf":"BA","estado":"Bahia"});

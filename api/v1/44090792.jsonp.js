@@ -1,0 +1,1 @@
+jsonp({"cep":"44090792","logradouro":"Rua Mission\u00e1ria","bairro":"Tomba","cidade":"Feira de Santana","uf":"BA","estado":"Bahia"});

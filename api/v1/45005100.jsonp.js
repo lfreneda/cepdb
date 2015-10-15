@@ -1,0 +1,1 @@
+jsonp({"cep":"45005100","logradouro":"Rua Vidal de Negreiros","bairro":"Alto Maron","cidade":"Vit\u00f3ria da Conquista","uf":"BA","estado":"Bahia"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"44571100","logradouro":"Rua Virg\u00edlio Pereira da Silva","bairro":"Centro","cidade":"Santo Ant\u00f4nio de Jesus","uf":"BA","estado":"Bahia"});
