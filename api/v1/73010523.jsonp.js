@@ -1,0 +1,1 @@
+jsonp({"cep":"73010523","logradouro":"Quadra Central Bloco 13","bairro":"Sobradinho","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

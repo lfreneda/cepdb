@@ -1,0 +1,1 @@
+jsonp({"cep":"73005655","logradouro":"\u00c1rea Especial \u00c1rea Especial para Ind\u00fastria 5 M\u00f3dulo E","bairro":"Sobradinho","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
