@@ -1,0 +1,1 @@
+jsonp({"cep":"38410429","logradouro":"Rua Geraldo Abrah\u00e3o J\u00fanior","bairro":"S\u00e3o Jorge","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

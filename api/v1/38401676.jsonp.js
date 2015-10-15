@@ -1,0 +1,1 @@
+jsonp({"cep":"38401676","logradouro":"Rua Joana Marcelina de Alc\u00e2ntara","bairro":"Jardim Bras\u00edlia","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

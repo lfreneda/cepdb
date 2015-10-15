@@ -1,0 +1,1 @@
+jsonp({"cep":"38401724","logradouro":"Rua Jos\u00e9 Pedro Mendon\u00e7a","bairro":"Santa Rosa","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

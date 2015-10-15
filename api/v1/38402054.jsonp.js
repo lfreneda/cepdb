@@ -1,0 +1,1 @@
+jsonp({"cep":"38402054","logradouro":"Rua Josina Eliza da Concei\u00e7\u00e3o","bairro":"Marta Helena","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});

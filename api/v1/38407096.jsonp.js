@@ -1,0 +1,1 @@
+jsonp({"cep":"38407096","logradouro":"Rua Ed\u00e9sio Fernandes de Morais","bairro":"Conjunto Alvorada","cidade":"Uberl\u00e2ndia","uf":"MG","estado":"Minas Gerais"});
