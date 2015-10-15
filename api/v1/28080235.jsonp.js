@@ -1,0 +1,1 @@
+jsonp({"cep":"28080235","logradouro":"Rua Doutor Al\u00edpio","bairro":"Parque Vicente Gon\u00e7alves Dias","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

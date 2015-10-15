@@ -1,0 +1,1 @@
+jsonp({"cep":"28085490","logradouro":"Pra\u00e7a Nossa Senhora da Concei\u00e7\u00e3o","bairro":"Parque Santa Rosa","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

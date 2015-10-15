@@ -1,0 +1,1 @@
+jsonp({"cep":"28090660","logradouro":"Rua Ant\u00f4nio Cust\u00f3dio Andrade","bairro":"Parque Eldorado","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"28080214","logradouro":"Rua Sargento Am\u00e9rico Ara\u00fajo do Amaral","bairro":"Parque Vicente Gon\u00e7alves Dias","cidade":"Campos dos Goytacazes","uf":"RJ","estado":"Rio de Janeiro"});

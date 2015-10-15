@@ -1,0 +1,1 @@
+jsonp({"cep":"28605748","logradouro":"Rua Jo\u00e3o Ramos Valen\u00e7a","bairro":"Nova Su\u00ed\u00e7a","cidade":"Nova Friburgo","uf":"RJ","estado":"Rio de Janeiro"});

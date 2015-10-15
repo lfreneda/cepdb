@@ -1,0 +1,1 @@
+jsonp({"cep":"28634382","logradouro":"Rua Canto do Sabi\u00e1","bairro":"Riograndina","cidade":"Nova Friburgo","uf":"RJ","estado":"Rio de Janeiro"});
