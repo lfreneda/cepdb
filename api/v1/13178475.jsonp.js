@@ -1,0 +1,1 @@
+jsonp({"cep":"13178475","logradouro":"Rua Jos\u00e9 Gon\u00e7alves da Silva","bairro":"Parque Ideal (Nova Veneza)","cidade":"Sumar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

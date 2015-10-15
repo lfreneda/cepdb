@@ -1,0 +1,1 @@
+jsonp({"cep":"13178270","logradouro":"Rua Onze","bairro":"Parque Sevilha (Nova Veneza)","cidade":"Sumar\u00e9","uf":"SP","estado":"S\u00e3o Paulo"});

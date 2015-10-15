@@ -1,0 +1,1 @@
+jsonp({"cep":"13145358","logradouro":"Rua Jacarand\u00e1","bairro":"Alto de Pinheiros","cidade":"Paul\u00ednia","uf":"SP","estado":"S\u00e3o Paulo"});
