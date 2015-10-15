@@ -1,0 +1,1 @@
+jsonp({"cep":"49043080","logradouro":"Rua Expedicion\u00e1rio Jos\u00e9 Moreira Barbosa","bairro":"S\u00e3o Conrado","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});

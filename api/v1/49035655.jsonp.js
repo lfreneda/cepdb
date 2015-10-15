@@ -1,0 +1,1 @@
+jsonp({"cep":"49035655","logradouro":"Avenida Oce\u00e2nica","bairro":"Coroa do Meio","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});

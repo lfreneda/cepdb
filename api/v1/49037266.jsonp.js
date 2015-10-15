@@ -1,0 +1,1 @@
+jsonp({"cep":"49037266","logradouro":"Rua Manoel Lot\u00e9rio da Ressurrei\u00e7\u00e3o","bairro":"Aeroporto","cidade":"Aracaju","uf":"SE","estado":"Sergipe"});
