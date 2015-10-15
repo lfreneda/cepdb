@@ -1,0 +1,1 @@
+jsonp({"cep":"54352265","logradouro":"Rua das Ac\u00e1cias","bairro":"Muribeca","cidade":"Jaboat\u00e3o dos Guararapes","uf":"PE","estado":"Pernambuco"});

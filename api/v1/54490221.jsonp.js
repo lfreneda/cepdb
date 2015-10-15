@@ -1,0 +1,1 @@
+jsonp({"cep":"54490221","logradouro":"Rua Padre C\u00edcero","bairro":"Barra de Jangada","cidade":"Jaboat\u00e3o dos Guararapes","uf":"PE","estado":"Pernambuco"});

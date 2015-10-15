@@ -1,0 +1,1 @@
+jsonp({"cep":"54330445","logradouro":"Rua Oito","bairro":"Cajueiro Seco","cidade":"Jaboat\u00e3o dos Guararapes","uf":"PE","estado":"Pernambuco"});
