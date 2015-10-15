@@ -1,0 +1,1 @@
+jsonp({"cep":"71505201","logradouro":"\u00c1rea EPPN Canteiro Central Proje\u00e7\u00e3o 04","bairro":"Setor de Habita\u00e7\u00f5es Individuais Norte","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

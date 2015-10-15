@@ -1,0 +1,1 @@
+jsonp({"cep":"71530300","logradouro":"Quadra SHIN QI 16 \u00c1rea CLCongresso","bairro":"Setor de Habita\u00e7\u00f5es Individuais Norte","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

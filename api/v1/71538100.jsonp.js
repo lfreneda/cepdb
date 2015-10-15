@@ -1,0 +1,1 @@
+jsonp({"cep":"71538100","logradouro":"N\u00facleo Rural C\u00f3rrego do Torto Trecho 1","bairro":"Setor de Habita\u00e7\u00f5es Individuais Norte","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

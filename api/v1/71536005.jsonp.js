@@ -1,0 +1,1 @@
+jsonp({"cep":"71536005","logradouro":"Setor de Ch\u00e1caras Trecho 01 Ch\u00e1cara 67","bairro":"Setor de Habita\u00e7\u00f5es Individuais Norte","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

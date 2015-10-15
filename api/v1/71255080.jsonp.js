@@ -1,0 +1,1 @@
+jsonp({"cep":"71255080","logradouro":"\u00c1rea Especial \u00c1rea Especial 8","bairro":"Setor Central (Vila Estrutural - Guar\u00e1)","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

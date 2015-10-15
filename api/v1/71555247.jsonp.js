@@ -1,0 +1,1 @@
+jsonp({"cep":"71555247","logradouro":"Quadra Quadra 7 \u00c1rea Especial s/n","bairro":"Varj\u00e3o","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});

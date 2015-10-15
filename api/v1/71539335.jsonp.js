@@ -1,0 +1,1 @@
+jsonp({"cep":"71539335","logradouro":"Condom\u00ednio Priv\u00ea I Quadra 3 Conjunto G","bairro":"Setor de Mans\u00f5es do Lago Norte","cidade":"Bras\u00edlia","uf":"DF","estado":"Distrito Federal"});
