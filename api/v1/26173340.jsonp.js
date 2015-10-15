@@ -1,0 +1,1 @@
+jsonp({"cep":"26173340","logradouro":"Rua M\u00e1rio Serqueira Dur\u00e3o","bairro":"Parque Esperan\u00e7a","cidade":"Belford Roxo","uf":"RJ","estado":"Rio de Janeiro"});
