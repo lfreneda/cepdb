@@ -1,0 +1,1 @@
+jsonp({"cep":"14702236","logradouro":"Rua Miguel Gonzalez Lopes","bairro":"Jardim S\u00e3o Carlos","cidade":"Bebedouro","uf":"SP","estado":"S\u00e3o Paulo"});
