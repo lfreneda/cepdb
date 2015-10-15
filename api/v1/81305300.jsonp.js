@@ -1,0 +1,1 @@
+jsonp({"cep":"81305300","logradouro":"Rua S\u00edlvio Assump\u00e7\u00e3o","bairro":"Cidade Industrial","cidade":"Curitiba","uf":"PR","estado":"Paran\u00e1"});
