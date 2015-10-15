@@ -1,0 +1,1 @@
+jsonp({"cep":"25990190","logradouro":"Estrada C\u00f3rrego das Pedras","bairro":"C\u00f3rrego das Pedras","cidade":"Teres\u00f3polis","uf":"RJ","estado":"Rio de Janeiro"});

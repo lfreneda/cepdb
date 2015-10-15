@@ -1,0 +1,1 @@
+jsonp({"cep":"26010761","logradouro":"Rua Dona Ad\u00e9lia","bairro":"Parque Ulisses","cidade":"Nova Igua\u00e7u","uf":"RJ","estado":"Rio de Janeiro"});
