@@ -1,0 +1,1 @@
+jsonp({"cep":"72806180","logradouro":"Avenida Pianc\u00f3","bairro":"Parque Estrela Dalva V","cidade":"Luzi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

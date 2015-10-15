@@ -1,0 +1,1 @@
+jsonp({"cep":"72831120","logradouro":"Avenida S\u00e9rgio Buarque de Holanda","bairro":"Parque Estrela Dalva III","cidade":"Luzi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});

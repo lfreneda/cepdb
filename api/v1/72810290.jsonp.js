@@ -1,0 +1,1 @@
+jsonp({"cep":"72810290","logradouro":"Rua Jo\u00e3o Pessoa","bairro":"Diogo Machado de Ara\u00fajo","cidade":"Luzi\u00e2nia","uf":"GO","estado":"Goi\u00e1s"});
