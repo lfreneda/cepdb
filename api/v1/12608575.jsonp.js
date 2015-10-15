@@ -1,0 +1,1 @@
+jsonp({"cep":"12608575","logradouro":"Vila Coelho","bairro":"Santo Ant\u00f4nio","cidade":"Lorena","uf":"SP","estado":"S\u00e3o Paulo"});

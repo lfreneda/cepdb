@@ -1,0 +1,1 @@
+jsonp({"cep":"12510520","logradouro":"Rua Professor Jo\u00e3o Dorat","bairro":"Bosque dos Ip\u00eas","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

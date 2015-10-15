@@ -1,0 +1,1 @@
+jsonp({"cep":"12522150","logradouro":"Rua Vereador Oct\u00e1vio Nascimento Monteiro","bairro":"P\u00f3lo Industrial Jos\u00e9 Pires de Castro","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

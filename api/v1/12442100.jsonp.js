@@ -1,0 +1,1 @@
+jsonp({"cep":"12442100","logradouro":"Rua Soldado-Pol\u00edcia Militar Paulo Merces dos Santos","bairro":"Residencial Comercial Cidade Vista Alegre","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

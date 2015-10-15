@@ -1,0 +1,1 @@
+jsonp({"cep":"12444354","logradouro":"Avenida Maria Moreira Jacinto da Silva","bairro":"Residencial e Comercial Portal dos Eucaliptos","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

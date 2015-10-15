@@ -1,0 +1,1 @@
+jsonp({"cep":"12509490","logradouro":"Rua Expedicion\u00e1rio Benedito dos Santos Martins","bairro":"Parque S\u00e3o Francisco III","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12443580","logradouro":"Rua Padre Manoel da N\u00f3brega","bairro":"Conjunto Habitacional Terra dos Ip\u00eas I (Norte)","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

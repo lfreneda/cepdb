@@ -1,0 +1,1 @@
+jsonp({"cep":"12516480","logradouro":"Rua Professora Maria C\u00e2ndida Moreira Cardoso","bairro":"Parque Residencial Mirante do Vale","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

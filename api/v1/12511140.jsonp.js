@@ -1,0 +1,1 @@
+jsonp({"cep":"12511140","logradouro":"Rua Dona Maria Francisca Galv\u00e3o da Fran\u00e7a","bairro":"Vila Comendador Rodrigues Alves","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

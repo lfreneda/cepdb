@@ -1,0 +1,1 @@
+jsonp({"cep":"12441970","logradouro":"Avenida Doutor Jos\u00e9 Monteiro Machado C\u00e9sar","bairro":"Loteamento Jo\u00e3o Tamborindeguy Fernandes","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

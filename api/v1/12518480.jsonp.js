@@ -1,0 +1,1 @@
+jsonp({"cep":"12518480","logradouro":"Rua Bar\u00f4ncio Rodrigues de Medeiros","bairro":"Jardim Esperan\u00e7a","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

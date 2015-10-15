@@ -1,0 +1,1 @@
+jsonp({"cep":"12517130","logradouro":"Rua Doutor Ant\u00f4nio Andrade Costa","bairro":"Parque Residencial Anna Guilhermina Rois Alves","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12442130","logradouro":"Rua Waldomira Aparecida de Almeida Imediato","bairro":"Residencial Comercial Cidade Vista Alegre","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

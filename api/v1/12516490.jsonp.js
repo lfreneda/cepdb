@@ -1,0 +1,1 @@
+jsonp({"cep":"12516490","logradouro":"Rua Dom Ant\u00f4nio de Augusto Moraes J\u00fanior","bairro":"Parque Residencial Mirante do Vale","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

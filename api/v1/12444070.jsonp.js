@@ -1,0 +1,1 @@
+jsonp({"cep":"12444070","logradouro":"Rua S\u00e3o Jos\u00e9 do Barreiro","bairro":"Conjunto Habitacional Terra dos Ip\u00eas II (Fase II)","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

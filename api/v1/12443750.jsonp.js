@@ -1,0 +1,1 @@
+jsonp({"cep":"12443750","logradouro":"Rua Concei\u00e7\u00e3o de F\u00e1tima Teixeira","bairro":"Conjunto Habitacional Terra dos Ip\u00eas I (Sul)","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"12509325","logradouro":"Pra\u00e7a Maria de F\u00e1tima Barbosa Cust\u00f3dio","bairro":"Parque Residencial Andr\u00e9 Broca Filho","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});

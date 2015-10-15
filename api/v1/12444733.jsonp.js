@@ -1,0 +1,1 @@
+jsonp({"cep":"12444733","logradouro":"Avenida Plenom\u00e1rio de Andrade Sandim","bairro":"Loteamento Residencial e Comercial Araguaia","cidade":"Pindamonhangaba","uf":"SP","estado":"S\u00e3o Paulo"});

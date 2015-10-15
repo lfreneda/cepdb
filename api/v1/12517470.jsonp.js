@@ -1,0 +1,1 @@
+jsonp({"cep":"12517470","logradouro":"Avenida Vereadora \u00c1urea Maria de Jesus da Silva","bairro":"Parque Residencial Beira Rio","cidade":"Guaratinguet\u00e1","uf":"SP","estado":"S\u00e3o Paulo"});
