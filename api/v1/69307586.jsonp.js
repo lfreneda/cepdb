@@ -1,0 +1,1 @@
+jsonp({"cep":"69307586","logradouro":"Rua Capit\u00e3o Castro Mendes","bairro":"Ca\u00e7ari","cidade":"Boa Vista","uf":"RR","estado":"Roraima"});
