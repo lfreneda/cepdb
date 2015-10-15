@@ -1,0 +1,1 @@
+jsonp({"cep":"37005006","logradouro":"Rua Quintino Soares Rosa","bairro":"Sagrado Cora\u00e7\u00e3o","cidade":"Varginha","uf":"MG","estado":"Minas Gerais"});

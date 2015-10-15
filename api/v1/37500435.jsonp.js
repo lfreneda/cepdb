@@ -1,0 +1,1 @@
+jsonp({"cep":"37500435","logradouro":"Rua Ant\u00f4nio Sim\u00e3o Mauad","bairro":"Nossa Senhora da Agonia","cidade":"Itajub\u00e1","uf":"MG","estado":"Minas Gerais"});

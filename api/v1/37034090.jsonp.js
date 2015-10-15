@@ -1,0 +1,1 @@
+jsonp({"cep":"37034090","logradouro":"Rua Professor Tom\u00e9 Ant\u00f4nio Guimar\u00e3es","bairro":"Jardim \u00c1urea","cidade":"Varginha","uf":"MG","estado":"Minas Gerais"});

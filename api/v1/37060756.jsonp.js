@@ -1,0 +1,1 @@
+jsonp({"cep":"37060756","logradouro":"Avenida Le\u00f4nidas Leal","bairro":"Nossa Senhora das Gra\u00e7as III","cidade":"Varginha","uf":"MG","estado":"Minas Gerais"});
