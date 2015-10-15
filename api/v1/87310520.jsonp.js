@@ -1,0 +1,1 @@
+jsonp({"cep":"87310520","logradouro":"Rua Ant\u00f4nio Const\u00e2ncio de Souza","bairro":"Jardim Paulista","cidade":"Campo Mour\u00e3o","uf":"PR","estado":"Paran\u00e1"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"87206254","logradouro":"Avenida Coruja","bairro":"Conjunto Cianorte II","cidade":"Cianorte","uf":"PR","estado":"Paran\u00e1"});

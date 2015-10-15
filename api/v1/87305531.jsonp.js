@@ -1,0 +1,1 @@
+jsonp({"cep":"87305531","logradouro":"Rua Vereador Jos\u00e9 Dutra de A.Lira","bairro":"Conjunto Habitacional S\u00e3o Francisco de Assis","cidade":"Campo Mour\u00e3o","uf":"PR","estado":"Paran\u00e1"});

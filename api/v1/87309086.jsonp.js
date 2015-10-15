@@ -1,0 +1,1 @@
+jsonp({"cep":"87309086","logradouro":"Rua Vereador Geremias Cili\u00e3o de Ara\u00fajo","bairro":"Jardim Francisco Ferreira Albuquerque","cidade":"Campo Mour\u00e3o","uf":"PR","estado":"Paran\u00e1"});

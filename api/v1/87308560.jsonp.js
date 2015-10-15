@@ -1,0 +1,1 @@
+jsonp({"cep":"87308560","logradouro":"Rua Aristhoteles Xavier do Rego","bairro":"Jardim Bandeirantes","cidade":"Campo Mour\u00e3o","uf":"PR","estado":"Paran\u00e1"});

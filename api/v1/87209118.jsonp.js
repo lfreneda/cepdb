@@ -1,0 +1,1 @@
+jsonp({"cep":"87209118","logradouro":"Rua Solim\u00f5es","bairro":"Zona 03","cidade":"Cianorte","uf":"PR","estado":"Paran\u00e1"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"87309440","logradouro":"Rua Hort\u00eancia","bairro":"Jardim Modelo","cidade":"Campo Mour\u00e3o","uf":"PR","estado":"Paran\u00e1"});
