@@ -1,0 +1,1 @@
+jsonp({"cep":"29942768","logradouro":"Rua Betel","bairro":"Aroeira","cidade":"S\u00e3o Mateus","uf":"ES","estado":"Esp\u00edrito Santo"});

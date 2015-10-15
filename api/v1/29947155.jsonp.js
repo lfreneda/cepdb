@@ -1,0 +1,1 @@
+jsonp({"cep":"29947155","logradouro":"Estrada Snata Leoc\u00e1rdia-Ant\u00f4nio Gomes","bairro":"Santa Leoc\u00e1dia (Nova Verona)","cidade":"S\u00e3o Mateus","uf":"ES","estado":"Esp\u00edrito Santo"});

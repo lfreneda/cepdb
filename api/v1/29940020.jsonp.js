@@ -1,0 +1,1 @@
+jsonp({"cep":"29940020","logradouro":"Estrada C\u00f3rrego da T\u00e1bua","bairro":"S\u00e3o Benedito","cidade":"S\u00e3o Mateus","uf":"ES","estado":"Esp\u00edrito Santo"});

@@ -1,0 +1,1 @@
+jsonp({"cep":"29946025","logradouro":"Rua S\u00e3o Daniel Comboni","bairro":"Guriri Norte","cidade":"S\u00e3o Mateus","uf":"ES","estado":"Esp\u00edrito Santo"});
