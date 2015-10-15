@@ -1,0 +1,1 @@
+jsonp({"cep":"02357170","logradouro":"Pra\u00e7a Beneficente","bairro":"Trememb\u00e9","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

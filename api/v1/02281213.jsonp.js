@@ -1,0 +1,1 @@
+jsonp({"cep":"02281213","logradouro":"Rua Raimundo Eduardo da Silva","bairro":"Conjunto Habitacional Jova Rural","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});

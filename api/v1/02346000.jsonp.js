@@ -1,0 +1,1 @@
+jsonp({"cep":"02346000","logradouro":"Avenida Professora Virg\u00edlia Rodrigues Alves de Carvalho Pinto","bairro":"Jardim Leonor Mendes de Barros","cidade":"S\u00e3o Paulo","uf":"SP","estado":"S\u00e3o Paulo"});
