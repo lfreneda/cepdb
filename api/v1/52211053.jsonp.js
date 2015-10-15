@@ -1,0 +1,1 @@
+jsonp({"cep":"52211053","logradouro":"2\u00aa Travessa Pastor Evang\u00e9lico Ben\u00f3by Carvalho de Souza","bairro":"\u00c1gua Fria","cidade":"Recife","uf":"PE","estado":"Pernambuco"});

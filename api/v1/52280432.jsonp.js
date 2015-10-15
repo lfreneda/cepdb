@@ -1,0 +1,1 @@
+jsonp({"cep":"52280432","logradouro":"Rua Urucara","bairro":"Alto Jos\u00e9 Bonif\u00e1cio","cidade":"Recife","uf":"PE","estado":"Pernambuco"});

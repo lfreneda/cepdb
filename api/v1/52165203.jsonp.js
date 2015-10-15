@@ -1,0 +1,1 @@
+jsonp({"cep":"52165203","logradouro":"2\u00aa Travessa Frei Dami\u00e3o","bairro":"Passarinho","cidade":"Recife","uf":"PE","estado":"Pernambuco"});

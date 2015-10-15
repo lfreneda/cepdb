@@ -1,0 +1,1 @@
+jsonp({"cep":"52160365","logradouro":"Rua Expedicion\u00e1rio Jesu\u00edno Ventura","bairro":"Dois Unidos","cidade":"Recife","uf":"PE","estado":"Pernambuco"});
