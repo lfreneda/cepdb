@@ -1,0 +1,1 @@
+jsonp({"cep":"88060335","logradouro":"Servid\u00e3o Acelino Epif\u00e2nio dos Santos","bairro":"S\u00e3o Jo\u00e3o do Rio Vermelho","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

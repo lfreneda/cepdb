@@ -1,0 +1,1 @@
+jsonp({"cep":"88062105","logradouro":"Servid\u00e3o Professor Bonif\u00e1cio Francisco Vieira","bairro":"Lagoa da Concei\u00e7\u00e3o","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

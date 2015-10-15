@@ -1,0 +1,1 @@
+jsonp({"cep":"88062601","logradouro":"Pra\u00e7a Cl\u00e1udio Ricardo Hahn da Silva - Miro","bairro":"Lagoa da Concei\u00e7\u00e3o","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

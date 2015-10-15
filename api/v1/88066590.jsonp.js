@@ -1,0 +1,1 @@
+jsonp({"cep":"88066590","logradouro":"Servid\u00e3o dos Jacar\u00e9s-de-Papo-Amarelo","bairro":"Arma\u00e7\u00e3o do P\u00e2ntano do Sul","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

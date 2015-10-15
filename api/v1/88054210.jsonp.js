@@ -1,0 +1,1 @@
+jsonp({"cep":"88054210","logradouro":"Rua Hyp\u00f3lito Greg\u00f3rio Pereira","bairro":"Canasvieiras","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

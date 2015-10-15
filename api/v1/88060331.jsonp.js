@@ -1,0 +1,1 @@
+jsonp({"cep":"88060331","logradouro":"Rua Expedicion\u00e1rio Braz Laurindo de Souza","bairro":"S\u00e3o Jo\u00e3o do Rio Vermelho","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

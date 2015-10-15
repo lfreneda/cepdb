@@ -1,0 +1,1 @@
+jsonp({"cep":"88061295","logradouro":"Travessa Antonio Jacinto Martins","bairro":"Barra da Lagoa","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

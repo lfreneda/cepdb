@@ -1,0 +1,1 @@
+jsonp({"cep":"88060320","logradouro":"Servid\u00e3o Ant\u00f4nio Tiago Nunes","bairro":"S\u00e3o Jo\u00e3o do Rio Vermelho","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

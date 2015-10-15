@@ -1,0 +1,1 @@
+jsonp({"cep":"88066507","logradouro":"Servid\u00e3o Manoel Ampilh\u00f3quio Pires","bairro":"Arma\u00e7\u00e3o do P\u00e2ntano do Sul","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});

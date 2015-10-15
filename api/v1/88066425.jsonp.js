@@ -1,0 +1,1 @@
+jsonp({"cep":"88066425","logradouro":"Servid\u00e3o Jo\u00e3o Euz\u00e9bio de S\u00e1","bairro":"Arma\u00e7\u00e3o do P\u00e2ntano do Sul","cidade":"Florian\u00f3polis","uf":"SC","estado":"Santa Catarina"});
