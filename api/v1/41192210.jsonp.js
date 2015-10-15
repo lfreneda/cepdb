@@ -1,0 +1,1 @@
+jsonp({"cep":"41192210","logradouro":"Travessa S\u00e3o Roque de Narandiba","bairro":"Narandiba","cidade":"Salvador","uf":"BA","estado":"Bahia"});
