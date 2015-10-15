@@ -1,0 +1,1 @@
+jsonp({"cep":"53427770","logradouro":"Rua Ant\u00f4nio Nilo Varela","bairro":"Maria Farinha","cidade":"Paulista","uf":"PE","estado":"Pernambuco"});

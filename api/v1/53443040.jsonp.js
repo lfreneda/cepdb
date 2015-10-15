@@ -1,0 +1,1 @@
+jsonp({"cep":"53443040","logradouro":"Rua Reden\u00e7\u00e3o","bairro":"Vila Torres Galv\u00e3o","cidade":"Paulista","uf":"PE","estado":"Pernambuco"});
