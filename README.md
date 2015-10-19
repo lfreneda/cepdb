@@ -23,3 +23,15 @@ cepdb.com.br/v0.1/{cep}.json
     "estado":"S%C3%A3o%20Paulo"
 }
 ```
+
+## Quer ajudar? 
+
+- [ ] Criar home do site
+- [ ] Melhor README @ Github
+- [ ] Criar libraries e packages para principais linguagens
+    - [ ] C#
+    - [ ] javascript
+    - [ ] ruby
+    - [ ] python
+    - [ ] java
+- [ ] Acrescentar latitude e longitude por cep
