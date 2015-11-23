@@ -1,8 +1,8 @@
 # cepdb
-API de cep com acesso gratuito construida de maneira colaborativa(pull requests) hospedada com [Github Pages](https://pages.github.com/).
+API de cep(brasileiros, claro) com acesso gratuito e construida de maneira colaborativa(pull requests) hospedada com [Github Pages](https://pages.github.com/).
 
 ## Como funciona?
-cepdb usa [Github Pages](https://pages.github.com/) como hosting (afinal, são arquivos estáticos) e usamos [JSONP](https://pt.wikipedia.org/wiki/JSONP) para "burlar" o [same origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) 
+cepdb usa [Github Pages](https://pages.github.com/) como hosting (afinal, são arquivos estáticos) e usamos [JSONP](https://pt.wikipedia.org/wiki/JSONP) para "burlar" o [same origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) e estar disponível "across" diferentes domains.
 
 ## Como contribuir?
 O repositório é construído de maneira colaborativa / open source. 
@@ -11,7 +11,8 @@ Simples né?
 
 ## Como usar? 
 
-Javascript:
+Vanilla Javascript:
+
 ```javascript
     function jsonp(data) {
         alert(JSON.stringify(data));
