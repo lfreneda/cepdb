@@ -22,7 +22,26 @@ Vanilla Javascript:
     document.getElementsByTagName('head')[0].appendChild(script);
 ```
 
+[CepDb Javascript plugin](https://github.com/lfreneda/cepdb-js):
+
+```javascript
+    var cepDb = new CepDb();
+
+    cepDb.search('05422010', {
+        onSuccess: function(data) {
+            alert(JSON.stringify(data));
+        },
+        onTimeout: function() {
+            alert('timed out :(');
+        }
+    });
+```
+
 ### Exemplos 
 
 - [examples/using-simple-jsonp.html](https://github.com/lfreneda/cepdb/blob/gh-pages/examples/using-simple-jsonp.html)
 - [examples/using-javascript-plugin.html](https://github.com/lfreneda/cepdb/blob/gh-pages/examples/using-javascript-plugin.html)
+
+### Projetos relacionados
+
+- [javascript plugin](https://github.com/lfreneda/cepdb-js) - Vanilla javascript plugin para facilitar o consumo da api
