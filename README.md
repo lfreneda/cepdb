@@ -24,9 +24,22 @@ Vanilla Javascript:
 
 [CepDb Javascript plugin](https://github.com/lfreneda/cepdb-js):
 
+- Install it with [bower](http://bower.io/)
+
+```javascript
+    bower install cepdb-js
+```
+
+- Add a script a tag for `cepdb-js/index.js`
+
+```html
+    <script src="/bower_components/cepdb-js/index.js"></script>
+```
+
+- And finally:
+
 ```javascript
     var cepDb = new CepDb();
-
     cepDb.search('05422010', {
         onSuccess: function(data) {
             alert(JSON.stringify(data));
