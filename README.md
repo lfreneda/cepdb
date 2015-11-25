@@ -24,19 +24,19 @@ Vanilla Javascript:
 
 [CepDb Javascript plugin](https://github.com/lfreneda/cepdb-js):
 
-- Install it with [bower](http://bower.io/)
+- Instalação com [bower](http://bower.io/)
 
 ```javascript
     bower install cepdb-js
 ```
 
-- Add a script a tag for `cepdb-js/index.js`
+- Adicione uma tag script para o script `cepdb-js/index.js`
 
 ```html
     <script src="/bower_components/cepdb-js/index.js"></script>
 ```
 
-- And finally:
+- E finalmente:
 
 ```javascript
     var cepDb = new CepDb();
