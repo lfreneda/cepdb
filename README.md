@@ -30,7 +30,7 @@ Vanilla Javascript:
     bower install cepdb-js
 ```
 
-- Adicione uma tag script para o script `cepdb-js/index.js`
+- Adicione uma tag script para o arquivo `cepdb-js/index.js`
 
 ```html
     <script src="/bower_components/cepdb-js/index.js"></script>
