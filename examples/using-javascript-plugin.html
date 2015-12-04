@@ -2,9 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Exemplo usando javascript plugin</title>
+    <script src="http://cepdb.com.br/plugins/cepdb.js"></script>
 </head>
 <body>
-
+<script type="text/javascript">
+var cepDb = new CepDb();
+cepDb.search('05422010', {
+    onSuccess: function(data) {
+        alert(JSON.stringify(data));
+    },
+    onTimeout: function() {
+        alert('timed out :(');
+    }
+});
+</script>
 </body>
 </html>
