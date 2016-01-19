@@ -5,7 +5,7 @@ API de cep(brasileiros, claro) com acesso gratuito e construida de maneira colab
 cepdb usa [Github Pages](https://pages.github.com/) como hosting (afinal, são arquivos estáticos) e usamos [JSONP](https://pt.wikipedia.org/wiki/JSONP) para "burlar" o [same origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) e estar disponível "across" diferentes domains.
 
 ## Como contribuir?
-O repositório é construído de maneira colaborativa / open source. 
+O repositório é construído de maneira colaborativa. 
 Se você identificar que está faltando algum CEP ou quiser complementar as informações de um CEP existente, basta submeter um [pull request](https://help.github.com/articles/using-pull-requests/) com a correção.
 Simples né?
 
