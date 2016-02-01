@@ -58,4 +58,5 @@ Vanilla Javascript:
 ### Projetos relacionados
 
 - [javascript plugin](https://github.com/lfreneda/cepdb-js) - Vanilla javascript plugin para facilitar o consumo da api
+- [node client](https://github.com/lfreneda/node-cepdb) - cliente node para consultar ceps no cepdb
 - [angularjs provider](https://github.com/lfreneda/ngCepDbProvider) - Angularjs provider wrapper for cepdb-js plugin
