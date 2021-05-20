@@ -1,0 +1,1 @@
+jsonp({"cep":"13518736","logradouro": "Avenida Corumbata\u00ed","bairro":"Recreio","cidade":"Charqueada","uf":"SP","estado":"S\u00e3o Paulo"});
